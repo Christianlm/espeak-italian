@@ -1,4 +1,5 @@
-﻿abazia $3
+﻿
+abazia $3
 abba $2
 abbadia $3
 abbaino  ab:a'i:no
@@ -232,7 +233,6 @@ antincendi  $alt
 antinoe $2
 antiope $2
 antipatr $2
-antipsichiatria $5
 antisepsi  $alt
 antisom $3  $alt
 antitesi $2
@@ -424,7 +424,6 @@ bachec  $alt
 badia $2
 badile $2
 bage $2
-bagli  bal^'i
 bagnol $2
 bagnoli $2
 bagnoregi  $alt
@@ -446,7 +445,6 @@ baratr $1
 barbabietol $3  $alt
 barbaner  $alt2
 barbar $1
-barber $1
 baricentr  $alt
 barile $2
 bariton $2
@@ -1431,6 +1429,8 @@ equi  $alt
 equidi  $alt
 equilater $3
 equipe $1
+equivoc	$2
+equivoche	$2
 equo  $alt
 eraclit $2
 eratostene $3
@@ -1550,7 +1550,6 @@ fascett  $alt2
 fascin $1
 fatic $2
 fattispecie  $alt
-fattoria $3
 fauglia $2
 feb  $alt
 febbre  $alt
@@ -1710,7 +1709,6 @@ gaudenzi  $alt
 ge  $alt
 gebel  $alt
 gec  $alt
-gematria $3
 gemin $1
 gemit $1
 generazione  $alt
@@ -1833,7 +1831,6 @@ icositetraedr  $alt
 iddi $2
 identic  $alt
 identikit $4
-idolatria $4
 idoneo $2  $alt
 idrocefal $3  $alt
 idrocors  $alt2
@@ -2525,7 +2522,6 @@ ocean $2
 od  $alt
 ode  $alt
 odi  $alt
-odontoiatria $6
 odontotecnic  $alt
 ofant $1  $alt
 offid  $alt
