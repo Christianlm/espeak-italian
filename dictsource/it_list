@@ -605,7 +605,6 @@ etn'ie	etn'ie
 fantasie	fantaz'ie
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
-fattorie	$3
 femminili	$3
 ferita	$2
 filosofie	filozof'ie
@@ -659,12 +658,17 @@ nessun	$u2+
 no		nO
 non	$u
 nuocciono	$alt
+olfattori	$3
 omogenea	$3
 opera	$1
 operai	opER'ai
 operaio	opeR'ajo
 ottime	$1
-ozono	$2
+ovviamente	ov:iam'Ente
+ovvie	'ov:ie
+ovvia	'ov:ia
+ovvietà	ov:iet'a
+ozono	$2 $alt2
 parodie	pa@-*od'ie
 passegger	$3
 patologie	patolodZ'ie
@@ -674,7 +678,7 @@ patrono	$2
 peggior	$u3+
 peripezia	$4
 peripezie	pe@-*ipets'ie
-pero	$1
+pero	$1 $alt
 petrolifer	$3
 pistola	$2
 poesie	poez|'ie
@@ -725,7 +729,6 @@ sterline	$2
 strategie	st@-*atedZ'ie
 stupidaggini	$3
 succube	$1
-suicid	$3
 superfice	$3
 superstiti	$2
 temporanee	$3
@@ -734,7 +737,6 @@ tendini	$1
 teorie	$3
 tesser		tess'ER
 titoli	$1
-trattorie	$3
 tuttavia	tut:av'ia	$u
 uffici	$2
 ultimi	$1
@@ -778,7 +780,6 @@ catia	$1
 chaplin	tS'apliN
 charlie	tS'a@-*li
 chicago	tSikago
-ciro	$1
 cremona	$2
 danilo	$2
 dionigi	$3
@@ -815,7 +816,6 @@ luigi	lw2'idZi
 luigia	lu'idZa
 manchester	_^_EN
 mantova	$1
-mara	$1
 michelangelo	$3
 mike	_^_EN
 modena	$1
@@ -1080,7 +1080,6 @@ crederci	$1
 credetemi	$2
 crescano	$1
 cucinano	$2
-dare	$1
 deambulano	de'ambulano
 debbano	$1
 debuttino	$2
@@ -1266,7 +1265,6 @@ muovetevi	$3
 muoviti	$2
 mutano	$1
 nascano	$1
-nati	$1
 navigano	$1
 navigh	$1
 necessita	$2
@@ -1285,7 +1283,6 @@ ottengano	$2
 pagano	$1
 paghino	$1
 palpita	$1
-pare	$1
 parlano	$1
 parlino	$1
 partano	$1
@@ -1507,3 +1504,30 @@ poter	$2	$u+
 guardar	gua@-*d'a@-*	$u+
 mostrar		$2	$u+
 voler	$1	$u+
+scoppiano	$1
+assumersi	$2
+aumentano	$3
+avvia	av:'ia
+cancellami	$2
+coincide	kOintS'ide
+decid	$2
+determina	$2
+incrociano	$2
+intasiamo	intazi'amo
+offertogli	$2
+preannunciano	$3
+procurano	$2
+prestano	$1
+restano	$1
+riconoscevano	$4
+ritirano	$2
+saper	$2
+sorrid	$2
+stabilitosi	$3
+suicid	$3
+tenevano	$2
+tentano	$1
+tesser	$1
+trovino	$1
+uccida	$2
+vattene	$1
