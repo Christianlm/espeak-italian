@@ -1,6 +1,6 @@
-// translation rules
+// Italian translation rules
 // This file is UTF-8 encoded
-
+// Last update: 2013-11-01 Chris, Christian Leo M, <llajta2012@cmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -21,10 +21,8 @@
 		ai (K   aI
                 ao (_N   aU
                 au	a%u
-
 	@C)	a (_S1q  a     // lookup it_list without suffix
 	@i)	a (_S1q  a     // lookup it_list without suffix
-
 	@)	a (cA_	=a
 	@)	a (che_	=a
 		a (istA_  a
@@ -32,12 +30,12 @@
 	@)	a (bile_  'a
 	@)	a (ggine_ 'a
 
-	_)	ae (r    aI
+	_)	ae (r    aE
 //	@)	a (no_	=a     //ByFilo, this seems to make it_listx longer
 	@)	avano (_S5  'avano
 		a (tterA_   'a
-
      _) all' (P4t     all
+     _) anch' (P5t     ank
 	@) amo (L04_	'amo
 
 .group à
@@ -71,6 +69,7 @@
 
      _) dall' (P5t     dall
      _) dell' (P5t     dell
+	decider (L04	detS'ide@-*
 
 .group e
 		e        e

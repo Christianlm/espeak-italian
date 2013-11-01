@@ -1,5 +1,5 @@
 ﻿// This file is UTF-8 encoded
-
+// Updated 2013-11-01 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -454,7 +454,7 @@ application	_^_EN
 backup	bek'ap
 bancomat	$1
 beep	_^_EN
-boom	bum:
+boom	bum
 bordeaux	_^_FR
 braille	brail:
 buffer	b'afe@-*
@@ -495,14 +495,14 @@ iphone		_^_EN
 jaws		dZo:s
 jazz		_^_EN
 jeans		dZi:ns
-leader	lide@-*
+leader	lidE@-*
 macintosh	_^_EN
 mail	m'eil
 microsoft		_^_EN
 monitor	$1
 mouse	maus
 new	_^_EN
-news	ni'w2s
+news	ni'us
 nomination	nomIn'eSon
 nylon	n'aIlon
 office		_^_EN
@@ -520,19 +520,20 @@ speaker		_^_EN
 team		_^_EN
 thunderbird		_^_EN
 time		_^_EN
-timer		_^_EN
+timer		t'aIme@-*
 touch	_^_EN
 update		ap||d'eit
 videogames		_^_EN
 vodafone	v'odafon
 voilà	_^_FR
 wave		_^_EN
-web		web
+web		wEb
 windows		_^_EN
 wireless		_^_EN
 wow		_^_EN
 yahoo		_^_EN
 yoghourt	'jogurt
+zoom	tsu:m
 (e speak)		isp'ik:
 (i phone)		'aI||fon
 (you tube)	_^_EN
@@ -569,6 +570,7 @@ autonomie	autonom'ie
 avarie	$3
 baritono	$3
 becera	$1
+beneficio	$3
 biotecnologie	bioteknolodZ'ie
 bizzarria	$3
 bizzarrie	$3
@@ -1027,6 +1029,7 @@ avviano	av:'iano
 baciano	$1
 badano	$1
 batterlo	$1
+benedic	$3
 bevano	$1
 bocciano	$1
 boccino	$1
@@ -1068,6 +1071,7 @@ compiere	$1	$alt2
 completano	$2
 compongano	$2
 comprendano	$2
+comunicano	$2
 concentrano	$2
 concentrino	$2
 concludano	$2
