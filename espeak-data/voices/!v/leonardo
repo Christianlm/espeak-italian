@@ -1,0 +1,26 @@
+language variant
+name leonardo
+tunes s4 c4 q4 e4
+
+pitch 84 114
+formant 0 100 130 145 70
+formant 1 87 82 104
+formant 2 104 92 80
+formant 3 105 94 90
+formant 4 129 80 98
+formant 5 180 8 110
+formant 6 198 60 80
+formant 7 85 20 82
+formant 8 119 45 80
+
+// intonation 0
+echo 38 46
+tone 600 196  1100 197 2000 187
+flutter 3
+roughness 1
+voicing 88
+consonants 125 96
+speed 130
+stressAdd 13 13 17 17 17 21 21 19
+stressAmp 16 12 16 16 18 20 20 23
+
