@@ -377,7 +377,7 @@ sarebbero	$u2+
 
 // aux verb, to have
 aver	$u2+
-ho	$u //$double
+ho	$u+ //$double
 hai	'aj	$u+  //$double
 ha	a	$u+   //$double
 abbiamo	$u+
@@ -618,7 +618,7 @@ episodi	$3
 epoche	$1
 erronea	$2
 eter	$1	$alt2
-etn'ie	etn'ie
+etnie	etn'ie
 fantasie	fantaz'ie
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
@@ -729,7 +729,6 @@ rullio	$2
 sacrestie	sak@-*est'ie
 sacrifici	$3
 sagac	$2
-sale	$1
 satelliti	$2
 sature	$1
 scandinavi	$2
@@ -740,6 +739,7 @@ scomoda	$1
 scricchiolio	$4
 scurrile	$2
 semitono	$3
+seria	$1 $alt2
 serie	$1
 simpatie	simpat'ie
 sinonimi	$2
@@ -754,14 +754,14 @@ stupidaggini	$3
 succube	$1
 superfice	$3
 superstiti	$2
-tecnologie	$4
+tecnologie	teknolodZ'ie
 temporanee	$3
 tenaci	$2
 tendini	$1
 teorie	$3
 tesser		tess'ER
 titoli	$1
-tuttavia	tut:av'ia	$u
+tuttavia	tut:av'ia	$u+
 uffici	$2
 ultime	$1
 ultimi	$1
@@ -774,8 +774,7 @@ vittime	$1
 vivaci	$2
 vocaboli	$2
 voragini	$2
-
-watt	vatt[
+watt	vat[:
 
 //  countries, Proper names and locations and languages
 
@@ -1558,7 +1557,7 @@ utilizzalo	$3
 vadano	$1
 valgano	$1
 valuta	$1
-vattene	$1
+vattene	$1 $strend
 vedano	$1
 vengano	$1
 venivano	$2
