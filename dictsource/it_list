@@ -72,7 +72,7 @@ _tld	t'ilde
 +	pju	$max3
 /	slaS	$max3
 \	bakslaS	$max3
-₤       li@-*a
+₤       lI@-*a
 £       sterl'ina
 &	_e
 €	'euro
@@ -262,20 +262,20 @@ cioè	$u+
 come	$u+
 contro     $1      // against
 cui	k'uj
-durante    $brk       // during
+durante    $u $brk       // during
 e		$u $brk // $double  // and
 eccetto    $pause       // except
 ed		$u $brk
-ma	$u
+ma	$u+ $brk
 mai	$u+
-mentre	$u
+mentre	$u+
 né              $u	$brk  $only     // neither-nor
-o		$u $brk // $double  // or
+o		$u+ $brk // $double  // or
 oltre	$u+
 perché		$u+ $brk      // because
-pertanto        $u	$brk      // therefore
+pertanto        $u+	$brk      // therefore
 pure		$u1+
-se		$u     // if
+se		$u+     // if
 senza     $u1+        // without
 sopra	   $1 	// above
 sotto	   $1 $alt2	// below
@@ -507,6 +507,7 @@ nomination	nomIn'eSon
 nylon	n'aIlon
 office		_^_EN
 philips	f'ilips
+play	pl'EI
 privacy	p@-*'aivazi
 puzzle	p'atsol
 python	_^_EN
@@ -517,10 +518,11 @@ snack		_^_EN
 software	_^_EN
 spanish		_^_EN
 speaker		_^_EN
+tailleur	_^_FR
 team		_^_EN
 thunderbird		_^_EN
 time		_^_EN
-timer		t'aIme@-*
+timEr		t'aIme@-*
 touch	_^_EN
 update		ap||d'eit
 videogames		_^_EN
@@ -533,7 +535,7 @@ wireless		_^_EN
 wow		_^_EN
 yahoo		_^_EN
 yoghourt	'jogurt
-zoom	tsu:m
+zoom	dzu:m
 (e speak)		isp'ik:
 (i phone)		'aI||fon
 (you tube)	_^_EN
@@ -541,7 +543,7 @@ zoom	tsu:m
 // Main  Dictionary
 
 acrobazia	$4
-aereo		a'EReo
+aereo		a'eReo
 agenzie	adZents'ie
 alcun	$u2+
 algebra	$1
@@ -596,7 +598,6 @@ compatrono	$3
 conoscerla	$2
 contemporanea	$4
 contumace	$3
-costi	$1	$alt
 crimini	$1
 cuor	ku'o@-*
 debol	$1
@@ -761,7 +762,7 @@ tendini	$1
 teorie	$3
 tesser		tess'ER
 titoli	$1
-tuttavia	tut:av'ia	$u+
+tuttavia	tut:av'ia
 uffici	$2
 ultime	$1
 ultimi	$1
@@ -958,7 +959,7 @@ aggiungetela	$3
 agitano	$1
 agiti	$1
 agitino	$1
-aiutali	aj'utali	 $u+
+aiutali	aj'utali	
 aiutano	aj'utalo
 alimentano	$3
 alimentino	$3
@@ -1076,6 +1077,7 @@ concentrino	$2
 concludano	$2
 concorrano	$2
 condividano	$3
+condono	$2
 conferiscano	$3
 confermano	$2
 confermino	$2
@@ -1108,7 +1110,6 @@ convivano	$2
 coordina	$2
 coordinano	$2
 corrispondano	$3
-costa	$1
 costringano	$2
 creano	$1
 credano	$1
@@ -1126,7 +1127,7 @@ decifrano	$2
 decomprimano	$3
 decorrano	$2
 dedalo	$1
-dedicano	$1
+dedical	$1
 dedicano	$1
 dedichino	$1
 delimit	$2
@@ -1197,7 +1198,6 @@ esplicitano	$2
 esplicitavano	$4
 espongano	$2
 esprimersi	$2
-essermi	$1
 estendano	$2
 evidenziano	$3
 evit	$1
@@ -1235,6 +1235,7 @@ implementino	$3
 impongano	$2
 incaricano	$2
 incastrano	$2
+inaugura	inaugu@-*'aRE
 incidano	$1
 incit	$1
 incontrano	$2
@@ -1419,6 +1420,7 @@ rientrino	$2
 riescano	$2
 riguardano	$2
 rigurgita	$2
+rimanere	$3
 rimangano	$2
 rincorrerla	$2
 ringraziano	$2
@@ -1473,6 +1475,7 @@ sentivano	$2
 separano	$2
 separino	$2
 servano	$1
+servino	$1
 sfidano	$1
 sfidino	$1
 sfilano	$1
