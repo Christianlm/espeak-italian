@@ -457,7 +457,7 @@ bancomat	$1
 beep	_^_EN
 boom	bum
 bordeaux	_^_FR
-braille	brail:
+braille	b@-*ail:
 buffer	b'afe@-*
 business	_^_EN
 byte	_^_EN
@@ -466,10 +466,10 @@ change	tS'EindZ
 channel	tS'anel
 chat		_^_EN
 check	tSEk:
-city	s'itI
+city	s'ItI
 cliché		kli:S'e
 computer	kompj'uter
-couscous	k'us||k,us
+couscous	k,us||k'us
 database	datab'Eiz
 deejay		_^_EN
 default	_^_EN
@@ -493,11 +493,13 @@ hardware	'ardw2eR
 internet	'inte@-*net
 iperlink	,iper||l'ink
 iphone		_^_EN
+italy	$1
 jaws		dZo:s
 jazz		_^_EN
 jeans		dZi:ns
 leader	lidE@-*
 macintosh	_^_EN
+made	m'eId
 mail	m'eil
 microsoft		_^_EN
 monitor	$1
@@ -512,6 +514,7 @@ play	pl'EI
 privacy	p@-*'aivazi
 puzzle	p'atsol
 python	_^_EN
+setup	s,et||'ap
 skype		_^_EN
 smile	zmaIl
 smiley	_^_EN
@@ -523,7 +526,7 @@ tailleur	_^_FR
 team		_^_EN
 thunderbird		_^_EN
 time		_^_EN
-timEr		t'aIme@-*
+timer	t'aIme@-*
 touch	_^_EN
 update		ap||d'eit
 videogames		_^_EN
