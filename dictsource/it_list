@@ -272,6 +272,7 @@ mentre	$u+
 né              $u	$brk  $only     // neither-nor
 o		$u+ $brk // $double  // or
 oltre	$u+
+ormai	o@-*m'aI
 perché		$u+ $brk      // because
 pertanto        $u+	$brk      // therefore
 pure		$u1+
@@ -1028,6 +1029,7 @@ avvia	av:'ia
 avviano	av:'iano
 baciano	$1
 badano	$1
+basano	$1
 batterlo	$1
 benedic	$3
 bevano	$1

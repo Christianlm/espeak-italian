@@ -31,7 +31,6 @@
 	@)	a (ggine_ 'a
 
 	_)	ae (r    aE
-//	@)	a (no_	=a     //ByFilo, this seems to make it_listx longer
 	@)	avano (_S5  'avano
 		a (tterA_   'a
      _) all' (P4t     all
@@ -348,6 +347,9 @@
 		rr	R*
 	A)	r (A	R
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
+	C) rai (_	@-*'aI
+	A) rai (_	R'aI
+	rrai (_	R*'aI
 
 .group s
 		s	s
