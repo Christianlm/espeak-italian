@@ -628,6 +628,7 @@ fantasie	fantaz'ie
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
 femminili	$3
+ferie	$1 $alt
 ferita	$2
 filosofie	filozof'ie
 fischiettio	fiskiet:'io
@@ -640,6 +641,7 @@ frastuono	$2
 fugaci	$2
 garanzie	gaRants'ie
 genesi	$1
+ghiacciol	gIatS:'ol
 giovani	dZ'ovani
 giovanili	$3
 glicemia	glitSem'ia
@@ -738,6 +740,12 @@ satelliti	$2
 sature	$1
 scandinavi	$2
 schizzofrenia	$4
+scia	S'Ia
+sciabile	Si'abile
+sciacquii	S,akw2'Ij
+sciacquio	S,akw2'IO
+sciator	Siat'oR
+sciatric	Siat@-*'ItS
 scie	S'i%e
 scintillio	$3
 scomoda	$1
@@ -1464,6 +1472,9 @@ scambiano	$1
 scambino	$1
 scandiscano	$2
 scaricano	$1
+sciando	Si'andO
+sciare	Si'aRe
+sciato	Si'atO
 sconfinano	$2
 scoppiano	$1
 scoraggiano	$2
