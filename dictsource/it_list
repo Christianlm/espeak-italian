@@ -236,7 +236,7 @@ mi	$u+ $only
 ti	$u+ $only
 si      $u+ $only
 ci	$u+ $only
-vi	$u+ $only
+vi	vi $u+ $only
 li	$u+ $only
 me	$u+
 te	$u+
@@ -515,7 +515,8 @@ free		_^_EN
 gmail	dZI||m'eil
 google		_^_EN
 hardware	'ardw2eR
-internet	'inte@-*net
+home	ho:m
+internet	'inte@-*nEt
 iperlink	,iper||l'ink
 iphone		_^_EN
 italy	$1
