@@ -429,6 +429,46 @@
 		z (L01A	dz
 		@) zz (ano_	=ts:
 	ziono (_	tsi'Ono
+
+.group 0xce   // Greek letters
+// 0xce is the first byte of the utf-8 code for these characters
+
+	α	'alfa_
+	ά	'alfa_
+	β	b'eta_
+	γ	g'am:a_
+	δ	d'Elta_
+	ε	'EpsIlon
+	έ	'EpsIlon_
+	ζ	dz'eta||g@-*'eka
+	η	'e:ta||g@-*'eka
+	ή	'e:ta||g@-*'eka_
+	θ	t'e:ta||g@-*'eka_
+	ι	I'ota_
+	ί	I'ota_
+	κ	k'ap:a||g@-*'eka_
+	λ	l'ambda_
+	μ	m'ju:_
+	ν	n'ju:_
+	ξ	ks'I||g@-*'eka_
+	ο	'omIk@-*on_
+
+.group 0xcf   // Greek letters
+
+	π	p'I||g@-*'eka_
+	ρ	@-*'O||g@-*'eka_
+	σ	s'Igma_
+	ς	s'Igma_
+	τ	t'au_
+	υ	'IpsIlon_
+	ύ	'IpsIlon_
+	φ	f'I||g@-*'eka_
+	χ	k'I||g@-*'eka_
+	ψ	ps'I||g@-*'eka_
+	ω	om'ega_
+	ώ	om'ega_
+	ό	'omIk@-*on_
+
 .group
 
 gn	n^
@@ -456,7 +496,6 @@ _L16_)	: (_L17D_	||%E_||	// Say time
 	!)	!
 		?	_p'untointeRogat'ivo_
 	?)	?
-
         __)  - (_D         meno
         A_)  - (_D        _
         C_)  - (_D        _
