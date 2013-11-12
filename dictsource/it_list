@@ -107,7 +107,7 @@ _¿	p'unto||inteR*ogat'ivo||@-*ovES'ato
 
 // Language names
 _el	g@-*'ekO
-_cyr	tSIR'il:IkO
+_cyr	tSIR'il:IkO_:
 _hy	a@-*m'enO
 _he	eb@-*'aIkO
 _ar	'aRabO
@@ -129,6 +129,46 @@ _ka	dZeO@-*dZ'anO
 _ko	kore'anO
 _ja	dZap:on'ezE
 _zh	tSIn'ezE
+
+// Cyrillic letters
+
+а	_^_RU
+б	_^_RU
+в	_^_RU
+г	_^_RU
+д	_^_RU
+е	_^_RU
+ё	_^_RU
+ж	_^_RU
+з	_^_RU
+и	jery||-uk@-*'ainO
+й	'I||-b@-*'eve
+к	_^_RU
+л	_^_RU
+м	_^_RU
+н	_^_RU
+о	O
+п	_^_RU
+р	_^_RU
+с	_^_RU
+т	_^_RU
+у	u
+ф	_^_RU
+х	_^_RU
+ц	_^_RU
+ч	_^_RU
+ш	_^_RU
+щ	_^_RU
+ъ	jEr||-d'uRa
+ы	jery
+ь	jer||m'ol:e
+э	_^_RU
+ю	_^_RU
+я	_^_RU
+ћ	tS;E:
+ђ	djE:
+ќ	kjE:
+
 
 // numbers
 _0	dz'eRo	$u+
@@ -628,6 +668,7 @@ compatrono	$3
 conoscerla	$2
 contemporanea	$4
 contumace	$3
+cornici	$2
 crimini	$1
 cuor	ku'o@-*
 debol	$1
@@ -683,6 +724,7 @@ ipertono	$3
 kimono	$2
 lacrime	$1
 lavatrici	$3
+legger	$2 $alt2
 linee	$1
 lode	$1
 lucubri	$1
@@ -786,6 +828,7 @@ sottoparagrafi	$4
 sottotono	$3
 sovratono	$3
 spie	sp'ie
+spontanea	$2
 statua	$1
 sterline	$2
 strategie	st@-*atedZ'ie
@@ -841,7 +884,7 @@ bulgare	$1
 cagliari	$1
 camerun	$1
 carmelo	$2
-catia	$1
+catia	k'a:tia
 chaplin	tS'apliN
 charlie	tS'a@-*li
 chicago	tSikago
@@ -872,9 +915,10 @@ jerzu	j'E@-*dzu
 jole	j'Ole
 jugoslavia	jugozl'avia
 juri	j'urI
-juve	j'uvE
+juve	j'uve
 juventus	juv'entus
-kuwait	kw2'Eit
+katia	k'a:tia
+kuwait	kw2'E:it[
 libano	$1
 ludovic	$3
 luigi	lw2'idZi
@@ -1090,6 +1134,7 @@ chiamino	$1
 chiariscano	$2
 chiesero	$1
 chiudano	$1
+circolano	$1
 circondano	$2
 circondino	$2
 cliccano	$1
@@ -1156,6 +1201,8 @@ crederci	$1
 credetemi	$2
 crescano	$1
 cucinano	$2
+dai	d'a:i $atend
+(dai che)	d'ai||ke
 deambulano	de'ambulano
 debbano	$1
 debuttino	$2
@@ -1322,6 +1369,7 @@ lamentino	$2
 lanciano	$1
 lancino	$1
 leggano	$1
+leggere	$1 $alt
 leggermi	$1
 leggimi	$1
 lievitano	li'Evitano
