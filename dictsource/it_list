@@ -249,13 +249,13 @@ cpu	$abbrev
 
 // articles
 i	$u+ $only
-il	$u $only
-la	$u $only
-le	$u $only
-lo	$u $only
-un	$u $only
+il	$u+ $only
+la	$u+ $only
+le	$u+ $only
+lo	$u+ $only
+un	$u+ $only
 una	$u1+ $only
-gli	l^i  $only $u
+gli	l^i  $only $u+
 
 
 // pronouns
@@ -734,14 +734,15 @@ maomettano	$4
 marinai	$3
 maschera	$1
 massimi	$1
+medesim	$2 $alt
 mediaset	m'Ediaset
 melodie	melod'ie
 mensili	$2
 menu	mEn'u
 meteo	$1
 microtono	$3
-miglior	$u3+
-migliori	mil^i'o@-*i
+miglior	$u3
+miglior	mil^i'O@-* $atend
 minimi	$1
 miriadi	$2
 multilinea	$3
@@ -797,6 +798,7 @@ regine	$2
 remore	$1
 restio	@-*est'io
 revoche	$1
+riavvio	@-*iav:'IO
 ricevitoria	$5
 riepilogo	$3
 ruggini	$1
@@ -1017,6 +1019,7 @@ accorgano	$2
 accorrano	$2
 accorsero	$2
 acquisiscano	$3
+acquistano	$2
 addici	$2
 adopera	$2
 adoperano	$2
@@ -1111,6 +1114,7 @@ avviano	av:'iano
 baciano	$1
 badano	$1
 basano	$1
+bastano	$1
 batterlo	$1
 benedic	$3
 bevano	$1
@@ -1477,6 +1481,7 @@ rappresentino	$3
 ravvisano	$2
 ravvisino	$2
 reagiscano	$3
+recano	$1
 recitano	$1
 recuper	$2
 reggano	$1
@@ -1557,6 +1562,7 @@ scusami	$1
 scusiamo	skuzI'amo
 segnano	$1 $alt
 seguita	$2
+seguono	$1
 selezionala	$4
 sembrano	$1
 sembrino	$1
