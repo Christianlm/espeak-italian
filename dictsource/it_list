@@ -708,6 +708,7 @@ frastuono	$2
 fugaci	$2
 garanzie	gaRants'ie
 genesi	$1
+gentili	$2
 ghiacciol	gIatS:'ol
 giovani	dZ'ovani
 giovanili	$3
@@ -734,7 +735,7 @@ maomettano	$4
 marinai	$3
 maschera	$1
 massimi	$1
-medesim	$2 $alt
+medesim	$2 $alt2
 mediaset	m'Ediaset
 melodie	melod'ie
 mensili	$2
@@ -742,7 +743,7 @@ menu	mEn'u
 meteo	$1
 microtono	$3
 miglior	$u3
-miglior	mil^i'O@-* $atend
+miglior	mil^'O@-* $atend
 minimi	$1
 miriadi	$2
 multilinea	$3
@@ -1374,7 +1375,6 @@ lanciano	$1
 lancino	$1
 leggano	$1
 leggere	$1 $alt
-leggermi	$1
 leggimi	$1
 lievitano	li'Evitano
 lievitino	li'Evitino
