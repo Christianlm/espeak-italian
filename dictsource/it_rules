@@ -77,7 +77,6 @@
 	@C)	e (_		e
 	@C)	e (_S1q  e     // lookup it_list without suffix
 	@Ar)	e (_     e
-
 		e (C_    E
 		e (A     E
 		e (C%A_  E    // doubled consonant
@@ -119,7 +118,6 @@
 		e (ssa_  e
 		e (tr    E
 		e (ti    E
-
 		e (vi_   E
 		e (vo_   E
 	@)	e (volA_ 'e
@@ -127,6 +125,7 @@
 	C) ender (L04_	'ende@-*
 	C) erder (L04_	'E@-*de@-*
 	esser (L04_		'es:eR
+	_) ecco (L04	'Ek:o
 
 .group f
 		f	f
@@ -244,8 +243,8 @@
                ll (C    l_
                ll (_    l
      _) l' (P2t     l
-	A) l (bA	l-
-	A) l (vA	l-
+	A) l (bA	l:
+	A) l (vA	l:
 
 .group m
 		m	m
