@@ -350,13 +350,13 @@ verso      $u1+      // toward
 
 // prepositions
 
-a       $u // $double
-al      $u $only
-allo    $u
-alla    $u
-ai      $u
-agli    $u $only
-alle    $u
+a       $u+ // $double
+al      $u+ $only
+allo    $u+
+alla    $u+
+ai      $u+
+agli    $u+ $only
+alle    $u+
 ad      $u
 
 da	$u+       // by
@@ -514,7 +514,7 @@ o       O:  $atend
 
 // foreign words
 
-account	_^_EN
+account	ak:'aw2nt
 apple	_^_EN
 application	_^_EN
 backup	bek'ap
@@ -531,9 +531,9 @@ change	tS'EindZ
 channel	tS'anel
 chat		_^_EN
 check	tSEk:
-city	s'ItI
+city	s'itI
 cliché		kli:S'e
-computer	kompj'uter
+computer	kompj'ute@-*
 couscous	k,us||k'us
 database	datab'Eiz
 deejay		_^_EN
@@ -541,6 +541,7 @@ default	_^_EN
 disney	$1
 disneyland	$1
 display	displ'ei
+download	daw2nl'Od
 drive	_^_EN
 driver	_^_EN
 editor	$1
@@ -567,7 +568,7 @@ leader	lidE@-*
 macintosh	_^_EN
 made	m'eId
 mail	m'eil
-microsoft		_^_EN
+microsoft		m'aIk@-*Osoft
 monitor	$1
 mouse	maus
 new	_^_EN
@@ -577,6 +578,7 @@ nylon	n'aIlon
 office		_^_EN
 philips	f'ilips
 play	pl'EI
+player	pl'eIE@-*
 privacy	p@-*'aivazi
 puzzle	p'atsol
 python	_^_EN
@@ -654,11 +656,15 @@ capitoli	$2
 carboniferi	$3
 cardiache	ka@-*d'iake
 carestie	ka@-*est'ie
+cataloghi	$2
 categorie	$4
 celsius		tsElsj'us
 centraline	$3
-ciao	$u+ $strend $pause
+ciao	$strend $pause
 ciascun	$u3+
+ciascuna	$2
+ciascuno	$2
+ciascune	$2
 circuiti	$2
 civili	$2
 colabrodo	$3
@@ -668,6 +674,7 @@ compatrono	$3
 conoscerla	$2
 contemporanea	$4
 contumace	$3
+copertin	$3
 cornici	$2
 crimini	$1
 cuor	ku'o@-*
@@ -697,6 +704,7 @@ farmacie	fa@-*matS'ie
 femminili	$3
 ferie	$1 $alt
 ferita	$2
+ferrovie	fER*ov'i%E
 filosofie	filozof'ie
 fischiettio	fiskiet:'io
 fischio	f'iskio
@@ -878,7 +886,7 @@ arbatax	$3
 armida	$2
 arrigo	$2
 asdrubale	$2
-asia	'azi%a
+asia	''azI%a
 beatles	bItols
 bergamo	$1
 brasile	$2
@@ -914,10 +922,12 @@ ippocrate	$2
 jack	_^_EN
 jackson	_^_EN
 james	_^_EN
-jerzu	j'E@-*dzu
+jerzu	j'E@-*tsu
+jonathan	$1
 jole	j'Ole
 jugoslavia	jugozl'avia
-juri	j'urI
+josé	_^_ES
+juri	j'uRI
 juve	j'uve
 juventus	juv'entus
 katia	k'a:tia
@@ -1105,6 +1115,7 @@ attivano	$2
 attonito	$2
 attribuiscano	$3
 augura	$1
+auguro	$1
 aumentano	$3
 auspicano	$1
 avvalere	$3
@@ -1328,7 +1339,7 @@ implementino	$3
 impongano	$2
 incaricano	$2
 incastrano	$2
-inaugura	inaugu@-*'aRE
+inaugur	in'aw2gu@-*
 incidano	$1
 incit	$1
 incontrano	$2
@@ -1597,7 +1608,7 @@ sorrid	$2
 sorteggiano	$2
 sorteggino	$2
 sostenere	$3
-sottolinea 	$3
+sottolineo	$3
 sovrappongano	$3
 spalleggiano	$2
 spariscano	$2

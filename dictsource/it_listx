@@ -633,7 +633,6 @@ caffar $1
 caffe $2  $alt
 cagno $2  $alt
 calabr $1
-calamita $4
 calao $2
 calasett  $alt
 calcaree $2
@@ -1044,7 +1043,8 @@ corneo $1
 cornice $2
 cornucopia  $alt
 corone  $alt
-corporeo $2
+corporeo	$2
+corporea	$2
 corred  $alt
 correr $2
 corrett  $alt
@@ -2775,7 +2775,6 @@ perimetr $2
 period $2
 peripl $1
 peristasi $2
-perle $2
 perlomen  $alt2
 permafrost $1
 permut $1
