@@ -526,6 +526,7 @@ braille	b@-*ail:
 buffer	b'afe@-*
 business	_^_EN
 byte	_^_EN
+champagne	Samp'an^
 champion	tS'Empion
 change	tS'EindZ
 channel	tS'anel
@@ -565,6 +566,7 @@ jaws		dZo:s
 jazz		_^_EN
 jeans		dZi:ns
 leader	lidE@-*
+lucía	_^_ES
 macintosh	_^_EN
 made	m'eId
 mail	m'eil
@@ -645,7 +647,6 @@ avarie	$3
 baritono	$3
 becera	$1
 beneficio	$3
-biotecnologie	bioteknolodZ'ie
 bizzarria	$3
 bizzarrie	$3
 brusii	b@-*uz'ij
@@ -687,6 +688,7 @@ demoni	$1
 deroghe	$1
 dialoghi	$2
 discipline	$3
+disguid	dizgw2'id
 disordin	$2
 economie	ekonom'ie
 edili	$1
@@ -701,6 +703,7 @@ etnie	etn'ie
 fantasie	fantaz'ie
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
+felici	$2
 femminili	$3
 ferie	$1 $alt
 ferita	$2
@@ -776,7 +779,6 @@ ozono	$2 $alt2
 paraolimpiadi	$4
 parodie	pa@-*od'ie
 passegger	$3
-patologie	patolodZ'ie
 patria	$1
 patrie	$1
 patrono	$2
@@ -847,7 +849,7 @@ stupidaggini	$3
 succube	$1
 superfice	$3
 superstiti	$2
-tecnologie	teknolodZ'ie
+tazzine	$2
 temporanee	$3
 tenaci	$2
 tendini	$1
@@ -1258,6 +1260,7 @@ diffondano	$2
 digit	$1
 digitalo	$1
 digitano	$1
+dimenticano	$2
 discrimin	$2
 discutano	$2
 dispiace	dispi'atSe
@@ -1298,6 +1301,7 @@ eseguano	$2
 esercitano	$2
 esercitino	$2
 esistevano	$3
+esistano	$2
 esplicitano	$2
 esplicitavano	$4
 espongano	$2
@@ -1312,6 +1316,7 @@ figurati	$2
 finiscano	$2
 fioriscano	$3
 formano	$1
+formino	$1
 forniscano	$2
 fotografa	$2
 friggerl	$1
@@ -1320,10 +1325,10 @@ funzionino	$3
 gemitano	$1
 gemitino	$1
 gestiscano	$2
-gioire	dZo'ire
+gioire	dZo'iRE
 giudicano	$1
 giudichino	$1
-godere	$2
+godere	$2 $alt2
 gridano	$1
 gridino	$1
 guardar	gua@-*d'a@-*	$u+
@@ -1354,7 +1359,6 @@ influenzano	influ'Entsano
 informano	$2
 informino	$2
 iniziano	$2
-inneggiano	$2
 inquadrano	$2
 inseguano	$2
 installano	$2
@@ -1367,6 +1371,7 @@ interessano	$3
 interpret	$2
 interpretano	$2
 intervengano	$3
+intitol	$2
 intrattenere	$4
 intravedere	$4
 intrecciano	$2
@@ -1550,9 +1555,11 @@ ritirano	$2
 ritrovano	$2
 ritrovino	$2
 rivedere	$3
+rivelatesi	$3
 rivendicano	$2
 romperti	$1
 sacrificano	$2
+salpano	$1
 salvano	$1
 salvino	$1
 sanguina	$1
@@ -1605,12 +1612,10 @@ sognano	$1
 sormontano	$2
 sorreggano	$2
 sorrid	$2
-sorteggiano	$2
 sorteggino	$2
 sostenere	$3
 sottolineo	$3
 sovrappongano	$3
-spalleggiano	$2
 spariscano	$2
 sparlano	$1
 sparlino	$1
