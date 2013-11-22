@@ -700,6 +700,7 @@ epoche	$1
 erronea	$2
 eter	$1	$alt2
 etnie	etn'ie
+facilita	$2
 fantasie	fantaz'ie
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
@@ -738,8 +739,9 @@ lacrime	$1
 lavatrici	$3
 legger	$2 $alt2
 linee	$1
-lode	$1
 lucubri	$1
+maceria	$2
+macerie	$2
 madrepatria	$3
 maggior	$u2
 maomettano	$4
@@ -765,7 +767,7 @@ no		nO $strend
 non	$u
 nuocciono	$alt
 olfattori	$3
-olinpiad	$3
+olimpiad	olimp'iad
 omogenea	$3
 opera	$1
 operai	opER'ai
@@ -798,7 +800,7 @@ principio	$2
 profezie	p@-*ofets'ie
 prossime	$1
 proteine	p@-*ote'ine
-psicologi	$2
+psicologi	$2 $onlys
 pulizie	pulits'ie
 quia		kw'ia
 radici	$2
@@ -903,6 +905,7 @@ charlie	tS'a@-*li
 chicago	tSikago
 cremona	$2
 danilo	$2
+dallas	$1	$capital
 dionigi	$3
 elena	'ElEna
 elia	el'ia
@@ -961,6 +964,7 @@ sidney	$1
 socrate	$1
 sofia	sof'ia	$capital
 sonia	$1
+sophia	sOf'ia
 stanley	$1
 stefano	$1
 street	_^_EN
@@ -968,6 +972,7 @@ tamara	$2
 vladimir	$3
 wall	_^_EN
 walter	v'alte@-*
+washington	_^_EN
 zaccaria	$3
 
 // fix errors in it_listx
@@ -1146,6 +1151,7 @@ capitolano	$2
 caricalo	$1
 catalogano	$2
 cataloghino	$2
+causano	$1
 celebra	$1
 cercano	$1
 cercasi	$1
@@ -1481,6 +1487,7 @@ prevedano	$2
 prevedere	$3
 procurano	$2
 producano	$2
+proseguono	$2
 proteggano	$2
 provengano	$2
 provocano	$1
@@ -1560,6 +1567,7 @@ rivendicano	$2
 romperti	$1
 sacrificano	$2
 salpano	$1
+saltano	$1
 salvano	$1
 salvino	$1
 sanguina	$1

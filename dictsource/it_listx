@@ -378,7 +378,7 @@ attendol  $alt
 attimis $1
 attivita $4
 attorn  $alt2
-audace $3
+audac $3
 augure $1
 aulos $3
 aureol $3
@@ -2072,7 +2072,7 @@ litania $3
 litoraneo $3
 lob  $alt
 lod  $alt
-lode $2  $alt
+lode	$alt
 lodol $1
 lodz  $alt2
 log  $alt
