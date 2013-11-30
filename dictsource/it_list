@@ -213,6 +213,7 @@ _1M4	unbili'one
 _dpt    _v'iRgola
 _0Z2	tSent'ezimi     // 100ths
 _0Z3	mill'ezimi      // 1000ths
+_roman	@-*Om'ano
 
 // abbreviations
 abc	$abbrev
@@ -814,6 +815,8 @@ revoche	$1
 riavvio	@-*iav:'IO
 ricevitoria	$5
 riepilogo	$3
+razzo	@-*'a|dz:o
+rozzo	@-*'O|dz:o
 ruggini	$1
 rullio	$2
 sacrestie	sak@-*est'ie
