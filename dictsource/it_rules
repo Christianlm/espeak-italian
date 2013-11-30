@@ -1,3 +1,4 @@
+
 // Italian translation rules
 // This file is UTF-8 encoded
 // Last update: 2013-11-01 Chris, Christian Leo M, <llajta2012@cmail.com>
@@ -494,7 +495,7 @@ _L16_)	: (_L17D_	||%E_||	// Say time
 
 		ù	''u
 
-		$	dollaro
+		$	d'ollaRo
 		, (D    v'irgola
 		!       _p'untoesklamat'ivo_
 	!)	!

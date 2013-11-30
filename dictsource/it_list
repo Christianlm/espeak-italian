@@ -1,4 +1,5 @@
-﻿// This file is UTF-8 encoded
+﻿
+// This file is UTF-8 encoded
 // Updated 2013-11-01 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
@@ -75,7 +76,7 @@ _tld	t'ilde
 ₤       lI@-*a
 £       sterl'ina
 &	_e
-€	'euro
+€	'euRo
 @       ki'otS:ola
 ©       k'opiraIt
 #	kantSellet:o
@@ -191,7 +192,7 @@ _16     s'editSi
 _17     ditSas:'Et:e
 _18     ditS'Ot:o
 _19     ditSann'ove
-_2X	v'entj $u
+_2X	v'entj
 _21     v'ent'uno
 _28     v'ent'Ot:o
 _3X     t@-*'enta
@@ -244,7 +245,7 @@ st	$dot
 (http ://)       'ak:at,i:t,i:p'i:_
 www	'vu'vu'vu
 avv	av:ok'ato $dot
-nvda	$abbrev	$u
+nvda	$abbrev
 adsl	$abbrev
 cpu	$abbrev
 
@@ -322,20 +323,20 @@ quelle  $u+      // those
 
 accanto    $2      // beside
 attraverso 	$3 // across, through
-benchè		$u	$brk      // though
-che             $u $brk   // which
+benchè		$u+	$brk      // though
+che             $u+ $brk   // which
 cioè	$u+
 come	$u+
 contro     $1      // against
 cui	k'uj
-durante    $u $brk       // during
-e		$u $brk // $double  // and
+durante    $u+ $brk       // during
+e		$u+ $brk // $double  // and
 eccetto    $pause       // except
-ed		$u $brk
+ed		$u+ $brk
 ma	$u+ $brk
 mai	$u+
 mentre	$u+
-né              $u	$brk  $only     // neither-nor
+né              $u+	$brk  $only     // neither-nor
 o		$u+ $brk // $double  // or
 oltre	$u+
 ormai	o@-*m'aI
@@ -358,49 +359,49 @@ alla    $u+
 ai      $u+
 agli    $u+ $only
 alle    $u+
-ad      $u
+ad      $u+
 
 da	$u+       // by
-dal	$u
-dallo   $u
-dalla	$u	// by the
-dai     $u
-dagli   $u
-dalle   $u
+dal	$u+
+dallo   $u+
+dalla	$u+	// by the
+dai     $u+
+dagli   $u+
+dalle   $u+
 
-di	$u $only 	// of
-del	$u $only
-dello   $u
-della	$u	// of the
-dei     $u
-degli   $u
-delle   $u
-de      $u $only
+di	$u+ $only 	// of
+del	$u+ $only
+dello   $u+
+della	$u+	// of the
+dei     $u+
+degli   $u+
+delle   $u+
+de      $u+ $only
 
 in	$u+ 	$only // in
-nel	 $u	$only
-nello	$u1
-nella	$u 	// in the
-nei     $u 
-negli   $u 
-nelle   $u
-ne      $u   $only
+nel	 $u+	$only
+nello	$u+
+nella	$u+ 	// in the
+nei     $u+ 
+negli   $u+ 
+nelle   $u+
+ne      $u+   $only
 
 su	$u+ $only //$double	// on
 sul	$u+
-sullo   $u
-sulla	$u	// on the
-sui     $u
-sugli   $u
-sulle   $u
+sullo   $u+
+sulla	$u+	// on the
+sui     $u+
+sugli   $u+
+sulle   $u+
 
-con	$u  $only	// with
-col     $u $only
-coi     $u $only
+con	$u+  $only	// with
+col     $u+ $only
+coi     $u+ $only
 
-per        $u  $only    // for
-tra	$u
-fra	$u
+per        $u+  $only    // for
+tra	$u+
+fra	$u+
 
 // aux verb, to be
 sono	$u1+
@@ -618,10 +619,12 @@ zoom	dzu:m
 // Main  Dictionary
 
 acrobazia	$4
-aereo		a'eReo
+aerea	a'ERea
+aereo		a'EReo
 agenzie	adZents'ie
 alcun	$u2+
 algebra	$1
+alpine	$2
 ambrosiano	$4
 amic	$2
 amnistie	amnist'ie
@@ -691,6 +694,7 @@ dialoghi	$2
 discipline	$3
 disguid	dizgw2'id
 disordin	$2
+dispiacere	$3
 economie	ekonom'ie
 edili	$1
 efficaci	$3
@@ -765,7 +769,7 @@ negligenza	neglidZ'entsa
 negrita	$2
 nessun	$u2+
 no		nO $strend
-non	$u
+non	$u+
 nuocciono	$alt
 olfattori	$3
 olimpiad	olimp'iad
@@ -778,7 +782,7 @@ ovvia	'ov:ia
 ovviamente	ov:iam'Ente
 ovvie	'ov:ie
 ovvietà	ov:iet'a
-ozono	$2 $alt2
+ozono	o|dz'ono
 paraolimpiadi	$4
 parodie	pa@-*od'ie
 passegger	$3
@@ -804,8 +808,11 @@ proteine	p@-*ote'ine
 psicologi	$2 $onlys
 pulizie	pulits'ie
 quia		kw'ia
+
 radici	$2
+rapine	$2
 rapaci	$2
+razzo	@-*'a|dz:o
 reciproche	$2
 reduci	$1
 regine	$2
@@ -815,8 +822,8 @@ revoche	$1
 riavvio	@-*iav:'IO
 ricevitoria	$5
 riepilogo	$3
-razzo	@-*'a|dz:o
-rozzo	@-*'O|dz:o
+rovine	$2
+rozz	@-*'O|dz:
 ruggini	$1
 rullio	$2
 sacrestie	sak@-*est'ie
@@ -842,6 +849,7 @@ seria	$1 $alt2
 serie	$1
 simpatie	simpat'ie
 sinonimi	$2
+sottili	$2
 sottoparagrafi	$4
 sottotono	$3
 sovratono	$3
@@ -870,6 +878,7 @@ univoche	$2
 uomini		$1
 vergini	$1
 videocamera	$4
+visualizzazion	vizUali|dz:atsi'On
 vittime	$1
 vivaci	$2
 vocaboli	$2
@@ -912,6 +921,7 @@ dallas	$1	$capital
 dionigi	$3
 elena	'ElEna
 elia	el'ia
+elizabeth	_^_EN
 enric	$2
 everest	$1
 federic	$3
@@ -1258,6 +1268,7 @@ desider	$2
 desiderano	$2
 desiderino	$2
 determina	$2
+determinano	$2
 detestano	$2
 detestino	$2
 dettino	$1
@@ -1400,6 +1411,7 @@ lamentano	$2
 lamentino	$2
 lanciano	$1
 lancino	$1
+lasciano	$1
 leggano	$1
 leggere	$1 $alt
 leggimi	$1
@@ -1437,6 +1449,7 @@ obblighi	$1
 occorrano	$2
 occorsero	$2
 occup	$1
+occupano	$1
 offertogli	$2
 offrano	$1
 oppongano	$2
@@ -1515,6 +1528,7 @@ recuper	$2
 reggano	$1
 registrano	$2
 registrino	$2
+regnano	$1
 reinvio	@-*einv'io
 rendano	$1
 reputa	$1
@@ -1677,7 +1691,7 @@ trionfano	$2
 trovano	$1
 trovino	$1
 tutelano	$2
-uccida	$2
+uccid	$2
 ucciderti	$2
 usal	$1
 usatel	$2
@@ -1693,6 +1707,7 @@ verificatasi	$4
 verificatisi	$4
 vincolano	$1
 visitano	$1
-voler	$1	$u+
+visualizza	vizUal'i|dz:a
+voler	$2	$u+
 vuol	vu'ol	$u+
 zoppicano	$1
