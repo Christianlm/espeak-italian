@@ -38,6 +38,8 @@
      _) anch' (P5t     ank
 	@) amo (L04_	'amo
 	@) ander (L04_	'andE@-*
+		ate (L04_	'ate
+
 .group à
 		à	''a
 		ài (K   ''aI
@@ -69,6 +71,7 @@
 
      _) dall' (P5t     dall
      _) dell' (P5t     dell
+	_) d' (P2t	d
 	decider (L04	detS'ide@-*
 
 .group e
@@ -112,7 +115,7 @@
 	gg)	e (ro_   E
 	f)	e (rm    e
 	@)	e (rrimo_ 'E
-	@)	e (simo_  'e
+	@)	e (simA_  'e
 	h)	e (ss    e
 	m)	e (ss    e
 	_sC)	e (ss    e
@@ -128,6 +131,7 @@
 	C) erder (L04_	'E@-*de@-*
 	esser (L04_		'es:eR
 	_) ecco (L04	'Ek:o
+		ete (L04_	'ete
 
 .group f
 		f	f
@@ -153,12 +157,12 @@
 		gli (A  l^
 	_)	gl	gl
 	@) glier (L04_	=l^E@-*
+	@) guer (L04_	=gUe@-*
 		gn	n^
 	@) gn (A_	n^;
 	a) gn (A_	n^:
 		gu (A   gw
 
-	
 .group h
 		h
 	_)	ha      h'a
@@ -169,8 +173,6 @@
 		i (A	j
 	l)	i (A	%i
 	r)	i (A	%i
-       _C)	i (a    i
-       _C)	i (à    i
 	_C) ie (_	'ie
 		i (o    i
 		i (ò	i
@@ -188,6 +190,7 @@
 	metr)	ia (_	'ia
 	metr)	ie (_	'ie
 	t)	ia (_	'ia
+	t) ie (_	'ie
         @)      io (_S1q   =i%o
 	a)	i (+	j
 	à)	i (+	j
@@ -201,13 +204,13 @@
 		i (asi_   'i
 	@)	i (bile_  'i
 	@)	i (cA_	  =i
-	tr)	i (ce_     i
+	tr)	i (cY_     i
 	@)	i (chA_   =i
         @)      i (dA_    =i
         @)      i (dere_  'i
 	@)	ie (rA_    i'E
 	@)	ié (rA_    i'E
-	@)	iè (rA_    i'E
+// [ 	@)	iè (rA_    i'E
 	@)	i (gA_	  =i
 		i (genA_  'i
 	c)	i (lA_    =i
@@ -229,6 +232,7 @@
 	p)	i (te_    =i
 	@) iono (_	=iono
 	issano (_	'is:ano
+	ite (L04_	'ite
 
 .group j
 
@@ -380,7 +384,8 @@
 		sh (K	S    // foreign words
 	K)	sh	S    // foreign words
 	A) sh (A	S
-	@)	sia	z'ia
+	@)	sia (_	z'i#a
+	@) sie (_	z'i#e
 	@C)	sia	s'ia
 	@)	sià	zi'a
 	@)	s (_S1	s
@@ -422,18 +427,20 @@
 .group y
 		y	j
 		y (K	i        // foreign words
-	
-		
+
 .group z
 		z	ts
-	A)	zz	ts:
-	A)	z (A	ts
-		_) z (AC          |dz|
-        _)	z (i	dz
-        _)	z (ì	dz
+	A)	zz (A	ts:
+	_A)	z (A	dz
+		_) z (AC          dz
+        _)	z (Y	dz
 		z (L01A	dz
-		@) zz (ano_	=ts:
-	ziono (_	tsi'Ono
+		_A) zz (A	|dz:
+		i) zza 	dz:a
+		@) zz (ano_	=dz:
+		@) zz (aL04_	=dz:
+		@) zza (ti_	dz:'a
+	zion (A_	tsi'On
 
 .group 0xce   // Greek letters
 // 0xce is the first byte of the utf-8 code for these characters
