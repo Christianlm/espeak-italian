@@ -1493,7 +1493,7 @@ ess  $alt2
 esserci $1  $alt
 essere  $alt
 est		$alt2 $only
-estasi $1
+estasi	$1	$alt
 estensimetr $3
 ester $1
 estet  $alt

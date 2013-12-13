@@ -608,7 +608,7 @@ vodafone	v'odafon
 voilà	_^_FR
 wave		_^_EN
 web		wEb
-windows		_^_EN
+window		w2'IndOw2
 wireless		_^_EN
 wow		_^_EN
 yahoo		_^_EN
@@ -649,7 +649,7 @@ attimi	$1
 atmosfere	$3 $alt
 attric	$2
 auspici	$3
-autonoma	$3
+autonom	$3
 autonomie	autonom'ie
 avarie	$3
 baritono	$3
@@ -764,6 +764,7 @@ melodie	melod'ie
 mensili	$2
 menu	mEn'u
 meteo	$1
+microb	$1
 microtono	$3
 miglior	$u3
 miglior	mil^'O@-* $atend
@@ -789,7 +790,7 @@ ovviamente	ov:iam'Ente
 ovvie	'ov:ie
 ovvietà	ov:iet'a
 ozono	o|dz'ono
-paraolimpiadi	$3
+paraolimpiadi	$5
 parodie	pa@-*od'ie
 passegger	$3
 patria	$1
@@ -809,6 +810,8 @@ principe	$1
 principi	$1
 principio	$2
 profezie	p@-*ofets'ie
+profug	$1
+profughi	$1
 prossime	$1
 proteine	p@-*ote'ine
 psicologi	$2 $onlys
@@ -826,6 +829,7 @@ remore	$1
 restio	@-*est'io
 revoche	$1
 riavvio	@-*iav:'IO
+riavvia	@-*iav:'i#a
 ricevitoria	$5
 riepilogo	$3
 rovine	$2
@@ -969,6 +973,7 @@ michelangelo	$3
 mike	_^_EN
 maria	maR'ia
 modena	$1
+mozilla	mo|dz'il:a
 napoli	$1
 nicola	$2
 padova	$1
