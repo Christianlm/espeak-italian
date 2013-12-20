@@ -79,9 +79,8 @@
 		e        e
 		ei (K        Ej
 	r) ei (_	'ei
-	@C)	e (_		e
 	@C)	e (_S1q  e     // lookup it_list without suffix
-	@Ar)	e (_     e
+// ò	@Ar)	e (_     e
 		e (C_    E
 		e (A     E
 		e (C%A_  E    // doubled consonant
@@ -324,7 +323,7 @@
 		o (polA_   'O
 	sc)	o (p        O
 		o (r	    O
-		o (re_      o
+		o (rY_      o
 	f)	o (rmA_     o
 		o (si_      O
 		o (ss       O
@@ -487,7 +486,7 @@
 
 gn	n^
 ñ	n^
-_L16_)	: (_L17D_	||%E_||	// Say time
+_L16_)	: (_L17D_	_%%E_	// Say time
 
 		è	''E
 		èi (K	''Ej

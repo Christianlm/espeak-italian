@@ -16,7 +16,7 @@ _?A	let:'e:Ra
 _a	a:
 b	bi
 c	tSi
-d	dI
+d	di
 _e	e:
 f	effe
 g	dZi
@@ -33,7 +33,7 @@ p	pi
 q	ku
 r	ER*e
 s	esse
-t	tI:
+t	ti
 _u	u:
 v	vu
 w	d'op:jav'u
@@ -848,12 +848,13 @@ scia	S'Ia
 sciabile	Si'abile
 sciacquii	S,akw2'Ij
 sciacquio	S,akw2'IO
-sciator	Siat'oR
+sciator	Si|at'oR
 sciatric	Siat@-*'ItS
 scie	S'i%e
 scintillio	$3
 scomoda	$1
 scricchiolio	$4
+scrupol	$1
 scurrile	$2
 semitono	$3
 seria	$1 $alt2
@@ -1274,6 +1275,7 @@ emargin	$2
 enunciano	$2
 enuncino	$2
 erog	$1
+esager	$2
 esaltano	$2
 esaltino	$2
 escludano	$2
@@ -1390,6 +1392,7 @@ mormora	$1
 mormorano	$1
 mostrano	$1
 mostrar		$2	$u+
+mostrino	$1
 muovano	mu'ovano
 muoversi	mu'ove@-*si
 muoverti	mu'ove@-*ti
@@ -1448,7 +1451,8 @@ precipita	$2
 pregano	$1
 preghino	$1
 prendano	$1
-preoccupa	$2
+preoccup	$2
+preparano	$2
 presentano	$2
 presentino	$2
 presero	$1
@@ -1650,6 +1654,7 @@ tutelano	$2
 uccid	$2
 ucciderti	$2
 usal	$1
+usano	$1
 vadano	$1
 valgano	$1
 valuta	$1
