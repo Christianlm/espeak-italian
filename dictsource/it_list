@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2013-11-01 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 January07 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -16,7 +16,7 @@ _?A	let:'e:Ra
 _a	a:
 b	bi
 c	tSi
-d	di
+d	d[i:
 _e	e:
 f	effe
 g	dZi
@@ -27,7 +27,6 @@ k	kap:a
 l	Elle
 m	Emme
 n	Enne
-ñ	En:ekontilde
 _o	O:
 p	pi
 q	ku
@@ -42,14 +41,19 @@ y	'ipsilon
 z	dzEta
 
 _à	$accent
+_á	$accent
 _é	$accent
 _è	$accent
+_í	$accent
 _ì	$accent
 _ó	$accent
 _ò	$accent
 _ù	$accent
+_ú	$accent
+ñ	$accent
 
 // accent names
+
 _lig	l,egat'u:Ra
 _acu	ak'u:to
 _ac2	d'op:i;o_|ak'u:to	
@@ -64,7 +68,7 @@ _mcn	m'ak@-*on
 _ogo	og'o:nek
 _rng	an'ello
 _stk	b'aR*a
-_tld	t'ilde
+_tld	kon||t'ilde
 
 *	asteRisko $max3
 %	pe@-*tS'ento $max3
@@ -176,7 +180,7 @@ _0	dz'eRo	$u+
 _1	'uno
 _2	d'ue
 _3	tR'e
-_4	kw2'at:Ro
+_4	kw2'at:@-*o
 _5	tS'inkw2e
 _6	s'Ej
 _7	s'Et:e
@@ -194,9 +198,15 @@ _18     ditS'Ot:o
 _19     ditSann'ove
 _2X	v'entj
 _21     v'ent'uno
+_23	ventitR'e
+_24	ventikw'at:@-*o
+_25	ventitS'inkwE
+_26	ventis'Ej
+_27	ventis'et:e
 _28     v'ent'Ot:o
+_29	ventin'Ove
 _3X     t@-*'enta
-_4X     kw2aR'anta
+_4X     kuaR'a:nta
 _5X     tSinkw2'anta
 _6X     sess'anta
 _7X     set:'anta
@@ -211,7 +221,7 @@ _0M3	mili'aRdi
 _1M3	unmili'aRdo
 _0M4    bili'oni
 _1M4	unbili'one
-_dpt    _v'iRgola
+_dpt    _p'unto
 _0Z2	tSent'ezimi     // 100ths
 _0Z3	mill'ezimi      // 1000ths
 _roman	@-*Om'ano
@@ -219,7 +229,10 @@ _roman	@-*Om'ano
 // abbreviations
 abc	$abbrev
 avg	$abbrev
+atp	$abbrev
 cia	tS'ia
+dj	di||dZ'eI
+dna	$abbrev
 hiv	$abbrev
 ibm	$abbrev
 id	$abbrev
@@ -228,6 +241,7 @@ ocr	$abbrev
 ok	ok'eI
 olp	$abbrev
 omg	$abbrev
+rna	$abbrev
 spa	$abbrev
 sos	$abbrev
 srl	$abbrev
@@ -244,7 +258,6 @@ st	$dot
 
 (http ://)       'ak:at,i:t,i:p'i:_
 www	'vu'vu'vu
-avv	av:ok'ato $dot
 nvda	$abbrev
 adsl	$abbrev
 cpu	$abbrev
@@ -623,7 +636,8 @@ zoom	dz|u:m
 
 acrobazia	$4
 aerea	a'E:Rea
-aereo		a'E:REo
+aereo	a'E:REo
+aerei	a'E:REi
 agenzie	adZents'ie
 alcun	$u2+
 algebra	$1
@@ -680,7 +694,6 @@ colabrodo	$3
 compagini	$2
 compagnie	kompan^'ie
 compatrono	$3
-conoscerla	$2
 contemporanea	$4
 contumace	$3
 copertin	$3
@@ -688,12 +701,14 @@ cornici	$2
 crimini	$1
 cuor	ku'o@-*
 debol	$1
+decine	$2
 decim	$1
 decimonono	$4
 deleghe	$1
 democrazie	demok@-*ats'ie
 demoni	$1
 deroghe	$1
+detraibil	det@-*a'ibil
 dialoghi	$1
 discipline	$3
 disguid	dizgw2'id
@@ -713,12 +728,14 @@ europei	$4
 facilita	$2
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
+fatiche	$2
 felici	$2
 femminili	$3
 ferie	$1 $alt
 ferita	$2
 ferrovie	fER*ov'i%E
 filosofie	filozof'ie
+filovia	filov'i#a
 fischiettio	fiskiet:'io
 fischio	f'iskio
 follie	$2
@@ -727,8 +744,10 @@ formicolio	$4
 fornaci	$2
 fornitrici	$3
 frastuono	$2
+fraticid	$3
 fugaci	$2
 garanzie	gaRants'ie
+gazzetta	ga|dz:'Et:a
 genesi	$1
 gentili	$2
 ghiacciol	gIatS:'ol
@@ -737,6 +756,7 @@ giovanili	$3
 glicemia	glitSem'ia
 gonartria	$3
 guaiscono	gua'iskono
+idiozie	idiots'i#e
 idiozia	$4
 idonea	$2
 imprenditoria	$5
@@ -750,6 +770,7 @@ lacrime	$1
 legger	$2 $alt2
 linee	$1
 lucubri	$1
+lumache	$2
 maceria	$2
 macerie	$2
 madrepatria	$3
@@ -765,10 +786,10 @@ melodie	melod'ie
 mensili	$2
 menu	mEn'u
 meteo	$1
+mezz	m'Edz:
 microb	$1
 microtono	$3
-miglior	$u3
-miglior	mil^'O@-* $atend
+miglior	mil^'O@-*
 minimi	$1
 miriadi	$2
 multilinea	$3
@@ -785,13 +806,10 @@ oper	$1 $alt2
 operai	opER'ai
 operaio	opeR'ajo
 origin	$2
-ottime	$1
+ottim	$1
 ovvia	'ov:ia
-ovviamente	ov:iam'Ente
 ovvie	'ov:ie
-ovvietà	ov:iet'a
 ozono	o|dz'ono
-paraolimpiad	$4
 parodie	pa@-*od'ie
 passegger	$3
 patria	$1
@@ -801,9 +819,11 @@ peggior	$u3+
 peripezia	$4
 peripezie	pe@-*ipets'ie
 pero	$1 $alt
+perspicac	$3
 petrolifer	$3
 pioviggini	$3
 pistola	$2
+pluriomicid	$5
 posta		p'Osta
 prevendit	$2
 primavere	$3
@@ -868,6 +888,7 @@ sovratono	$3
 spie	sp'ie
 spontanea	$2
 statua	$1
+statue	$1
 sterline	$2
 strategie	st@-*atedZ'ie
 stupidaggini	$3
@@ -924,6 +945,7 @@ brian	b@-*'aian
 bulgare	$1
 cagliari	$1
 camerun	$1
+camilleri	$3
 carmelo	$2
 catia	k'a:tia
 chaplin	tS'apliN
@@ -937,11 +959,13 @@ elena	'ElEna
 elia	el'ia
 elizabeth	_^_EN
 enric	$2
+esposito	$2
 everest	$1
 federic	$3
 gallipoli	$2
 genesia	$2
 genova	$1
+georgia	dZE'o:@-*dZa
 gianluigi	dZanlu'idZi
 giorgia	$1
 girolamo	$2
@@ -1017,7 +1041,7 @@ accorrano	$2
 accorsero	$2
 acquisiscano	$3
 acquistano	$2
-addici	$2
+addic	$2
 adopera	$2
 adoperano	$2
 adoperi	$2
@@ -1040,8 +1064,8 @@ aggiungerne	$2
 agitano	$1
 agiti	$1
 agitino	$1
-aiutali	aj'utali	
-aiutano	aj'utalo
+aiutal	aj'utal
+aiutano	aj'utano
 alimentano	$3
 alimentino	$3
 allacciano	$2
@@ -1105,8 +1129,9 @@ avvalere	$3
 avvalgano	$2
 avvantaggiano	$3
 avvantaggino	$3
+avanzano	$2
 avvengano	$2
-avvia	av:'ia
+avvia	av:'i#a
 avviano	av:'iano
 baciano	$1
 badano	$1
@@ -1162,6 +1187,7 @@ concentrano	$2
 concentrino	$2
 concludano	$2
 concorrano	$2
+condivid	$3
 condividano	$3
 condono	$2
 conferiscano	$3
@@ -1302,6 +1328,7 @@ formino	$1
 forniscano	$2
 fotografa	$2
 friggerl	$1
+fulmin	$1
 funzionano	$3
 funzionino	$3
 gemitano	$1
@@ -1313,7 +1340,8 @@ giudichino	$1
 godere	$2 $alt2
 gridano	$1
 gridino	$1
-guardar	gua@-*d'a@-*	$u+
+guardar	gwa@-*d'aR
+illumin	$2
 illustrano	$2
 imit	$1
 immagin	$2
@@ -1379,7 +1407,7 @@ leggere	$1 $alt
 leggimi	$1
 lievitano	li'Evitano
 lievitino	li'Evitino
-limita	$1
+limit	$1
 mancano	$1
 manchino	$1
 mandami	$1
@@ -1388,6 +1416,7 @@ meritano	$1
 meritino	$1
 metterl	$1
 milita	$1
+montano	$1
 mormora	$1
 mormorano	$1
 mostrano	$1
@@ -1463,6 +1492,7 @@ prevedano	$2
 prevedere	$3
 procurano	$2
 producano	$2
+propinino	$2
 proseguono	$2
 proteggano	$2
 provengano	$2
@@ -1479,6 +1509,7 @@ rapportano	$2
 rapportino	$2
 rappresentano	$3
 rappresentino	$3
+rassomigliano	$3
 ravvisano	$2
 ravvisino	$2
 reagiscano	$3
@@ -1542,6 +1573,7 @@ rivedere	$3
 rivendicano	$2
 romperti	$1
 sacrificano	$2
+salivano	$2
 salpano	$1
 saltano	$1
 salvano	$1
@@ -1606,6 +1638,7 @@ sparlino	$1
 specchiano	$1
 specificano	$2
 spegnerl	$1
+spiace	spi'atSe
 spiegano	$1
 sprigionatosi	$3
 stabilitosi	$3

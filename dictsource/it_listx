@@ -698,7 +698,7 @@ canter $1
 cantoria $3
 cantu $2
 caorle $1
-capace $2
+capac	$2
 capannori $2
 capello		$alt2
 capiner  $alt2
@@ -2062,7 +2062,6 @@ letter  $alt
 lettig $2
 leuc $1
 leuci $1
-levant $1  $alt
 levanz $1  $alt
 leve  $alt
 levita $3
@@ -2081,7 +2080,6 @@ lilla $2
 limassol $3  $alt2
 limen $1
 limin $1
-limite $1
 limitrof $2
 limon $2
 limone  $alt
@@ -2667,7 +2665,7 @@ ovideposizione  $alt
 ovile $2
 ovovia $3
 ovver $2  $alt2
-ovvi  $alt
+ovvi  $1 $alt
 ozia $2
 pabillonis  $alt
 pacec  $alt
@@ -2716,7 +2714,6 @@ paravia $3
 parenchim  $alt
 parentesi $2  $alt
 parere $2  $alt2
-// ò parestesie $4
 parghelia $3
 paria $2
 parnassos $3
@@ -3367,7 +3364,7 @@ sedere $2  $alt2
 sedia  $alt
 sedicesim  $alt
 sedici  $alt2
-sedile $2
+sedil	$2
 seggi  $alt
 seggiovia $3
 segnapost  $alt2
