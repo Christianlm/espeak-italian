@@ -159,6 +159,7 @@
 		ggi (A  dZ:  // or L01 ?
 	@) gger (L04_ =dZ:e@-*
 	AC) ger (L04_	=dZe@-*
+		_) giura (L04_	dZ'URa
 		gl (i	l^
 		gl (ì	l^
 		gli (A  l^
@@ -432,6 +433,8 @@
      _) un' (P3t     un
 	@@) u (A_	=u
 	A%C) u (A_	=u
+
+	ural (Y_	uR'al
 	C) ura (L04_	'uRa
 	uder (L04_	'udE@-*
 
@@ -454,7 +457,7 @@
 .group z
 		z	ts
 	A)	zz (A	ts:
-	_A)	z (A	dz
+	_A) z (AC	dz
 		_) z (AC          dz
         _)	z (Y	dz
 		z (L01A	dz
@@ -466,6 +469,8 @@
 		@@) zza (L04_	=dz:a
 		@i) zza (ti_	dz:'a
 	zion (A_	tsi'On
+	ziona (ti_	tsiOn'a
+	ziona (L04_	tsi'Ona
 
 .group 0xce   // Greek letters
 // 0xce is the first byte of the utf-8 code for these characters

@@ -405,7 +405,6 @@ avampost  $alt2
 avari $1
 avaria $3
 aven  $alt2
-avere $2  $alt2
 avvi $2
 ayame $3
 ayatollah $4
@@ -768,7 +767,7 @@ catari $1
 catastrofe $2
 catechesi  $alt
 catecol $3  $alt
-caten  $alt2
+caten	$2 $alt2
 catenanuov  $alt
 catet  $alt
 cattar $1
