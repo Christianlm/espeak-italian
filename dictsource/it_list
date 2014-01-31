@@ -681,6 +681,7 @@ aerei	a'E:REi
 agenzie	adZents'ie
 alcun	$u2+
 algebra	$1
+amarognol	$3
 ambrosiano	$3
 amic	$2
 amiche	$2
@@ -709,11 +710,13 @@ auspici	$3
 autonom	$3
 autonomie	autonom'ie
 avarie	$3
+bambagia	$2
 baritono	$3
 becera	$1
 beneficio	$3
 bizzarria	$3
 bizzarrie	$3
+bronz	b@-*'ondz
 brusii	b@-*uz'ij
 buon	bu'on	$u+
 burocrate	$2
@@ -756,6 +759,7 @@ diamin	di'amin
 disguid	dizgw2'id
 disordin	$2
 dispiacere	$3
+dottor	$2
 economie	ekonom'ie
 edifici	$3
 edili	$1
@@ -778,6 +782,7 @@ femminili	$3
 ferie	$1 $alt
 ferita	$2
 ferrovie	fER*ov'i%E
+fiammiferi	$2
 filippin	$3
 filosofie	filozof'ie
 filovia	filov'i#a
@@ -795,10 +800,10 @@ fugaci	$2
 garanzie	gaRants'ie
 gazzetta	ga|dz:'Et:a
 genesi	$1
-gentili	$2
+gentil	$2
 ghiacciol	gIatS:'ol
 giovani	dZ'ovani
-giovanili	$3
+giovanil	$3
 glicemia	glitSem'ia
 glutine	$1
 gonartria	$3
@@ -807,7 +812,8 @@ guaiscono	gua'iskono
 idiozie	idiots'i#e
 idiozia	$4
 imprenditoria	$5
-incapace	$3
+incapac	$3
+ingordigia	$3
 intercapedini	$4
 intere	$2	$alt2
 ipertono	$3
@@ -818,6 +824,7 @@ licei	litS'Ei
 lucine	$2
 lucubri	$1
 lumache	$2
+macellai	$3
 maceria	$2
 macerie	$2
 madrepatria	$3
@@ -852,6 +859,7 @@ ottim	$1
 ovvia	'ov:ia
 ovvie	'ov:ie
 ozono	o|dz'ono
+pantofol	$2
 parodie	pa@-*od'ie
 passegger	$3
 patria	$1
@@ -874,6 +882,7 @@ primavere	$3
 principe	$1
 principi	$1
 principio	$2
+professor	$3
 profezie	p@-*ofets'ie
 profug	$1
 profughi	$1
@@ -921,6 +930,7 @@ scurrile	$2
 semitono	$3
 seria	$1 $alt2
 serie	$1
+signor	$2
 simpatie	simpat'ie
 sinonimi	$2
 sottili	$2
@@ -1676,6 +1686,8 @@ segnano	$1 $alt
 (seguiti da)	segw'iti||da
 (seguito da)	segw'ito||da
 seguono	$1
+selezionale	$4
+selezionali	$4
 sembrano	$1
 sembrino	$1
 sentano	$1

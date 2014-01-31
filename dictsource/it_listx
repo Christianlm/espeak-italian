@@ -104,7 +104,6 @@ alfabet  $alt
 algebric  $alt
 algenib  $alt
 algovia  $alt
-ali $2
 alibi $1
 alice $2
 alimen  $alt2
@@ -447,7 +446,7 @@ barbaner  $alt2
 barbar $1
 barbera		$2
 baricentr  $alt
-barile $2
+baril $2
 bariton $2
 baritonesi  $alt
 barnab $1
@@ -494,6 +493,7 @@ bertiol $2
 bertold  $alt
 besozz  $alt2
 bestia $1  $alt2
+bestie	$1 $alt2
 bet  $alt
 betel  $alt
 betil  $alt2
@@ -2404,6 +2404,7 @@ nartece  $alt
 nascit $1
 nascost  $alt2
 naufrag $1
+naufraghi	$1
 naumachia $4
 nausea $1
 neb  $alt
