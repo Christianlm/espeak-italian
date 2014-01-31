@@ -1097,15 +1097,13 @@ accorsero	$2
 acquisiscano	$3
 acquistano	$2
 addic	$2
-adopera	$2
+adoper	$2
 adoperano	$2
-adoperi	$2
 adoperino	$2
-adopero	$2
 affascino	$2
 affermano	$2
 affermino	$2
-affida	$2
+affid	$2
 affrettino	$2
 affrontano	$2
 affrontino	$2
@@ -1168,13 +1166,14 @@ assommino	$2
 assumano	$2
 assumersi	$2
 assunsero	$2
+attendevano	$3
 attengano	$2
 attestano	$2
 attestino	$2
 attirano	$2
 attirino	$2
 attivano	$2
-attonito	$2
+attonit	$2
 attribuiscano	$4
 augura	$1
 auguro	$1
@@ -1188,8 +1187,10 @@ avanzano	$2
 avvengano	$2
 avvia	av:'i#a
 avviano	av:'iano
+avviavano	av:i'avano
 baciano	$1
 badano	$1
+ballano	$1
 basano	$1
 bastano	$1
 batterlo	$1
@@ -1201,6 +1202,7 @@ boicottino	$3
 bruciano	$1
 brucino	$1
 cadere	$2
+cambiano	$1
 cancellami	$2
 capitola	$2
 capitolano	$2
@@ -1321,6 +1323,7 @@ detestano	$2
 detestino	$2
 dettino	$1
 deviano	$1
+diano	d'iano
 dicano	$1
 dicevano	$2
 diffid	$2
@@ -1367,6 +1370,9 @@ esager	$2
 esaltano	$2
 esaltino	$2
 esamin	$2
+esasper	$2
+esasperano	$2
+esclamai	esklam'aI
 escludano	$2
 escluderl	$2
 eseguano	$2
@@ -1406,6 +1412,7 @@ godere	$2 $alt2
 gridano	$1
 gridino	$1
 guardar	gwa@-*d'aR
+guardano	$1
 illumin	$2
 illustrano	$2
 imit	$1
@@ -1424,7 +1431,7 @@ inaugur	in'aw2gu@-*
 incidano	$1
 incit	$1
 incontrano	$2
-incorpora	$2
+incorpor	$2
 incorporano	$2
 incrociano	$2
 indagano	$2
@@ -1473,9 +1480,11 @@ lanciano	$1
 lancino	$1
 lasciano	$1
 lavorano	$2 $alt2
+legano	$1
 leggano	$1
 leggere	$1 $alt
 leggimi	$1
+levano	$1
 lievitano	li'Evitano
 lievitino	li'Evitino
 limit	$1
@@ -1516,6 +1525,7 @@ offertogli	$2
 offrano	$1
 oppongano	$2
 opposero	$2
+oprim	$2
 ospita	$1
 ottengano	$2
 pagano	$1
@@ -1612,6 +1622,7 @@ ribellino	$2
 ricapitola	$3
 ricaricano	$2
 ricevano	$2
+riceverne	$2
 richiedano	$2
 riconoscevano	$4
 ricordano	$2
@@ -1678,6 +1689,7 @@ sconfinano	$2
 scoppiano	$1
 scoraggiano	$2
 scorrano	$1
+scrollano	$1
 scusami	$1
 scusiamo	skuzi'amo
 segnano	$1 $alt
@@ -1714,6 +1726,7 @@ smentiscano	$2
 soddisfano	$2
 soggiace	$2
 sognano	$1
+sollevano	$2
 sormontano	$2
 sorreggano	$2
 sorrid	$2
@@ -1794,7 +1807,10 @@ verificatisi	$4
 vincolano	$1
 visitano	$1
 visualizza	vizUal'i|dz:a
-voler	$2	$u+
+vogliano	$1
+volano	$1
+voler	$2
+volevano	$2
 vuol	vu'ol	$u+
 zoppicano	$1
 (che capitano)	ke||k'apitano
