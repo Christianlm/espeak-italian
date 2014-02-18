@@ -302,7 +302,7 @@
 		o (co_     O
 	@)	o (di_     =o
 	@)	o (do_     =o
-	@)	o (fono_   'O
+	@)	o (fonA_   'O
 		o (genA_   'O
 	l)	o (gico_   'O
 	@)	o (gnolo_  'o
@@ -313,7 +313,7 @@
 	CC)	o (lA_     =O
 	u)	o (lA_      O
 	v)	o (lA_     =o
-	@)	o (la_      O
+	@) o (lA_      O
 	gn)	o (la_      O
 		o (li       O
 	@)	o (liA_     O
@@ -370,6 +370,7 @@
 		r	@-*
 		r (_		@-*
 	_)	r	@-*
+	A) r (_	=@-*
 		rr	R*
 	A)	r (A	R
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 

@@ -997,7 +997,7 @@ congreg  $alt
 congrua $1  $alt
 congruo $1  $alt
 conifer $2
-coniuge $1
+coniug	k'oniudZ
 conn  $alt2
 cons  $alt
 consci  $alt
@@ -1171,7 +1171,7 @@ diabete  $alt
 diacon $2
 diaconia $4
 diadem  $alt
-diagnosi $2
+diagnosi $1
 dialett  $alt
 dialisi $2
 dialog $1
@@ -1876,7 +1876,6 @@ infer $1
 inferi $1
 infett  $alt
 infinitesim  $alt
-ingegnere $3
 ingenua  $alt
 ingenuo  $alt
 ingobbi  $alt
@@ -3652,8 +3651,9 @@ temu $2
 tenace $2
 tenebr $1  $alt
 tened $1  $alt
-tener $1  $alt2
-tenere $2  $alt2
+tenera	$1  $alt
+teneri	$1  $alt
+tenero	$1  $alt
 tenia  $alt
 tenue  $alt
 teocrazia $4
@@ -3687,7 +3687,6 @@ teschi  $alt
 teser $1
 tesi  $alt
 tespi  $alt
-tessere  $alt
 tessile  $alt
 testimone  $alt
 tetan $1  $alt
@@ -3932,7 +3931,7 @@ vescic $2
 vescov $1
 vescovile $3
 vesp  $alt
-vespasian $4
+vespasian $3
 vespr  $alt
 vestenanov  $alt
 veszprem $2  $alt2
