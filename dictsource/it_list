@@ -1095,6 +1095,13 @@ vocaboli	$2
 voragini	$2
 watt	vat[:
 
+padovano	$3
+petonciano	$3
+sandviciano	$3
+moldovano	$3
+mantovano	$3
+divano	$2
+
 //  countries, Proper names and locations and languages
 
 (charles baudelaire)	_^_FR
@@ -1159,6 +1166,7 @@ indonesia	$3
 ipocrit	$2 $alt
 ipopotam	$3
 ippocrate	$2
+ivano	$2
 jack	_^_EN
 jackson	_^_EN
 james	_^_EN
@@ -1325,7 +1333,6 @@ avanzano	$2
 avvengano	$2
 avvia	av:'i#a
 avviano	av:'iano
-avviavano	av:i'avano
 baciano	$1
 badano	$1
 ballano	$1
@@ -1642,7 +1649,6 @@ mormora	$1
 mormorano	$1
 mostrano	$1
 mostrino	$1
-muovano	mu'ovano
 muoviti	$2
 mutano	$1
 nascano	$1
@@ -1880,7 +1886,6 @@ spiegano	$1
 spostano	$1
 sprigionatosi	$3
 stabilitosi	$3
-stavano	$1
 stendano	$1
 stesero	$1
 stimol	$1
@@ -1948,6 +1953,10 @@ vuol	vu'ol	$u+
 zoppicano	$1
 (che capitano)	ke||k'apitano
 (capita a)	k'apita||a
+gioivano	dZo'ivano
+guaivano	gwa'ivano
+intarsiavano	inta@-*si'avano
+sciavano	Si'avano
 
 // Verbs without ultimate vowel
 
