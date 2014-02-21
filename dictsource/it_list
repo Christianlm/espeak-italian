@@ -1227,20 +1227,26 @@ walter	v'alte@-*
 washington	_^_EN
 zaccaria	$3
 zanzibar	$1
-
+francescano	$3
+toscano	$2
 
 // Exceptions for verbs and others irregular verbs 
 
+(capita a)	k'apita||a
+(che capitano)	ke||k'apitano
+(dai che)	d'ai||ke
+(seguita da)	segw'ita||da
+(seguite da)	segw'ite||da
+(seguiti da)	segw'iti||da
+(seguito da)	segw'ito||da
 abbandono	$3
 abilita	$2
-aboliscano	$3
 accadere	$3 
 accettino 	$2
 accodano	$2
 accorgano	$2
 accorrano	$2
 accorsero	$2
-acquisiscano	$3
 acquistano	$2
 addic	$2
 adoper	$2
@@ -1300,11 +1306,9 @@ arrecano	$2
 arrechino	$2
 arrestano	$2
 arrestino	$2
-arricchiscano	$3
 arrivano	$2
 arrivino	$2
 assalgano	$2
-asseriscano	$3
 asserragliano	$3
 assolvano	$2
 assommano	$2
@@ -1320,16 +1324,15 @@ attirano	$2
 attirino	$2
 attivano	$2
 attonit	$2
-attribuiscano	$4
 augura	$1
 auguro	$1
 aumentano	$3
 auspicano	$1
+avanzano	$2
 avvalere	$3
 avvalgano	$2
 avvantaggiano	$3
 avvantaggino	$3
-avanzano	$2
 avvengano	$2
 avvia	av:'i#a
 avviano	av:'iano
@@ -1360,7 +1363,6 @@ cercano	$1
 cercasi	$1
 chiamano	$1
 chiamino	$1
-chiariscano	$2
 chiesero	$1
 chiudano	$1
 circolano	$1
@@ -1390,11 +1392,10 @@ concentrano	$2
 concentrino	$2
 concludano	$2
 concorrano	$2
-condividerl	$3
 condivid	$3
 condividano	$3
+condividerl	$3
 condono	$2
-conferiscano	$3
 confermano	$2
 confermino	$2
 confid	$2
@@ -1405,7 +1406,6 @@ confrontano	$2
 confrontino	$2
 coniuga	k'onjuga
 connetter	$2
-conoscano	$2
 conoscevano	$3
 conseguano	$2
 consentano	$2
@@ -1419,7 +1419,6 @@ continuino	$2
 contraddici	$3
 contraddico	$3
 contraddistinguano	$4
-contribuiscano	kont@-*ibu'iskono
 convengano	$2
 conversano	$2
 conversino	$2
@@ -1433,10 +1432,8 @@ costringano	$2
 creano	$1
 credano	$1
 crederci	$1
-crescano	$1
 cucinano	$2
 dai	d'a:i $atend
-(dai che)	d'ai||ke
 deambulano	de'ambulano
 debbano	$1
 debuttino	$2
@@ -1485,7 +1482,6 @@ dispiace	dispi'atSe
 distinguano	$2
 distinguere	$2
 distintesi	$2
-distribuiscano	dist@-*ibu'iskano
 distribuit	dist@-*ibu'it
 disturbano	$2
 disturbino	$2
@@ -1523,8 +1519,8 @@ escluderl	$2
 eseguano	$2
 esercitano	$2
 esercitino	$2
-esistevano	$3
 esistano	$2
+esistevano	$3
 esplicitano	$2
 esplicitavano	$4
 espongano	$2
@@ -1533,13 +1529,9 @@ esprimersi	$2
 estendano	$2
 evidenziano	$3
 evit	$1
-falliscano	$2
 figurano	$2
-finiscano	$2
-fioriscano	$3
 formano	$1
 formino	$1
-forniscano	$2
 fotografa	$2
 friggerl	$1
 fulmin	$1
@@ -1547,32 +1539,33 @@ funzionano	$3
 funzionino	$3
 gemitano	$1
 gemitino	$1
-gestiscano	$2
 giocano	$1
 gioire	dZo'iRE
+gioivano	dZo'ivano
 girano	$1
 giudicano	$1
 giudichino	$1
 godere	$2 $alt2
 gridano	$1
 gridino	$1
-guardar	gwa@-*d'aR
+guaiscano	gw2a'i:skano
+guaivano	gwa'ivano
 guardano	$1
+guardar	gwa@-*d'aR
 illumin	$2
 illustrano	$2
 imit	$1
 immagin	$2
 imparano	$2
-impartiscano	$3
 impegnano	$2
 impegnino	$2
 imperterrita	$3
 implementano	$3
 implementino	$3
 impongano	$2
+inaugur	in'aw2gu@-*
 incaricano	$2
 incastrano	$2
-inaugur	in'aw2gu@-*
 incidano	$1
 incit	$1
 incontrano	$2
@@ -1594,6 +1587,7 @@ inseguano	$2
 installano	$2
 installino	$2
 instaurano	$2
+intarsiavano	inta@-*si'avano
 intasiamo	intazi'amo
 intentano	$2
 intentino	$2
@@ -1607,6 +1601,7 @@ intravedere	$4
 intrecciano	$2
 intreccino	$2
 invaghitosi	$3
+inveiscano	inve'iskano
 inventano	$2
 inventino	$2
 invia	Inv'Ia
@@ -1651,7 +1646,6 @@ mostrano	$1
 mostrino	$1
 muoviti	$2
 mutano	$1
-nascano	$1
 navigano	$1
 navigh	$1
 necessita	$2
@@ -1684,8 +1678,8 @@ passano	$1
 pattinano	$1
 pazientano	patsi'entano
 penetr	$1
-pensiamo	pensi'amo
 pensano	$1
+pensiamo	pensi'amo
 pensino	$1
 permettimi	$2
 perseguita	$2
@@ -1742,7 +1736,6 @@ rappresentino	$3
 rassomigliano	$3
 ravvisano	$2
 ravvisino	$2
-reagiscano	$3
 recano	$1
 recitano	$1
 recuper	$2
@@ -1754,7 +1747,6 @@ reinvio	@-*einv'io
 rendano	$1
 reputa	$1
 restano	$1
-restituiscano	@-*estitu'iskano
 restringano	$2
 riabilita	$3
 riallacciano	$3
@@ -1772,7 +1764,6 @@ ridimensionano	$5
 riducano	$2
 rientrano	$2
 rientrino	$2
-riescano	$2
 rifiutano	$2
 rifugiano	$2
 riguardano	$2
@@ -1787,8 +1778,8 @@ ripagano	$2
 ripaghino	$2
 ripartano	$2
 ripetano	$2
-ripetersi	$2
 ripeterl	$2
+ripetersi	$2
 riprendano	$2
 rischiano	$1
 rischino	$1
@@ -1821,11 +1812,12 @@ sbrigati	$1
 scalpita	$1
 scambiano	$1
 scambino	$1
-scandiscano	$2
 scaricano	$1
 sciando	Si'andO
+sciano	S'i;ano
 sciare	Si'aRe
 sciato	Si'atO
+sciavano	Si'avano
 sconfinano	$2
 scoppiano	$1
 scoraggiano	$2
@@ -1834,10 +1826,6 @@ scrollano	$1
 scusami	$1
 scusiamo	skuzi'amo
 segnano	$1 $alt
-(seguita da)	segw'ita||da
-(seguite da)	segw'ite||da
-(seguiti da)	segw'iti||da
-(seguito da)	segw'ito||da
 seguono	$1
 selezionale	$4
 selezionali	$4
@@ -1852,7 +1840,6 @@ servino	$1
 sfidano	$1
 sfidino	$1
 sfilano	$1
-sfiniscano	$2
 sfiorano	$2
 sfiorino	$2
 sfondano	$1
@@ -1863,7 +1850,6 @@ sforzino	$1
 sfruttino	$1
 siediti	$1
 simulano	$1
-smentiscano	$2
 soddisfano	$2
 soggiace	$2
 sognano	$1
@@ -1874,7 +1860,6 @@ sorrid	$2
 sorteggino	$2
 sostenere	$3
 sovrappongano	$3
-spariscano	$2
 sparlano	$1
 sparlino	$1
 specchiano	$1
@@ -1951,18 +1936,12 @@ volano	$1
 volevano	$2
 vuol	vu'ol	$u+
 zoppicano	$1
-(che capitano)	ke||k'apitano
-(capita a)	k'apita||a
-gioivano	dZo'ivano
-guaivano	gwa'ivano
-intarsiavano	inta@-*si'avano
-sciavano	Si'avano
 
 // Verbs without ultimate vowel
 
-comprender	$2
 accender 	$2
 batter	$1
+comprender	$2
 dipender	$2
 esser	$1
 gioir	dZo'i@-*
