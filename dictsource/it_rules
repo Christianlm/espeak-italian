@@ -49,6 +49,7 @@
 .group b
 		b       b
 		bb      b:
+	bbano (_	=b:ano // for verbs
 
 .group c
 		c	k
@@ -68,6 +69,10 @@
 	@)	co (lA_ =ko
      _) c' (P2t     tS
 	@@A) ce (A_	=tSE
+	ciano (_	=tSano
+	cciano (_	=tS:ano
+	chiano (_	=kiano
+	A) cchiano (_	=k:iano
 
 .group d
 		d	d
@@ -246,7 +251,11 @@
 	ite (L04_	'ite
 	iver (L04_	'ivE@-*
 	d) iver (L04_	iv'E@-*
-	ivano (_	'ivano
+	ivano (_	'ivano   // verbs
+	i (ficano_	'i    // verbs
+	ifichino (_	'ifikino   // verbs
+	ACCC) i (cano_	=i   // verbs
+	i (Ccano_	'i   // verbs
 
 .group j
 
@@ -271,6 +280,7 @@
      _) m' (P2t     m
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-*
+	mbano (_	=mbano // for verbs
 
 .group n
 		n	n
@@ -325,7 +335,7 @@
 	@)	o (logo_   'O
 	c)	o (ltA_     O
 	sc)	o (ltA_     o
-	v)	o (lt       O
+	v)	o (ltA_	O
 	@)	o (metro_  'O
 	@)	o (ma_      O
 	@)	o (mo_      O
@@ -338,7 +348,7 @@
 	@)	o (nzolo_  'o
 		o (o        O
 		o (polA_   'O
-	sc)	o (p        O
+	sc)	o (pA_        O
 		o (r	    O
 		o (rY_      o
 	f)	o (rmA_     o
@@ -354,6 +364,8 @@
 		over (L04_	'ovE@-*
 	d) over (L04_	Ov'E@-*
 	ovano (_ 'ovano
+	o (CCano_	'O   // verbs
+	o (CCicano_	'O   //verbs
 
 .group p
 		p	p
@@ -417,6 +429,8 @@
 	_) sotto (P5t	sot:o
 	@) scer (L04_	=SE@-*
 	A) scano (_	=skano
+	sciano (_	=Sano
+	A) schiano (_	=skiano
 
 .group t
 		t	t
@@ -444,7 +458,8 @@
 	ural (Y_	uR'al
 	C) ura (L04_	'uRa
 	uder (L04_	'udE@-*
-	uvano (_	'uvano
+	uvano (_	'uvano // for verbs
+	ubano (_	'ubano // for verbs
 
 .group v
 		v	v
@@ -478,7 +493,7 @@
 		@i) zza (ti_	dz:'a
 	zion (A_	tsi'On
 	ziona (ti_	tsiOn'a
-	zional (Y	tsiOn'al
+	zional (Y_	tsiOn'al
 	ziona (L04_	tsi'Ona
 
 .group 0xce   // Greek letters
