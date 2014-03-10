@@ -252,7 +252,7 @@ _27	ventis'Et:e
 _28     v'ent'Ot:o
 _29	ventin'Ove
 _3X     t@-*'enta
-_4X     kw2aR'aNta
+_4X     kw2a/R'a:Nta
 _5X     tSinkw2'anta
 _6X     sess'anta
 _7X     set:'anta
@@ -531,7 +531,6 @@ avevamo	$u3
 avevate	$u3
 
 avrò	a/v@-*'O $u+
-avrai	$u2+
 avrà	$u+
 avremo	$u2+
 avrete	$u+
@@ -558,7 +557,7 @@ avrebbero	$u+	$alt
 fare	$u1+
 faccio	$u1+
 facciamo	$u+
-fai	f'ai
+fai	f'aI
 fate	$u1+
 fa	$u+
 fanno	$u1+
@@ -601,7 +600,7 @@ boom	bum
 bordeaux	_^_FR
 boxer	$1
 braille	b@-*ail:
-browser	b@-*'awzEr
+browser	b@-*'a/:wzer
 buffer	b'afe@-*
 bulldozer	$2
 bunker	$1
@@ -849,8 +848,9 @@ apatie	apat'ie
 aprile	ap@-*'ilE
 arbore	$1
 archeologi	$3
-aree	$1
+aree	'a:REe
 areoplano	aREopl'ano
+artifici	a@-*tif'itSi
 asfissie	asfis:'ie
 atenei	$3
 ateneo	$3
@@ -977,7 +977,6 @@ lontano	$2
 lucine	$2
 lucubri	$1
 lumache	$2
-macellai	$3
 maceria	$2
 macerie	$2
 madrepatria	$3
@@ -985,7 +984,6 @@ maggior	$2
 malvagia	$2
 mantovano	$3
 maomettano	$4
-marinai	$3
 maschera	$1
 medesim	$2 $alt2
 mediaset	m'Ediaset
@@ -1010,8 +1008,8 @@ non	$u+
 nuocciono	$alt
 olfattori	$3
 oper	$1 $alt2
-operai	opER'ai
-operaio	opeR'ajo
+operai	opeR'a/:I:
+operaio	opeR'a/:jo
 origin	$2
 ospiti	$1
 ottim	$1
@@ -1112,6 +1110,7 @@ teorie	$3
 tesser	$1	$alt
 titoli	t'itoli
 uffici	$2
+ugol	'u:gol
 ultime	$1
 ultimi	$1
 ultrasuono	ult@-*a||su'Ono
@@ -1347,6 +1346,7 @@ segonzano	$3
 shakespeare	_^_EN
 sidney	$1
 simpliciano	$3
+sinnai	$1
 socrate	$1
 sofia	sof'ia	$capital
 soldano	$2
@@ -1628,7 +1628,6 @@ esaltino	$2
 esamin	$2
 esasper	$2
 esasperano	$2
-esclamai	esklam'aI
 escludano	$2
 escluderl	$2
 eseguano	$2
@@ -1676,6 +1675,7 @@ impegnino	$2
 imperterrita	$3
 implementano	$3
 implementino	$3
+impossibilitano	$3
 inaugur	in'aw2gu@-*
 incaricano	$2
 incastrano	$2
@@ -1798,7 +1798,6 @@ portino	$1
 possedere	$3
 posseggano	$2
 postulano	$2
-potrai	pot@-*'aj
 precipita	$2
 pregano	$1
 preghino	$1
@@ -1958,6 +1957,7 @@ stendano	$1
 stesero	$1
 stimol	$1
 studiano	$1
+subito	sub'i:to	$verb
 suicid	$3
 suonano	$1
 super	$1

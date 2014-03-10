@@ -162,7 +162,7 @@ anaclasi $2
 anacond  $alt
 anagrafe $2
 analfabet  $alt
-analisi $2
+analisi	an'alizi
 analog $2
 anamnesi $2
 anania $3
@@ -345,8 +345,6 @@ asmonei $3
 asol $1
 asparag $2
 aspett  $alt
-aspri $2
-assai $2
 assedi  $alt
 assemble $3
 assemini $2
@@ -758,7 +756,6 @@ castin $1
 castore $1
 castroliber $3
 castrovillari $3
-catai $2
 catalett  $alt
 catalisi $2
 catalog $2
@@ -2075,7 +2072,6 @@ loredan $3
 loreggia  $alt
 lorsic  $alt2
 lot  $alt
-lotzorai $3
 lovere  $alt2
 lucia  lutS'i:a
 lucifug $2
@@ -2166,7 +2162,7 @@ marron $2
 marsia $1
 marsicovetere  $alt
 martinitt $3
-martire $1
+martir	$1
 martirologi  $alt
 martor $1
 mascali $1
@@ -2521,7 +2517,6 @@ oleodott  $alt2
 olg  $alt
 oligarchia $4
 oligodendroglioma  Oligodend@-*ol^'iOma
-ollolai $3
 olmi  $alt
 oltremod $3  $alt
 oltreocean $4
@@ -2553,7 +2548,6 @@ oppi  $alt
 oppost  $alt2
 opprimente  $alt
 oraf $1
-oramai $3
 orbit $1
 orca		$alt2
 orcia  $alt2
@@ -3205,7 +3199,6 @@ rozz  $alt2
 rua $2
 rubel $2
 rubric $2
-rucellai $3
 rufin $1
 ruot  $alt
 ruoti  $alt
@@ -3342,7 +3335,6 @@ semicerchi  $alt2
 semidi $3
 semin $1  $alt2
 semirett  $alt
-semmai $2
 semol $1
 sempre  $alt
 sempreverde  $alt2
@@ -3389,7 +3381,6 @@ sfoggi  $alt
 sfoglia  $alt
 sfregi  $alt
 sgomber $1
-shanghai $2
 sibari $1
 sidereo $2
 siepe  $alt

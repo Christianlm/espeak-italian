@@ -19,7 +19,8 @@
 
 .group a
 		a	a
-		ai (K   aI
+	ai (_	'aj
+		ai (C   aI
                 ao (_N   aU
                 au	a%u
 	@C)	a (_S1q  a     // lookup it_list without suffix
@@ -30,7 +31,6 @@
 		a (ismo_  'a
 	@)	a (bile_  'a
 	@)	a (ggine_ 'a
-
 	_)	ae (r    aE
 	avano (_	'avano
 		a (tterA_   'a
@@ -256,6 +256,7 @@
 	ifichino (_	'ifikino   // verbs
 	ACCC) i (cano_	=i   // verbs
 	i (Ccano_	'i   // verbs
+	ilitano (_	'ilitano   // verbs
 
 .group j
 
@@ -389,9 +390,9 @@
 		rr	R*
 	A)	r (A	R
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
-	C) rai (_	@-*'aI
-	A) rai (_	R'aI
-	rrai (_	R*'aI
+	C) rai (_	@-*'a:I
+	A) rai (_	R'a:I
+	rrai (_	R*'a:I
 
 .group s
 		s	s
