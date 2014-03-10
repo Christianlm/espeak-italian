@@ -63,8 +63,15 @@ _hac	h'atSek
 _mcn	m'ak@-*on
 _ogo	og'o:nek
 _rng	an'ello
-_stk	b'aR*a
+_stk	baR*'a:ta
 _tld	kon||t'ilde
+_smc	m,ajuskol'e:t:o
+_tur	@-*oveS'a:ta
+_bar	baR*'a:ta
+_rfx	@-*et@-*ofl'E:s:a
+_hok	untSin'ata
+_crl	k'u@-*lI
+_rev	inv'E:@-*sa
 
 // character names
 
@@ -72,7 +79,7 @@ _cap	maj'uskola
 _sub	p'editSe||
 _sup	'apitSe||
 _??	s'imbolo
-_?A	let:'e:Ra
+_?A	l'et:e:Ra
 _braille	b@-*'aIll
 
 *	aste@-*'isko $max3
@@ -115,7 +122,7 @@ _}	kj,uzag@-*'af:a
 ¡	p'unto||esklamat'ivo||@-*ovES'ato
 ¿	p'unto||inteR*ogat'ivo||@-*ovES'ato
 ∞	infin'Ito
-_¦	b'aR*a||spets:'ata
+¦	b'aR*a||spets:'ata
 _´	atS:'Ento||ak'uto
 _·	p'unto||tSent@-*'ale
 _¸	tSed'il^ia
@@ -141,6 +148,13 @@ _‼	esklamatsi'One
 √	s,En^o||d,i||@-*ad'itSe
 ≠	non||ugw'ale||,a
 ∫	integ@-*'ale
+_‐	legat'u:Ra
+_‒	lini'et:a
+_₠	'EuRo
+ɛ	'E||ap'E@-*ta
+ɔ	'O||ap'E@-*ta
+ɾ	ER*e||untSin'ata
+ʔ	glotalst'Op
 
 // Language names
 _el	g@-*'ekO
@@ -2027,4 +2041,28 @@ riscuoter	$2
 risolver	$2
 tender	$1
 tener	$2	$only
+
+// phonetic modifiers
+
+ː	d,ue|p'unti_
+U+2b0	aspiR'ato_ // supr-h
+//U+2b2	dZ'eI||_'apitSe_  // supr-j
+// U+2b2	i||l'uNga||p'ik:ola   // ʲ
+U+2bc	ejet:'iva_   // ʼ
+U+2c8	atS:'ento||_p@-*im'aRio   // ˈ
+U+2cc	atS:'ento||_sekoNd'aRio   // ˌ
+
+// combining diacritics
+U+300	g@-*'a:ve_   // ̀
+U+301	ak'u:to_   // ́
+U+302	tSi@-*konfl'Es:o_   // ̂
+U+303	t'Ilde_   // ̃
+U+304	m'ak@-*ON_   // ̄
+U+306	b@-*'E:ve_   // ̆
+U+308	di'ERezi   // ̈
+U+30a	an'e:l:o||in||'alto_   //̊ 
+U+31e	ap@-*os:im'ante_   // ̞
+U+325	an'e:l:o||in||b'as:o_   // ̥
+U+32a	dent'ale_   // ̪
+U+32f	n,onsil:'abika   // ̯
 
