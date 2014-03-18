@@ -49,7 +49,7 @@
 .group b
 		b       b
 		bb      b:
-	bbano (_	=b:ano // for verbs
+	bbano (_	=b:ano // verbs
 
 .group c
 		c	k
@@ -69,8 +69,8 @@
 	@)	co (lA_ =ko
      _) c' (P2t     tS
 	@@A) ce (A_	=tSE
-	ciano (_	=tSano
-	cciano (_	=tS:ano
+	ciano (_	=tSano   // verbs
+	cciano (_	=tS:ano   // verbs
 	chiano (_	=kiano
 	A) cchiano (_	=k:iano
 
@@ -177,6 +177,7 @@
 	@) gn (A_	n^;
 	a) gn (A_	n^:
 		gu (A   gw
+	guono (_	=gw2ono   / verbs
 
 .group h
 		h
@@ -217,7 +218,11 @@
 		i (asi_   'i
 	@)	i (bile_  'i
 	@)	i (cA_	  =i
+	ele%tr) ici (_	=itSi
+	centr) ici (_	=itSi
+	metr) ici (_	=itSi
 	tr)	i (cY_     i
+	if) ici (_	'itSi
 	@)	i (chA_   =i
         @)      i (dA_    =i
         @)      i (dere_  'i
@@ -281,7 +286,7 @@
      _) m' (P2t     m
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-*
-	mbano (_	=mbano // for verbs
+	mbano (_	=mbano // verbs
 
 .group n
 		n	n
@@ -391,7 +396,7 @@
 	A)	r (A	R
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
 	C) rai (_	@-*'a:I
-	A) rai (_	R'a:I
+	A) rai (_	R'a/:I
 	rrai (_	R*'a:I
 
 .group s
@@ -459,8 +464,8 @@
 	ural (Y_	uR'al
 	C) ura (L04_	'uRa
 	uder (L04_	'udE@-*
-	uvano (_	'uvano // for verbs
-	ubano (_	'ubano // for verbs
+	uvano (_	'uvano // verbs
+	ubano (_	'ubano // verbs
 
 .group v
 		v	v
@@ -496,6 +501,11 @@
 	ziona (ti_	tsiOn'a
 	zional (Y_	tsiOn'al
 	ziona (L04_	tsi'Ona
+	cra) zia (_	ts'i;a/
+	cra) zie (_	ts'I;e/
+	man) zia (_	ts'i;a
+	man) zie (_	ts'i;e
+
 
 .group 0xce   // Greek letters
 // 0xce is the first byte of the utf-8 code for these characters

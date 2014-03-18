@@ -53,7 +53,7 @@ _ú	$accent
 _lig	l,egat'u:Ra
 _acu	ak'u:to
 _ac2	d'op:i;o_|ak'u:to	
-_brv	b@-*'e:ve
+_brv	b@-*'E:ve
 _ced	tSed'il^a
 _cir	tSi;@-*konfl'esso
 _dia	djeR'e:zI
@@ -91,7 +91,7 @@ _.	punto	$max3
 \	bakslaS	$max3
 ₤       lI@-*a
 £       sterl'ina
-&	_e
+&	_^_EN
 €	'euRo
 _@       ki'otS:ola
 ©       k'opiraIt
@@ -100,7 +100,6 @@ _@       ki'otS:ola
 ~	tilde
 °	g@-*'a:di
 _:	d,uep'unti
-
 _!	p,untoesklamat'ivo
 _"	viRgolet:e
 _'	ap'OstRofo
@@ -128,8 +127,8 @@ _·	p'unto||tSent@-*'ale
 _¸	tSed'il^ia
 _―	b'aR*a||oRidzOnt'ale
 _‖	d,op:ia||b'aR*a
-_‚	viRgol'Et:a||in||b'asso
-_‛	viRgol'Et:a||sin'ist@-*a
+_‚	vi@-*gol'Et:a||in||b'asso
+_‛	vi@-*gol'Et:a||sin'ist@-*a
 _„	d,Op:ie||vi@-*gol'Et:e||in||b'asso
 _†	k@-*'otSe||lat'ina
 _‡	k@-*'otSe||lat'ina||d'Op:ia
@@ -138,7 +137,6 @@ _′	p@-*'imi
 _″	d'Op:io||'apitSe
 _‴	t@-*'iplo||'apitSe
 _‼	esklamatsi'One
-
 ¶	paR'ag@-*afo
 ¤	s'imbolo||di||v'aluta
 −	m'Eno
@@ -155,6 +153,31 @@ _₠	'EuRo
 ɔ	'O||ap'E@-*ta
 ɾ	ER*e||untSin'ata
 ʔ	glotalst'Op
+
+// phonetic modifiers
+
+ː	d,ue|p'unti_
+U+2b0	aspiR'ato_ // supr-h
+//U+2b2	dZ'eI||_'apitSe_  // supr-j
+// U+2b2	i||l'uNga||p'ik:ola   // ʲ
+U+2bc	ejet:'iva_   // ʼ
+U+2c8	atS:'ento||_p@-*im'aRio   // ˈ
+U+2cc	atS:'ento||_sekoNd'aRio   // ˌ
+
+// combining diacritics
+
+U+300	g@-*'a:ve_   // ̀
+U+301	ak'u:to_   // ́
+U+302	tSi@-*konfl'Es:o_   // ̂
+U+303	t'Ilde_   // ̃
+U+304	m'ak@-*ON_   // ̄
+U+306	b@-*'E:ve_   // ̆
+U+308	di'ERezi   // ̈
+U+30a	an'e:l:o||in||'alto_   //̊ 
+U+31e	ap@-*os:im'ante_   // ̞
+U+325	an'e:l:o||in||b'as:o_   // ̥
+U+32a	dent'ale_   // ̪
+U+32f	n,onsil:'abika   // ̯
 
 // Language names
 _el	g@-*'ekO
@@ -192,7 +215,7 @@ _zh	tSIn'ezE
 ё	_^_RU
 ж	_^_RU
 з	_^_RU
-и	jery||-uk@-*'ainO
+и	i
 й	'I||-b@-*'eve
 к	_^_RU
 л	_^_RU
@@ -416,7 +439,7 @@ verso      $u1+      // toward
 
 // prepositions
 
-a       $u+
+a       $u+ $verbf
 al      $u+ $only
 allo    $u+
 alla    $u+
@@ -433,7 +456,7 @@ dai     $u+
 dagli   $u+
 dalle   $u+
 
-di	$u+ $only 	// of
+di	$u+ $only $verbf
 del	$u+ $only
 dello   $u+
 della	$u+	// of the
@@ -463,7 +486,7 @@ con	$u+  $only	// with
 col     $u+ $only
 coi     $u+ $only
 
-per	$u+  $only    // for
+per	$u+  $only $verbf
 tra	$u+
 fra	$u+
 
@@ -827,6 +850,7 @@ acrobazia	$4
 aerea	a'E:Rea
 aerei	a'E:REi
 aereo	a'E:REo
+aeroplano	aERopl'ano
 agenzie	adZents'ie
 alcun	$u2+
 algebra	$1
@@ -835,6 +859,7 @@ ambrosiano	$3
 amic	$2
 amiche	$2
 amnistie	amnist'ie
+analoghe	$2
 anemie	anem'ie
 anime	$1
 anomala	$2
@@ -842,6 +867,7 @@ anomalie	$4
 ansia	'ansia
 ansie	'ansie
 antich	$2
+antidolorifici	$5
 antilopi	$2
 antipatie	antipat'ie
 apatie	apat'ie
@@ -850,7 +876,7 @@ arbore	$1
 archeologi	$3
 aree	'a:REe
 areoplano	aREopl'ano
-artifici	a@-*tif'itSi
+artifici	a@-*tif'itSi  $only
 asfissie	asfis:'ie
 atenei	$3
 ateneo	$3
@@ -868,11 +894,15 @@ becera	$1
 beneficio	$3
 bizzarria	$3
 bizzarrie	$3
+bombarol	$3 $alt
+bonifici	$2
 bronz	b@-*'ondz
+
 brusii	b@-*uz'ij
 buon	bu'on	$u+
 burocrate	$2
 caffeina	kaf:E'ina
+calorifici	$3
 capitoli	$2
 carboniferi	$3
 cardiache	ka@-*d'iake
@@ -880,7 +910,8 @@ carestie	ka@-*est'ie
 cataloghi	$2
 categorie	$4
 celsius		tsElsj'us
-ciao	$strend $pause
+ciao	tSao/	$sentence
+(ciao a)	tS'ao||_|,a	$sentence
 ciascun	$u3+
 ciascuna	$2
 ciascune	$2
@@ -893,7 +924,7 @@ compagnie	kompan^'ie
 compatrono	$3
 contumace	$3
 copertin	$3
-cornici	$2
+cornic	ko@-*n'itS
 crimini	$1
 curriculum	$2
 debol	$1
@@ -901,8 +932,8 @@ decim	$1
 decimonono	$4
 decine	$2
 deleghe	$1
-democrazie	demok@-*ats'ie
 demoni	$1
+dentifrici	$3
 deroghe	$1
 detraibil	det@-*a'ibil
 dialoghi	$1
@@ -911,24 +942,29 @@ disguid	dizgw2'id
 disordin	$2
 dispiacere	$3
 divano	$2
+dolorifici	$3
 economie	ekonom'ie
 edifici	$3
 edili	$1
 efficaci	$3
+egoistici	ego'istitSi
 embolie	$3
 energie	ene@-*dZ'ie
 enzim	endz'im
+epigastrici	$3
 episodi	$3
 epoche	$1
 eter	$1	$alt2
 etnie	etn'i#e
 europei	$4
+europeistici	eu@-*ope'istitSi
 faccine	$2
 facilita	$2
+fantascientifici	$4
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
 fatiche	$2
-felici	$2
+felic	$2
 femminili	$3
 ferie	$1 $alt
 ferita	$2
@@ -941,6 +977,7 @@ fischiettio	fiskiet:'io
 fischio	f'iskio
 follie	$2
 formiche	$2
+formici	$1
 formicolio	$4
 fornaci	$2
 fornitrici	$3
@@ -949,13 +986,18 @@ frastuono	$2
 fraticid	$3
 fugaci	$2
 garanzie	gaRants'ie
+gastrici	$1
 gazzetta	ga|dz:'Et:a
 genesi	$1
 gentil	$2
+geroglifici	dZeRogl'ifitSi
 ghiacciol	gIatS:'ol
 giovani	dZ'ovani
 giovanil	$3
 glicemia	glitSem'ia
+glicemici	glitS'emitSi
+glicerofosforici	glitSeRofosf'oRitSi
+glicolici	glik'olitSi
 glutine	$1
 gonartria	$3
 grandin	$1
@@ -963,34 +1005,48 @@ guaiscono	gua'iskono
 idiozia	$4
 idiozie	idiots'i#e
 idroplano	id@-*opl'ano
+idroterapeutici	$5
 imprenditoria	$5
 incapac	$3
+infelic	infel'itS
 ingegnere indZen^'ERe
 ingordigia	$3
+intarsiatrici	$5
 intercapedini	$4
 intere	$2	$alt2
+interspecifici	$4
+intraspecifici	$4
+iperglicemici	ipe@-*glitS'EmitSi
 ipertono	$3
+ipogastrici	$3
+istric	'ist@-*itS
 kimono	$2
 lacrime	$1
+lastrici	$1
+legger	$2 $alt
 licei	litS'Ei
 lontano	$2
 lucine	$2
 lucubri	$1
 lumache	$2
+luteinici	lute'initSi
 maceria	$2
 macerie	$2
 madrepatria	$3
 maggior	$2
+magnifici	$2
 malvagia	$2
 mantovano	$3
 maomettano	$4
 maschera	$1
+maschil	$2
 medesim	$2 $alt2
 mediaset	m'Ediaset
 melodie	melod'ie
 melograno	$3
 mensili	$2
 menu	mEn'u
+mesogastrici	$3
 meteo	$1
 mezz	m'Edz:
 mezzosoprano	medz:osop@-*'ano
@@ -1000,13 +1056,17 @@ microtono	$3
 miglior	mil^'O@-*
 moldovano	$3
 monoplano	$3
+naric	$2
 negligenza	neglidZ'entsa
 negrita	$2
 nessun	$u2+
 no		nO $strend
 non	$u+
 nuocciono	$alt
-olfattori	$3
+odontoiatrici	odontoj'a/t@-*itSi
+officine	$3
+olfattori	$3 $alt
+onorifici	$3
 oper	$1 $alt2
 operai	opeR'a/:I:
 operaio	opeR'a/:jo
@@ -1016,8 +1076,10 @@ ottim	$1
 ovvia	'ov:ia
 ovvie	'ov:ie
 ozono	o|dz'ono
+pacifici	$2
 padovano	$3
 pantofol	$2
+parascientifici	$4
 parodie	pa@-*od'ie
 parrocchiano	$4
 passegger	$3
@@ -1026,8 +1088,10 @@ patrie	$1
 patrono	$2
 pedine	$2
 peggior	$2 $alt
+perigastrici	$3
 peripezia	$4
 peripezie	pe@-*ipets'ie
+pernic	$2
 pero	$1 $alt
 perspicac	$3
 petonciano	$3
@@ -1037,6 +1101,7 @@ pioviggin	$3
 pistola	$2
 pluriomicid	$5
 posta		p'Osta
+pranoterapeutici	$5
 prevendit	$2
 primavere	$3
 principe	$1
@@ -1045,18 +1110,28 @@ principio	$2
 profezie	p@-*ofets'ie
 profug	$1
 profughi	$1
+prolifici	$2
 prossime	$1
 proteine	p@-*ote'ine
+pseudoscientifici	$5
+psichiatrici	$2
 psicologi	$2 $onlys
+psicoterapeutici	$5
 pulizie	pulits'ie
 quia		kw'ia
-radici	$2
+quiete	kuj'Ete 
+quietistici	kuIed'istitSi
+radic	$2
+radiofarmaceutici	$6
+radioterapeutici	$6
 rapaci	$2
 razzo	@-*'a|dz:o
 reciproche	$2
 reduci	$1
+regim	$2
 regine	$2
 remore	$1
+repubblicano	$4
 restio	@-*est'io
 revoche	$1
 riavvia	@-*iav:'i#a
@@ -1073,6 +1148,8 @@ sandviciano	$3
 satelliti	$2
 sature	$1
 scandinavi	$2
+scaricabaril	$5
+scheletrici	$2
 schizzofrenia	$4
 scia	S'Ia
 sciabile	Si'abile
@@ -1081,6 +1158,7 @@ sciacquio	S,akw2'IO
 sciator	Si|at'oR
 sciatric	Siat@-*'ItS
 scie	S'i%e
+scientifici	$2
 scintillio	$3
 scomoda	$1
 scricchiolio	$4
@@ -1095,13 +1173,17 @@ sottili	$2
 sottoparagrafi	$4
 sottotono	$3
 sovratono	$3
+specifici	$2
 spie	sp'ie
+sproposit	$2
 statua	$1
 statue	$1
+stereospecifici	$5
 strategie	st@-*atedZ'ie
 sublim	$2
 succube	$1
 superfice	$3
+superfici	$3
 superstiti	$2
 sussidi	$2
 tenaci	$2
@@ -1109,6 +1191,7 @@ tendini	$1
 teorie	$3
 tesser	$1	$alt
 titoli	t'itoli
+transpacifici	$3
 uffici	$2
 ugol	'u:gol
 ultime	$1
@@ -1118,6 +1201,7 @@ univoche	$2
 uomini		$1
 vagin	$2
 vergini	$1
+vernic	$2
 vesciche	$2
 videocamera	$4
 visualizzazion	vizUali|dz:atsi'On
@@ -1125,6 +1209,7 @@ vittime	$1
 vivaci	$2
 vocaboli	$2
 voragini	$2
+vuot	vu'O:t
 watt	vat[:
 
 //  countries, Proper names and locations and languages
@@ -1133,7 +1218,9 @@ watt	vat[:
 (coca cola)	k,okak'ola
 (tel aviv)	t,El||av'iv;:
 acciano	$2
+agazzano	$3
 agostano	$3
+albuzzano	$3
 alessia	$2 $capital
 alexander	$3
 alzeimer	alts'aime@-*
@@ -1148,14 +1235,18 @@ anita	$2
 annamaria	$4
 aostano	$3
 arbatax	$3
+arizzano	aRidz:'ano
 armida	$2
 arrigo	$2
 asciano	$2
 asdrubale	$2
 asia	''a:zi%a
+avezzano	$3
 barisciano	$3
+barlettano	$3
 basciano	$2
 baudelaire	bOdl'E@-*
+bazzano	$2
 beatles	bItols
 bergamo	$1
 bolognano	$3
@@ -1167,17 +1258,22 @@ bracciano	$2
 brasile	$2
 bresciano	$2
 brian	b@-*'aian
+
 brusciano	$2
 bruxelles	b@-*uks'El:
 bucciano	$2
 bulgare	$1
 cagliari	$1
+calizzano	$3
+calvizzano	$3
 camerun	$1
 camilleri	$3
 caporciano	$3
 carbognano	$3
+carezzano	$3	$capital
 carmelo	$2
 casamarciano	$4
+castelmezzano	$4
 catia	k'a:tia
 chaplin	tS'apliN
 charlie	tS'a@-*li
@@ -1187,6 +1283,7 @@ cicciano	$2
 ciorlano	$2
 cismontano	$3
 citramontano	$4
+civezzano	$3
 colombano	$3
 colombano	$3
 conzano	$2
@@ -1203,6 +1300,7 @@ dallas	$1	$capital
 danilo	$2
 dionigi	$3
 dorzano	$2
+durazzano	$3
 elena	'ElEna
 elgar	$1	$only
 elia	el'ia
@@ -1214,9 +1312,13 @@ everest	$1
 federic	$3
 federiciano	$4
 feliciano	$3
+felizzano	$3
 ferragostano	$4
+ferrazzano	$3
+ferruzzano	$3
 filacciano	$3
 fisciano	$2
+fivizzano	$3
 fossano	$2
 francescano	$3
 francisco	f@-*ans'isko
@@ -1224,6 +1326,7 @@ fusciano	$2
 gabbano	$2
 gallipoli	$2
 gavorrano	$3
+genazzano	$3
 genesia	$2
 genova	$1
 georgia	dZE'o:@-*dZa
@@ -1231,6 +1334,7 @@ gianluigi	dZanlu'idZi
 giordano	$2
 giorgia	$1
 girolamo	$2
+gittano	$2
 godrano	$2
 gozzano	$2
 gramsciano	$2
@@ -1238,6 +1342,7 @@ guinea	gwin'ea
 hotel	$2
 iacopo	i'akopo
 igor	$1
+ilbono	$2
 imperia	$2
 indonesia	$3
 indostano	$3
@@ -1263,6 +1368,7 @@ kuwait	kw2'E:it[
 labrador	$1
 larciano	$2
 libano	$1
+lizzano	lits:'ano
 longano	$2
 lucía	_^_ES
 luciano	$2
@@ -1274,47 +1380,64 @@ madrid	$2
 manchester	_^_EN
 manciano	$2
 mantova	$1
-maria	ma@-*'i;a
+maria	ma/@-*'i:a
 marsciano	$2
+marylin	m'ERilin
 matriciano	$3
+mazzano	$2
+melizzano	$3
+mezzano	medz:'ano
 michael	m'aIkOl
 michelangelo	$3
 mike	_^_EN
 minucciano	$3
 miscano	$2
 modena	$1
+molfettano	$3
 mondano	$2
+monroe	_^_EN
 monsano	$2
-monzano	mOndz'ano
 montegiordano	$4
 montemarciano	$4
 montepulciano	$4
 montescano	$3
 monticiano	$3
 monzambano	$3
+monzano	mOndz'ano
 morgano	$2
+moscazzano	$3
 moschiano	$3
 mossano	$2
 mozilla	mo|dz'il:a
+mulazzano	$3
+murazzano	$3
+muzzano	$2
 napoli	$1
+nazzano	$2
 nevano	$2
 nicola	$2
 niger	$1
+nizzano	nits:'ano
 nocciano	$2
 oltramondano	$4
 oltramontano	$4
 oltremondano	$4
 oltremontano	$4
 ontano	$2
+ortezzano	$3
 orzano	$2
 ostano	$2
 ottano	$2
 paciano	$2
 padova	$1
+pagazzano	$3
 parigi	$2
 pavano	$2
 pavia	pav'ia
+pazzano	$2
 pedemontano	$4
+pellezzano	$3
+pellizzano	$3
 perugia	$2
 pesaro	$1
 pescolanciano	$4
@@ -1326,10 +1449,12 @@ piozzano	$3
 pognano	$2
 ponzano	$2
 prascorsano	$3
+resuttano	$3
 ricciano	$2
 rimini	$1
 rodrigo	$2
 rofrano	$2
+roger	$1 $alt
 rognano	$2
 rosciano	$2
 rossano	$2
@@ -1340,6 +1465,7 @@ rusticiano	$3
 ryanair	@-*'aIaneR
 sandviciano	$3
 saragozzano	$4
+sarezzano	$3
 sassari	$1
 scisciano	$2
 segonzano	$3
@@ -1347,6 +1473,7 @@ shakespeare	_^_EN
 sidney	$1
 simpliciano	$3
 sinnai	$1
+sizzano	$2
 socrate	$1
 sofia	sof'ia	$capital
 soldano	$2
@@ -1360,7 +1487,9 @@ sovrano	$2
 spazioplano	$4
 spongano	$2
 stanley	$1
+stazzano	$2
 stefano	$1
+stezzano	$2
 street	_^_EN
 submontano	$3
 survoltano	$3
@@ -1369,11 +1498,15 @@ taylor	t'EIlo@-*
 toscano	$2
 trevano	$2
 trontano	$2
+truccazzano	$3
 ultramondano	$4
 ultramontano	$4
+uzzano	$2
 vainer	v'aIne@-*	$only
 valdostano	$3
+vazzano	$2
 vecchiano	$3
+vezzano	$2
 visciano	$2
 vitorchiano	$4
 vladimir	$3
@@ -1489,6 +1622,7 @@ capitolano	$2
 caricalo	$1
 catalogano	$2
 cataloghino	$2
+catturati	$3
 causano	$1
 celebra	$1
 cercano	$1
@@ -1591,9 +1725,12 @@ digit	$1
 digitalo	$1
 digitano	$1
 dimenticano	$2
+dimezzano	dim'edz:ano
+dimezzare	dimedz:'a/Re
 disabilit	$3
 discrimin	$2
 discutano	$2
+disdici	$2
 disintegr	$2
 dispiace	dispi'atSe
 distinguano	$2
@@ -1736,6 +1873,7 @@ leggimi	$1
 lievitano	li'Evitano
 lievitino	li'Evitino
 limit	$1
+maledici	$3
 mancano	$1
 manchino	$1
 mandami	$1
@@ -1799,6 +1937,7 @@ possedere	$3
 posseggano	$2
 postulano	$2
 precipita	$2
+predici	$2
 pregano	$1
 preghino	$1
 prendano	$1
@@ -1816,7 +1955,6 @@ procurano	$2
 producano	$2
 propagano	$2
 propinino	$2
-proseguono	$2
 proteggano	$2
 provengano	$2
 provocano	$1
@@ -1832,6 +1970,7 @@ rapportino	$2
 rappresentano	$3
 rappresentino	$3
 rassomigliano	$3
+rateizzano	@-*ate'idz:ano
 ravvisano	$2
 ravvisino	$2
 recano	$1
@@ -1856,6 +1995,7 @@ riceverne	$2
 richiedano	$2
 ridimensionano	$5
 riducano	$2
+rieccomi	@-*i'E:k:Omi
 rientrano	$2
 rientrino	$2
 rifiutano	$2
@@ -1904,6 +2044,7 @@ scalpita	$1
 scambiano	$1
 scambino	$1
 scaricano	$1
+schizzano	sk'its:ano
 sciando	Si'andO
 sciano	S'i;ano
 sciare	Si'aRe
@@ -1917,7 +2058,6 @@ scusami	$1
 scusiamo	skuzi'amo
 segnano	$1 $alt
 seguito	$verb
-seguono	$1
 selezionale	$4
 selezionali	$4
 sembrano	$1
@@ -2025,7 +2165,7 @@ comprender	$2
 dipender	$2
 esser	$1
 gioir	dZo'i@-*
-legger	$1
+legger	l'EdZ:e/@-* $verb
 metter	$1
 morder	$1
 muover	$2
@@ -2041,28 +2181,4 @@ riscuoter	$2
 risolver	$2
 tender	$1
 tener	$2	$only
-
-// phonetic modifiers
-
-ː	d,ue|p'unti_
-U+2b0	aspiR'ato_ // supr-h
-//U+2b2	dZ'eI||_'apitSe_  // supr-j
-// U+2b2	i||l'uNga||p'ik:ola   // ʲ
-U+2bc	ejet:'iva_   // ʼ
-U+2c8	atS:'ento||_p@-*im'aRio   // ˈ
-U+2cc	atS:'ento||_sekoNd'aRio   // ˌ
-
-// combining diacritics
-U+300	g@-*'a:ve_   // ̀
-U+301	ak'u:to_   // ́
-U+302	tSi@-*konfl'Es:o_   // ̂
-U+303	t'Ilde_   // ̃
-U+304	m'ak@-*ON_   // ̄
-U+306	b@-*'E:ve_   // ̆
-U+308	di'ERezi   // ̈
-U+30a	an'e:l:o||in||'alto_   //̊ 
-U+31e	ap@-*os:im'ante_   // ̞
-U+325	an'e:l:o||in||b'as:o_   // ̥
-U+32a	dent'ale_   // ̪
-U+32f	n,onsil:'abika   // ̯
 
