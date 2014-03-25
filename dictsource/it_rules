@@ -40,6 +40,8 @@
 	@) ander (L04_	'andE@-*
 		ate (L04_	'ate
 
+	astano (_	'a:sta/no   // verbs
+
 .group à
 		à	''a
 		ài (K   ''aI
@@ -87,6 +89,7 @@
 	ci) der (L04_	=dE@-*
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
+	@) dinano (_	=dina/no   // verbs
 
 .group e
 		e        e
@@ -144,7 +147,8 @@
 	esser (L04_		'es:eR
 	_) ecco (L04	'Ek:o
 		ete (L04_	'ete
-	evano (_	'evano
+	evano (_	'evano   // verbs
+	estano (_	'Estano   // verbs
 
 .group f
 		f	f
@@ -178,6 +182,10 @@
 	a) gn (A_	n^:
 		gu (A   gw
 	guono (_	=gw2ono   / verbs
+	o) gnano (_	=n^ano   // verbs
+	A) gnano (_	n^'ano   // exceptions
+	@) ginano(_	=dZinano   // verbs
+	giono (_	dZ'Ono   // verbs
 
 .group h
 		h
@@ -262,6 +270,7 @@
 	ACCC) i (cano_	=i   // verbs
 	i (Ccano_	'i   // verbs
 	ilitano (_	'ilitano   // verbs
+	istano (_	'istano   // verbs
 
 .group j
 
@@ -287,6 +296,7 @@
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-*
 	mbano (_	=mbano // verbs
+	@) minano(_	=mina/no   // verbs
 
 .group n
 		n	n
@@ -299,6 +309,7 @@
 		netter (L04_	n'Et:e@-*
 		_zA) nz (A	n|dz
 		A) ne (A_	=nE
+	@) nano (_	=nano   // verbs
 
 .group o
 		o	o
@@ -437,6 +448,9 @@
 	A) scano (_	=skano
 	sciano (_	=Sano
 	A) schiano (_	=skiano
+	A) siono (_	zi'Ono   // verbs
+	ssiono (_	s:i'ono   // verbs
+	C) siono (_	si'ono   // verbs
 
 .group t
 		t	t
@@ -466,6 +480,7 @@
 	uder (L04_	'udE@-*
 	uvano (_	'uvano // verbs
 	ubano (_	'ubano // verbs
+	ustano (_	'u:stano   // verbs
 
 .group v
 		v	v
