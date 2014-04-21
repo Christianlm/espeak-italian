@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 January 07 Chris, Christian Leo M, <llajta2012@cmail.com>
+// Last update: 2014 April 21 Chris, Christian Leo M, <llajta2012@cmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -57,7 +57,8 @@
 		c	k
 		cc	k:
 		ck	k:
-		cqu		k:w2
+		cqu (A	k:w2
+		cqui (A	k:wj
 		c (Y    tS
 		cc (Y   tS:
 		ch (Y	k
@@ -74,7 +75,7 @@
 	ciano (_	=tSano   // verbs
 	cciano (_	=tS:ano   // verbs
 	chiano (_	=kiano
-	A) cchiano (_	=k:iano
+	A) cchiano (_	=k:iano   // verbs
 
 .group d
 		d	d
@@ -149,6 +150,8 @@
 		ete (L04_	'ete
 	evano (_	'evano   // verbs
 	estano (_	'Estano   // verbs
+	AC) erano (_	=eR,ano   //verbs
+	@s) ero (_	=ERO   //verbs
 
 .group f
 		f	f
@@ -185,7 +188,10 @@
 	o) gnano (_	=n^ano   // verbs
 	A) gnano (_	n^'ano   // exceptions
 	@) ginano(_	=dZinano   // verbs
+		gano (_	=gano   // verbs
+	ggano (_	=g:a/no 
 	giono (_	dZ'Ono   // verbs
+	n) guere (_	=gweRe   // verbs
 
 .group h
 		h
@@ -260,7 +266,6 @@
 	p)	i (te_    =i
 	C) iad (Y_	'iad
 	@) iono (_	=iono
-	issano (_	'is:ano
 	ite (L04_	'ite
 	iver (L04_	'ivE@-*
 	d) iver (L04_	iv'E@-*
@@ -276,8 +281,8 @@
 
             j            dZ
            @) j (_	j
-         _) juan         _^_ES
-            
+	A) j (A	j
+
 .group k
 		k	k
 		kk	k:
@@ -292,6 +297,7 @@
 .group m
 		m	m
 	A)	mi (a_  m'i
+	A) mila (_	m'ila/
      _) m' (P2t     m
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-*
@@ -376,13 +382,16 @@
 		o (stracA_  'O
 		o (ttol     O
 		o (zA       O
+	l) oqui (A	Okwj
 	osano (_	'ozano
 		C) onder (L04_	'ondE@-*
 		over (L04_	'ovE@-*
 	d) over (L04_	Ov'E@-*
-	ovano (_ 'ovano
+	ovano (_ 'ovano   // verbs
 	o (CCano_	'O   // verbs
 	o (CCicano_	'O   //verbs
+	ogliere (_	'Ol^eRe   // verbs
+	ordin (A_	'o@-*din
 
 .group p
 		p	p
@@ -393,7 +402,8 @@
 
 .group q
 		q	k
-		qu	kw2
+		qu (AK	kw2
+	qui (A	kwj
      _) quell' (P6t     kw2Ell
      _) quest' (P6t     kw2est
 
@@ -407,7 +417,7 @@
 	A)	r (A	R
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
 	C) rai (_	@-*'a:I
-	A) rai (_	R'a/:I
+	A) rai (_	R'a:I
 	rrai (_	R*'a:I
 
 .group s
@@ -444,6 +454,7 @@
 	@)	s (_S1	s
      _) sull' (P5t     sull
 	_) sotto (P5t	sot:o
+	sfere (_	sf'eRe
 	@) scer (L04_	=SE@-*
 	A) scano (_	=skano
 	sciano (_	=Sano
@@ -451,6 +462,7 @@
 	A) siono (_	zi'Ono   // verbs
 	ssiono (_	s:i'ono   // verbs
 	C) siono (_	si'ono   // verbs
+	A) ssano (_	=s:ano   //verbs
 
 .group t
 		t	t
@@ -481,6 +493,7 @@
 	uvano (_	'uvano // verbs
 	ubano (_	'ubano // verbs
 	ustano (_	'u:stano   // verbs
+	uomini (_	w2'Omini
 
 .group v
 		v	v
@@ -508,13 +521,16 @@
 		_A) zz (A	|dz:
 		CA) zz (arC	dz:
 		@li) zz (A	dz:
+	@@Ci) zz (o	dz:
+	_Cri) zz (o	ts:
+	_CCri) zz (o	ts:
 		@) zz (ano_	=ts:
 		i) zza (no_	=dz:a
 		@@) zza (L04_	=dz:a
 		@i) zza (ti_	dz:'a
-	zion (A_	tsi'On
+	zion (A_	tsi'on
 	ziona (ti_	tsiOn'a
-	zional (Y_	tsiOn'al
+	zional (Y_	tsion'al
 	ziona (L04_	tsi'Ona
 	cra) zia (_	ts'i;a/
 	cra) zie (_	ts'I;e/
