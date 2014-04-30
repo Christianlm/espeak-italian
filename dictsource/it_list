@@ -342,8 +342,7 @@ le	$u+ $only
 lo	$u+ $only
 un	$u+ $only
 una	$u+
-gli	$only $u+
-
+gli	$u+	$only
 
 // pronouns
 io	$u+ $only
@@ -406,17 +405,17 @@ quelle  $u+      // those
 
 // conjunctions
 
-accanto    $2      // beside
-attraverso 	$3 // across, through
+accanto    $u+      // beside
+attraverso 	$u+ // across, through
 benchè		$u+	$brk      // though
 che             $u+ $brk   // which
 cioè	$u+
 come	$u+
-contro     $1      // against
+contro	$u+
 cui	k'uj
 durante    $u+ $brk       // during
 e		$u+ $brk
-eccetto    $pause       // except
+eccetto    $pause
 ed		$u+ $brk
 ma	$u+ $brk
 mai	$u+
@@ -427,15 +426,15 @@ oltre	$u+
 ormai	o@-*m'aI
 perché		$u+ $brk      // because
 pertanto        $u+	$brk      // therefore
-pure		$u1+
+pure		$u+
 più	$u+
 se		$u+     // if
-senza     $u1+        // without
-sopra	   $1 	// above
-sotto	   $1 $alt2	// below
+senza     $u+
+sopra	   $alt2
+sotto	$alt2
 tanto	$u+
 tuttavia	tut:av'ia
-verso      $u1+      // toward
+verso      $u+
 
 // prepositions
 
@@ -446,7 +445,7 @@ alla    $u+
 ai      $u+
 agli    $u+ $only
 alle    $u+
-ad      $u+
+ad	$u+	$only
 
 da	$u+       // by
 dal	$u+
@@ -457,7 +456,7 @@ dagli   $u+
 dalle   $u+
 
 di	$u+ $only
-del	$alt2 $only
+del	$u+	$alt2 $only
 dello   $u+
 della	$u+
 dei     $u+
@@ -465,7 +464,7 @@ degli   $brk $alt2
 delle	$u+	$alt2
 de      $u+ $only
 
-in	$u+ 	$only // in
+in	$u+ 	$only
 nel	 $u+	$only
 nello	$u+
 nella	$u+ 	// in the
@@ -491,7 +490,8 @@ tra	$u+
 fra	$u+
 
 // aux verb, to be
-sono	$u1+
+
+sono	$u+
 sei	$u+
 è	'E $u1+
 siamo	$u+
@@ -509,7 +509,7 @@ era	$u1+ $only
 eravamo	$3
 eravate	$3
 erano	$1
-sarò	saR'O 
+sarò	s,a/R'O 
 sarai	$2
 sarà	$u2+
 saremo	$u2+
@@ -577,11 +577,11 @@ avreste	$u+
 avrebbero	$u+	$alt
 
 // to do/make
-fare	$u1+
-faccio	$u1+
+fare	$u+
+faccio	$u+
 facciamo	$u+
 fai	f'aI
-fate	$u1+
+fate	$u+
 fa	$u+
 fanno	$u1+
 
@@ -591,6 +591,7 @@ faceva	$u2+
 facevamo	$3
 facevate	$3
 fecero	$1
+
 // Letters
 // If a letter has a "word" pronunciation which is different from its
 // "letter" name, then include the letter name here
@@ -625,7 +626,7 @@ boom	bum
 bordeaux	_^_FR
 boxer	$1
 braille	b@-*ail:
-browser	b@-*'a/:wzer
+browser	b@-*'a:Uz,E@-*
 buffer	b'afe@-*
 bulldozer	$2
 bunker	$1
@@ -660,13 +661,14 @@ cracker	$1
 database	datab'Eiz
 deejay		_^_EN
 default	_^_EN
+desktop	d'Eskt,op
 detector	$2
 detector	$2
 disney	$1
 disneyland	$1
 display	displ'ei
 doppler	$1
-download	d,aw2n||l'O:d
+download	d'a/:w2nl,o:d
 drive	_^_EN
 driver	_^_EN
 editor	$1	$onlys
@@ -698,13 +700,14 @@ gmail	dZI||m'eil
 google		_^_EN
 hacker	'ake@-*
 hamburger	hamb'u@-*ge@-*
-hardware	'ard[_w2eR
+hardware	'a:rd[we@-*
 highlander	aIl'a/Nde@-*
 hitler	$1
 home	ho:m
 hunter	$1
 iceberg	'aIs||b,e@-*g
 impeachment	imp'itSm,ent[
+installer	$2 $onlys
 inter	$1 $only
 internet	'inte@-*nEt
 iper	$1
@@ -799,7 +802,7 @@ skype		_^_EN
 smile	zmaIl
 smiley	_^_EN
 snack		_^_EN
-software	s'oft[_wE@-*
+software	s'Oft[_we@-*
 sonar	$1	$only
 souvenir	suvEn'i@-*
 spanish		_^_EN
@@ -837,7 +840,7 @@ upload	,a/p||_l'O:d
 user	'juse@-*	$onlys
 vafer	$1	$onlys
 valzer	$1
-videogames		_^_EN
+videogames		v,ideo||g'eIm
 videomaker	vidEom'eIke@-*
 viewer	vj'u:Er
 vodafone	v'odafon
@@ -856,7 +859,7 @@ wow		_^_EN
 writer	v@-*'aIte@-*
 yahoo		_^_EN
 yoghourt	'jogurt
-zoom	dz|u:m
+zoom	dzU:m
 zoster	$1
 
 // Main  Dictionary
@@ -941,6 +944,7 @@ carboniferi	$3
 cardiache	ka@-*d'iake
 carestie	ka@-*est'ie
 castano	$2
+caspita	k'asp,ita
 cataloghi	$2
 categorie	$4
 celsius		tsElsj'us
@@ -953,7 +957,7 @@ ciascuna	$2
 ciascune	$2
 ciascuno	$2
 circuiti	$2
-civili	$2
+civil	$2
 clistere	$2
 colabrodo	$3
 compagini	$2
@@ -1118,7 +1122,7 @@ microfoni	$2	$alt2
 microtono	$3
 miglior	mil^'O@-*
 milliampere	mil:i||amp'e@-*
-moldovano	$3
+miop	m'i;op
 monopattin	$3
 monoplano	$3
 monosillabi	mono||s'il:abI
@@ -1460,6 +1464,7 @@ gabbano	$2
 galgano	$2
 galilei	galil'E:j
 gallipoli	$2
+garcía	_^_ES
 gargano	$2
 gavorrano	$3
 genazzano	$3
@@ -1549,7 +1554,8 @@ mike	_^_EN
 minucciano	$3
 miscano	$2
 modena	$1
-molfettano	$3
+moldovano	m,Oldov'ano
+molfettano	m,Olfet'ano
 mondano	$2
 mongrassano	$3
 monroe	m'On||r,ow
@@ -1578,6 +1584,8 @@ nicola	$2
 niger	$1
 nizzano	nits:'ano
 nocciano	$2
+Oliver	'O:liv,e@-* $onlys
+ollie	'Ol:i
 oltramondano	$4
 oltramontano	$4
 oltremondano	$4
@@ -1617,6 +1625,7 @@ pognano	$2
 pomerano	$3
 ponzano	$2
 prascorsano	$3
+regano	$2
 resuttano	$3
 ricciano	$2
 rimini	$1
@@ -1710,7 +1719,7 @@ zigano	ts-ig'a/no
 
 abbandono	$3
 abilita	$2
-accadere	$3 
+accadere	$3	$alt2 
 accettino 	$2
 accodano	$2
 accompagnano	$3
@@ -1802,7 +1811,7 @@ benedic	$3
 boccino	$1
 boicottino	$3
 brucino	$1
-cadere	$2
+cadere	$2	$alt2
 cambiano	$1
 cammin	$2
 camminano	$2
@@ -2250,6 +2259,7 @@ riattizzo	@-*i,at:'its:O
 riavere	$3
 ribellano	$2
 ribellino	$2
+ricadere	$3	$alt2
 ricapitol	$3
 ricaricano	$2
 riceverne	$2
@@ -2473,14 +2483,16 @@ vogliano	$1
 volano	$1
 vuol	vu'ol	$u+
 
-(capita a)	k'apita||a
-(capita che)	k'apita||ke
+(capita a)	k'apita/||a
+(capita che)	k'a:pita||ke
+(che capita)	ke||k'a:pita
+(volte capita)	v,Olte||k'a:p,ita
 (che capitano)	ke||k'apitano
 (dai che)	d'ai||ke
 (seguita da)	segw'ita||da
 (seguite da)	segw'ite||da
 (seguiti da)	segw'iti||da
-(seguito da)	segw'ito||da
+(seguito da)	segw'i:to||da
 
 // Verbs without ultimate vowel
 
@@ -2507,5 +2519,4 @@ riscuoter	$2
 risolver	$2
 tender	$1
 tener	$2	$only
-
 
