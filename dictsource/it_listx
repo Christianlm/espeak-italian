@@ -30,9 +30,13 @@ acetil	atSe'til
 achei $2
 achemene $2
 acheni  $alt
+achillea	$2
+achillee	$2
 acin $1
 acquafredd  $alt2
+acquea	$1
 acquedott  $alt2
+acquee	$1
 acqueo $1
 acril	ak@-*'il
 acrobat $2
@@ -51,6 +55,7 @@ adesmia $3
 admet  $alt
 adorn  $alt2
 aed  $alt
+aeree	$2
 aerogel $3
 aerosol $3
 aerostat $2
@@ -221,6 +226,7 @@ antera		$2
 anteros $1
 anthemis $1
 antiaerea $3
+antiaeree	$3
 antiaereo $3
 antic $2
 anticamer $3
@@ -312,6 +318,8 @@ arenil	aRen'il
 areol $2
 argali $3
 argan $1
+argentea	$2
+argentee	$2
 argenteo $2  $alt
 argostoli $3
 argovia  $alt
@@ -388,6 +396,7 @@ attivita $4
 attorn  $alt2
 audac $3
 augure $1
+augusteo	$3
 aulos $3
 aureol $3
 ausili  auz'ili
@@ -444,6 +453,7 @@ balen  $alt2
 balenotter  $alt
 bali $2
 balia $2
+balneo	$1
 balneoterapia $6
 balsam $1
 balsami $1
@@ -618,6 +628,9 @@ brod  $alt
 brogli  $alt
 broll  $alt2
 bronchiol $2
+bronzea	b@-*'o:Ndzea
+bronzee	$1
+bronzeo	b@-*'o:Ndz,Eo
 bronzeo $1
 brugol $1
 brusi $2
@@ -653,6 +666,7 @@ cagno $2  $alt
 calabr $1
 calao $2
 calasett  $alt
+calcarea	$2
 calcaree $2
 calcareo $2
 caldei $2
@@ -823,6 +837,8 @@ cenerentol  $alt
 cenn  $alt2
 cenobi  $alt
 cenomani $2
+centaurea	$2
+centauree$2
 centesim  $2 $alt
 centimetr $2
 centin $1  $alt
@@ -909,6 +925,7 @@ cipoll  $alt2
 cipress  $alt
 circocentr  $alt
 circuito  tSi@-*k'uito
+cireneo	$3
 ciscaucasia $4
 cismon $2
 cistifellea $3
@@ -942,6 +959,8 @@ cocchia  $alt
 coccia  $alt
 coccidi  $alt
 coccige  $alt
+coccigea	$2
+coccigeo	$2
 coclea $1  $alt
 cocomer $2  $alt2
 codein	kote'in
@@ -1033,6 +1052,8 @@ contachilometri $4  $alt
 contadine	$3
 contemp  $alt
 contorn  $alt2
+contraerea	$3
+contraeree	$3
 contraereo $3
 contralber $2
 controfil	$3
@@ -1060,10 +1081,12 @@ corfu $2
 coriz $1
 cormons $2  $alt
 cornea $1
+cornee	$1
 corneo $1
 cornucopia  $alt
 corone  $alt
 corporea	$2
+corporee	$2
 corporeo	$2
 corred  $alt
 correr $1
@@ -1546,6 +1569,7 @@ excentr  $alt
 exeresi $2
 exoforia $4
 extr  $alt
+extracorporeo	$4
 ezechia $3
 fabiol $2
 faccett  $alt2
@@ -1602,6 +1626,9 @@ fernet $2
 ferocia  $alt
 ferod $2  $alt
 ferragost  $alt2
+ferrea	$1
+ferree	$1
+ferreo	$1
 ferrovia $3
 fes  $alt
 festival $1
@@ -1684,6 +1711,9 @@ foschia $2
 foschie	fosk'ie
 fosdinov  $alt
 fosfor $1  $alt
+fosforea	$2	$alt2
+fosforee	$2	$alt2
+fosforeo	$2	$alt2
 fossacesia $3  $alt
 fossanov  $alt
 fot  $alt
@@ -1715,6 +1745,9 @@ fucsia $1
 fugace $2
 fulgenzi  $alt
 funebr	$1
+funerea	$2
+funeree	$2
+funereo	$2
 funivia $3
 fuorilegge  $alt2
 furnari $1
@@ -1796,6 +1829,7 @@ glia  l^'i:a
 glicerol $3
 glicin	gl'itSin
 glicolisi	glikol'izI
+gliconeo	glik'O:n,Eo
 glicoprotein	glikop@-*ote'in
 gliptodontidi  $alt
 glob  $alt
@@ -1908,6 +1942,8 @@ incolume $2
 incomplet  $alt
 inconsci  $alt
 inconsuet  $alt
+incorporea	$3
+incorporeo	$3
 incub $1
 incursione  $alt
 indebit $2  $alt2
@@ -1949,6 +1985,9 @@ interim $1
 interior  $alt2
 intermedi  $alt
 intermezz  $alt
+interossea	$3
+interossee	$3
+interosseo	$3
 interpol $3
 interprete $2
 intersind $3
@@ -1963,7 +2002,11 @@ involucr $2  $alt
 iolao $3
 ione  $alt
 ioni  $alt
+iperborea	$3
+iperboree	$3
+iperboreo	$3
 ipermetropia $5
+ipernucleo	$3
 ipersonnia $4
 ipertermia $4
 ipertrofia $4
@@ -2044,7 +2087,9 @@ later $1
 lattosi  $alt
 laurasia $3
 laurea $1
+lauree	$1
 laurenzi  $alt
+laureo	$1
 lauria $3
 lazzar $1
 lecc  $alt2
@@ -2216,6 +2261,8 @@ marmar $1
 marmirol $3
 marmor $1
 marmore $1
+marmorea	$2
+marmoree	$2
 marmoreo $2
 maro  $alt
 maro $2
@@ -2425,6 +2472,7 @@ montesegale $3
 monteverde  $alt2
 monteverdi  $alt2
 montevergine  $alt2
+montevideo	$3
 montezemol  $alt
 montoggi  $alt
 montorfan $2
@@ -2476,6 +2524,8 @@ naufrag $1
 naufraghi	$1
 naumachia $4
 nausea $1
+nausee	$1
+nauseo	$1
 neb  $alt
 nebul  $alt2
 necchi  $alt
@@ -2672,6 +2722,8 @@ osmi  $alt
 ospite  $alt
 osroe $1
 ossa		$alt2
+ossea	$1
+ossee	$1
 osseo $1
 ossequi  $alt
 osset  $alt
@@ -2942,6 +2994,9 @@ pleur $1
 pleuric $1
 plexiglas $1  $alt
 plezz  $alt
+plumbea	$1
+plumbee	$1
+plumbeo	$1
 plurigemin	$3
 plurima	$1
 pocol $2
@@ -2999,6 +3054,7 @@ ponto		$alt
 pontremoli $2
 pop  $alt
 pope  $alt
+popliteo	$2
 popp  $alt2
 poppi  $alt2
 porcil	$2
@@ -3126,6 +3182,8 @@ pulcheria $2
 pulizia $3
 pulpit $1
 puntasecc  $alt2
+purpurea	$2
+purpuree	$2
 purpureo $2
 quadrifogli  $alt
 quadrig $2
@@ -3286,6 +3344,8 @@ ropaloceri $3
 rore  $alt
 ros  $alt
 rosalia $3
+rosea	$1	$alt
+rosee	$1	$alt
 roseo $1  $alt
 rosolia $3
 rosp  $alt
@@ -3295,6 +3355,9 @@ ross  $alt2
 rossi  $alt2
 rot  $alt
 rotari $1
+rotea	$1
+rotei	$1
+roteo	$1
 rotor  $alt
 rott  $alt2
 rotuleo $2
@@ -3409,6 +3472,8 @@ scrivania $3
 scrof  $alt
 scrofol $1
 scrot  $alt
+scultorea	$2
+scultoreo	$2
 seb  $alt
 seborg  $alt2
 secc  $alt2
@@ -3559,6 +3624,9 @@ sogliol $1  $alt
 solarol $3
 sold  $alt
 soleo $1  $alt
+solfurea	$2
+solfuree	$2
+solfureo	$2
 solit $1
 solletic  $alt2
 solopac $3
@@ -3665,6 +3733,8 @@ strettoia  $alt2
 strof  $alt
 strolag $1
 stronzi  $alt
+subacquea	$2
+subacquee	$2
 subacqueo $2
 subagenzia	$4
 subagenzie	subgaRa/Nts'ie
@@ -3712,6 +3782,9 @@ tardigradi $2
 tari $2
 tarpan $2
 tartar $1
+tartarea	$2
+tartaree	$2
+tartareo	$2
 tartari $1
 tassametr $2
 tassi $2
@@ -3935,6 +4008,7 @@ triton $1
 triumvir $2
 trivenet $2  $alt
 troade $1  $alt
+troclea	$1
 trombocitopenia $6
 trot  $alt
 trov  $alt
@@ -4082,6 +4156,9 @@ viril	$2
 visigoti  $alt
 visir $2
 visit $1
+vitrea	$1
+vitree	$1
+vitreo	$1
 vitreo $1
 vittoria  $alt2
 vivace $2
@@ -4153,5 +4230,3 @@ zoppia $2
 zoppol  $alt
 zuccari $1
 zuccher $1
-zulu $2
-

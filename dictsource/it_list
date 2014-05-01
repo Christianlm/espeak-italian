@@ -707,7 +707,7 @@ home	ho:m
 hunter	$1
 iceberg	'aIs||b,e@-*g
 impeachment	imp'itSm,ent[
-installer	$2 $onlys
+installer	inst'a:l:e@-*
 inter	$1 $only
 internet	'inte@-*nEt
 iper	$1
@@ -735,6 +735,7 @@ maker	m'eIkE@-*
 manager	$1
 marker	$1
 master	$1
+melody	m'E:lOdi
 microsoft		m'aIk@-*Osoft
 miller	$1	$only
 mister	$1	$onlys
@@ -1393,6 +1394,7 @@ brusciano	$2
 bruxelles	b@-*uks'El:
 bucciano	$2
 bulgare	$1
+caino	ka'i:nO
 cagliari	$1
 calestano	$3
 calizzano	kalits:'ano
@@ -1743,7 +1745,8 @@ aggiornino	$2
 aggiungerla	$2
 aggiungerne	$2
 agitano	$1
-agiti	$1
+agit	$1
+agito	adZ'i:to	$verb
 agitino	$1
 aiutal	aj'utal
 aiutano	aj'utano
@@ -2300,7 +2303,6 @@ risapere	$3
 rischino	$1
 riscol	$2
 riserbano	$2
-riservano	$2	$alt2
 riservino	$2	$alt2
 risiedano	$2
 risolsero	$alt
@@ -2363,7 +2365,6 @@ sembrino	$1
 sentano	$1
 separano	$2
 separino	$2
-servano	$1
 servino	$1
 sfidano	$1
 sfidino	$1
