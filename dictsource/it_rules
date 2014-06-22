@@ -82,8 +82,7 @@
 .group d
 		d	d
 		dd	d:
-	n)	dere    =deRe
-
+	n) dere (_	=deRe
      _) dall' (P5t     dall
      _) dell' (P5t     dell
 	_) d' (P2t	d
@@ -93,6 +92,7 @@
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
 	@) dinano (_	=dina/no   // verbs
+	due (_	d'ue   // numbers
 	day (_	d'eI   // foreign
 
 .group e
@@ -132,6 +132,7 @@
        %C)	e (rA_   =E
 	C)	e (re_	 =E
 	gg)	e (ro_   E
+	gg)	e (ri_	E
 	f)	e (rm    e
 	@)	e (rrimo_ 'E
 	@)	e (simA_  'e
@@ -151,6 +152,7 @@
 	esser (L04_		'es:eR
 	_) ecco (L04	'Ek:o
 		ete (L04_	'ete
+	fl) etter (L04_	'Et:e@-*   // pronominal
 	evano (_	'evano   // verbs
 	estano (_	'Estano   // verbs
 	AC) erano (_	=eR,ano   //verbs
@@ -160,7 +162,9 @@
 		f	f
 		ff	f:
 	@A)	f (ilo_  =f
-	A)	f (ero_  =f
+	i)	f (erA_	=f
+	fobi (A_	fob'i;
+	fob (A_	=fob
 
 .group g
 		g	g
@@ -195,6 +199,7 @@
 	ggano (_	=g:a/no 
 	giono (_	dZ'Ono   // verbs
 	n) guere (_	=gweRe   // verbs
+	@) graf (A_	=g@-*af
 
 .group h
 		h
@@ -300,6 +305,7 @@
 
 .group m
 		m	m
+	mm	m:
 	A)	mi (a_  m'i
 	A) mila (_	m'ila/
      _) m' (P2t     m
@@ -345,7 +351,7 @@
 		o (genA_   'O
 	l)	o (gico_   'O
 	@)	o (gnolo_  'o
-	@)	o (grafo_  'O
+	@)	o (grafA_	'O
 		o (lX       O
 	nd)	o (lA_     =O
 	ns)	o (lA_     =O
@@ -462,7 +468,7 @@
 	@C) sie (_	s'ie
 	@)	s (_S1	s
      _) sull' (P5t     sull
-	_) sotto (P5t	sot:o
+	_sotto) s (A	_||s
 	sfere (_	sf'eRe
 	@) scer (L04_	=SE@-*
 	A) scano (_	=skano
@@ -485,13 +491,11 @@
 .group u
 		u	u
 		_) u (A	w2
-	Kr)	u (A	u
-	Kl)	u (A	u
 	@)	u (dinY_  'u
 	@)	u (colo_  'u
 	@)	u (lA_	=u
      _) un' (P3t     un
-	@@) u (A_	=u
+	@) u (A_	=u
 	A%C) u (A_	=u
 	ural (Y_	uR'al
 	C) ura (L04_	'uRa
@@ -507,6 +511,8 @@
 		vvi (A	v:i
 		C) vi (A	vI
 		C) vi (A_	=vI
+	A) vino (_	=vino  // verbs
+
 .group w
 		w	w2
 
@@ -534,6 +540,8 @@
 		i) zza (no_	=dz:a
 		@@) zza (L04_	=dz:a
 		@i) zza (ti_	dz:'a
+	@i) zz (are_	dz:
+	dri) zz (are_	ts:
 	zion (A_	tsi'on
 	ziona (ti_	tsiOn'a
 	zional (Y_	tsion'al
@@ -542,6 +550,7 @@
 	cra) zie (_	ts'I;e/
 	man) zia (_	ts'i;a
 	man) zie (_	ts'i;e
+	me) zz	dz:
 
 
 .group 0xce   // Greek letters
