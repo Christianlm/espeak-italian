@@ -1222,6 +1222,7 @@ patria	$1
 patrie	$1
 patrono	$2
 pedine	$2
+pedonal	$3
 peggior	$2 $alt
 perdon	$2	$alt2
 perigastrici	$3
@@ -1461,6 +1462,7 @@ brasile	$2
 bresciano	$2
 bretone	$1 $alt
 brian	b@-*'aian
+broadway	b@-*'O:dweI
 brooklyn	b@-*'u:klin
 brusciano	$2
 bruxelles	b@-*uks'El:
@@ -1750,6 +1752,7 @@ sarnano	$2
 sassano	$2
 sassari	$1
 savino	$2
+scalfaro	$1
 scisciano	$2
 sean	_^_EN $only
 seattle	_^_en
@@ -1792,6 +1795,7 @@ trevano	$2
 tristano	$2
 trontano	$2
 truccazzano	$3
+tyson	t'aIzon
 uligano	$3
 ultramondano	$4
 ultramontano	$4
@@ -1812,6 +1816,7 @@ walker	w2'O:lke@-*
 walter	v'alte@-*
 washington	_^_EN
 wilde	w'aIld
+wojtyla	vojt'ila
 woody	v'udI
 zaccaria	$3
 zanzibar	$1
