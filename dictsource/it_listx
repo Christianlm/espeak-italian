@@ -25,7 +25,6 @@ accolit $2
 accredit $2  $alt2
 accumoli $2
 acer $1
-acerrima	$2
 acetil	atSe'til
 achei $2
 achemene $2
@@ -171,7 +170,6 @@ anaclasi $2
 anacond  $alt
 analfabet  $alt
 analisi	an'alizi
-analog $2
 anamnesi $2
 anania $3
 anap $1
@@ -218,7 +216,6 @@ antelao $3
 antemi  $alt
 antenn  $alt2
 antenne  $alt2
-anteprime	$3
 anter $1
 antera		$2
 anteros $1
@@ -795,7 +792,6 @@ castroliber $3
 castrovillari $3
 catalett  $alt
 catalisi $2
-catalog $2
 cataplessia $4
 catari $1
 catastrofe $2
@@ -821,7 +817,6 @@ ceduo  $alt
 cefal $1  $alt
 cefalof $2
 celadon $1  $alt2
-celeberrima	$3
 celebre $1
 celibe $1
 celine  $alt2
@@ -1177,7 +1172,6 @@ debit $1  $alt2
 debole $1
 dec  $alt
 decade $1  $alt
-decalog $2
 decameron $2
 decapoli $2
 decebal $2  $alt
@@ -1217,7 +1211,6 @@ diadem  $alt
 diagnosi $1
 dialett  $alt
 dialisi $2
-dialog $1
 diametr $1
 diapason $1
 diarchia $3
@@ -1342,7 +1335,6 @@ ecate $1  $alt
 eccentric  $alt
 ecceter $2  $alt
 ecij $1  $alt2
-eclog $1  $alt
 ecosistem  $alt
 ecub $1  $alt
 eczem  $alt
@@ -1395,7 +1387,7 @@ elle  $alt2
 elleniche  $alt
 eller  $alt2
 ellespont  $alt
-elogi  $alt
+elogi	$2	$alt2
 els  $alt2
 em  $alt
 emblem  $alt
@@ -1427,7 +1419,6 @@ enfisem  $alt
 enfiteusi $3
 enfiteut $3
 engage $3
-eni $2
 enkidu  $alt
 ennagon $2
 enneadi $2
@@ -1450,7 +1441,6 @@ epicentr  $alt
 epifania $4
 epiglottide  $alt
 epilessia $4
-epilog $2
 epirot  $alt
 episodi  $alt
 epitet $2
@@ -1974,7 +1964,6 @@ insomm  $alt2
 insonnia  $alt
 insubre $1
 insubri $1
-integerrima	$3
 integr $1
 intellighenzia  $alt
 interim $1
@@ -2266,7 +2255,6 @@ marsia $1
 marsicovetere  $alt
 martinitt $3
 martir	$1
-martirologi  $alt
 martor $1
 mascali $1
 mascalucia  maskalutS'i:a
@@ -2390,7 +2378,6 @@ miser $1
 miserere $3
 miseria	$2
 miserie	$2
-miserrima	$2
 misia $1
 misoginia $4
 mistra $2
@@ -2516,7 +2503,8 @@ nauseo	$1
 neb  $alt
 nebul  $alt2
 necchi  $alt
-necrologi  $alt
+necrologi  $3  $alt
+necrologio	$alt
 necton  $alt
 negligent	neglidZ'ent
 negrar $2
@@ -2671,7 +2659,7 @@ oritterop $3
 orl  $alt2
 orleans	,o@-*l'i:ns
 orogenesi $3
-orologi  $alt
+orologi  $3  $alt
 orop  $alt
 oroscop $2  $alt
 orosei $3
@@ -2964,7 +2952,6 @@ plumbea	$1
 plumbee	$1
 plumbeo	$1
 plurigemin	$3
-plurima	$1
 pocol $2
 podere $2  $alt2
 podesta $3
@@ -3843,7 +3830,6 @@ tespi  $alt
 tessile  $alt
 testimone  $alt
 tetan $1  $alt
-teterrima	$2
 tetraedr  $alt
 tetraetil	$4
 tetrametr $2

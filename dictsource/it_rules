@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 May 31 by Chris <llajta2012@gmail.com>
+// Last update: 2014 June 28 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -10,8 +10,10 @@
 .L01 a à o ò ó u ù
 .L02 e é è
 .L03 b d g l m n r v     // 's' is [z] before these
-.L04 mi ti gli  lo la le  si  ci vi li ne melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene
-
+// pronominal verbs
+.L04 mi ti gli lo la le si ci vi li ne melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene
+.L05 melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene mi ci gli ne
+.L06 gli mi vi si
 // Hours and minutes
 .L16 0 1 2 3 4 5 6 7 8 9 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 .L17 0 1 2 3 4 5
@@ -36,10 +38,10 @@
 		a (tterA_   'a
      _) all' (P4t     all
      _) anch' (P5t     ank
-	@) amo (L04_	'amo
-	@) ander (L04_	'andE@-*
+	@) amo (L04_	'amo  // Pron.s verbs
+	@) ander (L04_	'andE@-*  // Pron.s verbs
 		ate (L04_	'ate
-	_L04Z) auguri (_	'a:uguRI
+	_L04Z) auguri (_	'awguRI
 	astano (_	'a:sta/no   // verbs
 
 .group à
@@ -76,6 +78,8 @@
 	cciano (_	=tS:ano   // verbs
 	chiano (_	=kiano
 	A) cchiano (_	=k:iano   // verbs
+	ceder (L04_	tS'Ede@-*  // Pron.s verbs
+	cceder (L04_	tS:'Ede@-*
 	_L04Z) capit (A_	k'a:p,it
 		_L04Z) capit (ano_	k'a:p,it
 
@@ -87,7 +91,7 @@
      _) dell' (P5t     dell
 	_) d' (P2t	d
 	donat (Y_	don'at
-	dona (L04_	d'ona
+	dona (L04_	d'ona  // Pron.s verbs
 	ci) der (L04_	=dE@-*
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
@@ -147,7 +151,7 @@
 	@)	e (volA_ 'e
 		e (zA    E
 		CC) eggia (no_	'EdZ:a
-	C) ender (L04_	'ende@-*
+	C) ender (L04_	'ende@-*  // Pron.s verbs
 	C) erder (L04_	'E@-*de@-*
 	esser (L04_		'es:eR
 	_) ecco (L04	'Ek:o
@@ -178,7 +182,7 @@
 	n)	gi (a_	dZ
 		gg (Y	dZ:
 		ggi (A  dZ:  // or L01 ?
-	@) gger (L04_ =dZ:e@-*
+	@) gger (L04_ =dZ:e@-*  // Pron.s verbs
 	AC) ger (L04_	=dZe@-*
 		_) giura (L04_	dZ'URa
 		gl (i	l^
@@ -260,7 +264,7 @@
 		i (lA_    =i
 	@) i (mA_	=i
 	laCr) i (mA_	=i
-	r)	i (ma_	   i
+	pr) i (mA_	   'i
 		inas (_   'inas
 	@g) in (Y_	=in
 	c) ine (_	=ine
@@ -268,15 +272,15 @@
 	@@Cand) i (ne_	'i
 	Cm) in (Y_	=in
 	im) in	(Y_	=in
-
 	@) issim (A_	'issim
 	@)	issero(_S6q	'issero
 	ip) i (te_    =i
 	C) iad (Y_	'iad
 	@) iono (_	=iono
-	ite (L04_	'ite
+	ite (L04_	'ite  // Pron.s verbs
 	iver (L04_	'ivE@-*
 	d) iver (L04_	iv'E@-*
+	imer (L04_	'Ime@-*
 	ivano (_	'ivano   // verbs
 	i (ficano_	'i    // verbs
 	ifichino (_	'ifikino   // verbs
@@ -299,9 +303,12 @@
 		l	l
                ll (C    l_
                ll (_    l
+	@A) lo (gA_	=lo
+	@A) lo (ghY_	=lo
      _) l' (P2t     l
 	lasciati (_	l,a/S'atI
 		lascia (L04_	l'aSa
+	leggi (L04_	l'EdZ:I
 
 .group m
 		m	m
@@ -365,7 +372,8 @@
 	@)	o (lo_     =O
 	i)	o (lA_      O
        ci)	o (lA_     =O
-	@)	o (logo_   'O
+	@)	o (logA_   'O
+	@)	o (loghY_   'O
 	c)	o (ltA_     O
 	sc)	o (ltA_     o
 	v)	o (ltA_	O
@@ -404,14 +412,15 @@
 	o (CCano_	'O   // verbs
 	o (CCicano_	'O   //verbs
 	ogliere (_	'Ol^eRe   // verbs
+	C) orda (L05_	'O@-*da   // pron. verbs
 	@) ordin (A_	'o@-*din
 
 .group p
 		p	p
 		pp	p:
-        _)      pn (@@   n
-	_)	ps (A@	s
+	ph	f   // foreign words
 	@m)	p (erY_	=p
+	porta (L05_	p'O@-*ta  // Pron.s verbs
 
 .group q
 		q	k
@@ -440,7 +449,6 @@
 	_)	s	s
 	A)	s (A	z
 		s (L03	z
-
 	l)      s       s
 	p)      s       s
 	k)	s	s
@@ -470,23 +478,28 @@
      _) sull' (P5t     sull
 	_sotto) s (A	_||s
 	sfere (_	sf'eRe
-	@) scer (L04_	=SE@-*
-	A) scano (_	=skano
+	@) scer (L04_	=SE@-*  // pron.s verbs
+	A) sci (L05_	=SI
+	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
-	A) siono (_	zi'Ono   // verbs
-	ssiono (_	s:i'ono   // verbs
-	C) siono (_	si'ono   // verbs
-	A) ssano (_	=s:ano   //verbs
+	A) siono (_	zi'Ono
+	ssiono (_	s:i'ono
+	C) siono (_	si'ono
+	A) ssano (_	=s:ano
 
 .group t
 		t	t
 		tt	t:
 		@a) tria (_	t@-*'ia
 		@a) trie (_	t@-*'ie
-		@) tt (ano_	=t:
 		a) ttoria (_	t:oR'ia
 		a) ttorie (_	t:oR'Ie
+		@) tt (ano_	=t:  // verbs
+	@ma) to (L06_	t'O
+	@a) to (L06_	=to
+	intima) to (L04_	=to
+	_) tutt' (P5t	tut:
 
 .group u
 		u	u
@@ -498,8 +511,9 @@
 	@) u (A_	=u
 	A%C) u (A_	=u
 	ural (Y_	uR'al
-	C) ura (L04_	'uRa
+	C) ura (L04_	'uRa   // Pron.s verbs
 	uder (L04_	'udE@-*
+	uter (L04_	'ute@-*
 	uvano (_	'uvano // verbs
 	ubano (_	'ubano // verbs
 	ustano (_	'u:stano   // verbs
