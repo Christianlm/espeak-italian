@@ -44,7 +44,7 @@ aculeo $2
 adamas $3
 addebit $2  $alt2
 addi $2
-addome  $alt
+addom	$2 $alt
 adeline  $alt2
 adempiere $2
 adenoipofisi $5
@@ -392,7 +392,6 @@ attimis $1
 attivita $4
 attizzare	at:its:'aRe
 attorn  $alt2
-audac $3
 augure $1
 augusteo	$3
 aulos $3
@@ -637,9 +636,9 @@ buccine	$2
 bucefal $2  $alt
 bufal $1
 buffal $1
-bugie  budZ''ie
-buia  b'uia
-buio  b'uio
+bugie  budZ'iE
+buia  b'u:ja
+buio  b'u:jo
 bulgar $1
 bulgari $1
 bulgaria $3
@@ -717,7 +716,6 @@ cantoria $3
 cantu $2
 canzoncine	$3
 caorle $1
-capac	$2
 capannori $2
 capello		$alt2
 capifila	$3
@@ -1350,7 +1348,6 @@ edui  $alt
 efeb  $alt
 efes $1  $alt
 effett  $alt
-efficace $3
 effimer $2
 eg  $alt
 egemone  $alt
@@ -1401,7 +1398,6 @@ emicriptofit $4
 emmental $1  $alt
 emodialisi $3
 emofilia $4
-emorragie	emoR*adZ'i;e
 emostasi $2
 emoticon $2
 empedocle $2  $alt
@@ -1684,7 +1680,6 @@ fori		$alt $only
 fori $2
 formic $2
 forn  $alt2
-fornace $2
 forr  $alt2
 forse  $alt2
 fortuit	f,O@-*t'uit
@@ -1724,7 +1719,6 @@ fruttosi  $alt
 fucile $2
 fucine	$2
 fucsia $1
-fugace $2
 fulgenzi  $alt
 funebr	$1
 funerea	$2
@@ -2183,6 +2177,7 @@ madras $2
 maestria $3
 mafia $1
 magazine	m'EgaziN
+magie	madZ'iE
 maggior  $alt2
 magnenzi  $alt
 magnesi  $alt
@@ -2412,6 +2407,7 @@ molten  $alt2
 molv  $alt
 mombarocci  $alt
 mon  $alt
+monaci	$1
 monade $1
 monarchia $3
 mondadori  $alt2
@@ -2453,6 +2449,7 @@ montorfan $2
 montreal  $alt2
 monzon $2
 mopsuestia $2
+mordaci	$2
 mores  $alt
 morfem  $alt
 mori  $alt2
@@ -2654,6 +2651,7 @@ orfei $2
 organ $1
 organon $1  $alt2
 orgia	'O@-*dZa
+orgie	'O@-*dZe
 origan $2
 oritterop $3
 orl  $alt2
@@ -2821,6 +2819,7 @@ penn  $alt2
 penne  $alt2
 pensile  $alt
 pensioncine	$4
+pentabraco	$3
 pentagon $2
 pentametr $2
 pentapoli $2
@@ -3026,6 +3025,7 @@ posillip $2
 post  $alt2
 posteri $1
 posteriori  $alt2
+posticip	$2
 postum $1
 potal $1
 potamogale $3
@@ -3104,6 +3104,8 @@ prosecc  $alt2
 proselit $2
 proserpin $2
 prosieguo  $alt
+prosindaci	p@-*,o||s'indatSI
+prosindaco	p@-*,o||s'indako
 prosodia $3
 prospett  $alt
 prostaferesi $3
@@ -3172,7 +3174,6 @@ ramesse  $alt
 rampoll  $alt2
 ranocchi  $alt
 ranocchia  $alt
-rapace $2
 rapsod  $alt
 rapsod $2
 rapsodia $3
@@ -3194,7 +3195,8 @@ redox $2  $alt
 reduce $1
 referendum  $alt
 regalia $3
-reggisen  $alt2
+reggisen  @-*edZ:is'en
+regie	@-*edZ'iE
 regn  $alt2
 regol $1
 reimpieg  $alt
@@ -3446,7 +3448,6 @@ seggi  $alt
 seggiovia $3
 segnapost  $alt2
 segnavia $3
-seguace $2
 selce  $alt2
 selci  $alt2
 seleni  $alt
@@ -3463,6 +3464,7 @@ semibreve  $alt
 semicerchi  $alt2
 semidi $3
 semin $1  $alt2
+semiopac	semIop'ak
 semirett  $alt
 semol $1
 sempre  $alt
@@ -3533,6 +3535,7 @@ sinalefe  $alt
 sincope $1
 sincron $1
 sincronia $3
+sindaci	$1
 sindia $2
 sindone $1
 sindrome $1
@@ -3676,6 +3679,7 @@ stilopoidei $5
 stipendi  $alt
 stobi  $alt
 stom  $alt
+stomaci	$1
 stop  $alt
 stopp  $alt2
 storm  $alt2
@@ -3735,6 +3739,7 @@ tantal $1
 tapir $1
 tarant $1
 tarantasia $3
+tarassaco	$3
 tardigradi $2
 tari $2
 tarpan $2
@@ -3785,7 +3790,6 @@ tempor  $alt
 tempor $1
 tempr  $alt
 temu $2
-tenace $2
 tenebr $1  $alt
 tened $1  $alt
 tenera	$1  $alt
@@ -3877,7 +3881,6 @@ toni  $alt
 tonn  $alt2
 top  $alt
 tora $2
-torace $2
 torb  $alt2
 torbid  $alt2
 torbole  $alt2
@@ -3924,6 +3927,7 @@ tredicesim  $alt
 tredici  $alt2
 tremil $2
 trentaduesim  $alt
+trentasei	$3
 trentenni  $alt
 trentesim  $alt
 treppiede  $alt
@@ -3981,6 +3985,7 @@ turold  $alt
 tuttor  $alt2
 tuttosport $3
 tutu $2
+ubbriac	$3
 uberta $3
 ubold  $alt
 ubriac $3
@@ -4059,7 +4064,6 @@ venusta $3
 vepre  $alt
 ver  $alt2
 ver  $alt2
-verace $2
 verde  $alt2
 verg  $alt2
 vergine  $alt2
@@ -4089,6 +4093,7 @@ vibrafon $2
 vicari		$2 $only
 vicaria		$2
 viceregine	$4
+vicesindac	vitSes'indak
 vicine	$2
 video $1
 videoclip $4
@@ -4116,7 +4121,6 @@ vitree	$1
 vitreo	$1
 vitreo $1
 vittoria  $alt2
-vivace $2
 viveri $1
 vo  $alt
 vobbia  $alt

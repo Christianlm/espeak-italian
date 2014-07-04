@@ -27,7 +27,9 @@
                 au	a%u
 	@C)	a (_S1q  a     // lookup it_list without suffix
 	@i)	a (_S1q  a     // lookup it_list without suffix
-	@)	a (cA_	=a
+	C) a (cY_	'a
+	@)	a (co_	=a
+	@) a (ca_	=a
 	@)	a (che_	=a
 		a (istA_  a
 		a (ismo_  'a
@@ -169,6 +171,7 @@
 	i)	f (erA_	=f
 	fobi (A_	fob'i;
 	fob (A_	=fob
+	farma (ci_	f'a@-*ma
 
 .group g
 		g	g
@@ -178,6 +181,12 @@
 		gi (A	dZ   // any vowel, or L01 ?
 		gi (a_	dZ'i#  // [i] only if stressed
 		gì (a_	dZ'i#  // [i] only if stressed
+	al) gie (_	dZ'iE
+	@Ar) gie (_	dZ'iE
+	fa) gie (_	dZ'iE
+	go) gie (_	dZ'iE
+	ple) gie (_	dZ'iE
+	rra) gie (_	dZ'iE
 		lo) gi (e_	dZ'i#
 	n)	gi (a_	dZ
 		gg (Y	dZ:
@@ -305,7 +314,7 @@
                ll (_    l
 	@A) lo (gA_	=lo
 	@A) lo (ghY_	=lo
-     _) l' (P2t     l
+	_) l' (P2t	l
 	lasciati (_	l,a/S'atI
 		lascia (L04_	l'aSa
 	leggi (L04_	l'EdZ:I
