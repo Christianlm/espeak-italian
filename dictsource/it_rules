@@ -82,6 +82,7 @@
 	A) cchiano (_	=k:iano   // verbs
 	ceder (L04_	tS'Ede@-*  // Pron.s verbs
 	cceder (L04_	tS:'Ede@-*
+	in) cer (L04_	=tSe@-*
 	_L04Z) capit (A_	k'a:p,it
 		_L04Z) capit (ano_	k'a:p,it
 
@@ -98,6 +99,8 @@
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
 	@) dinano (_	=dina/no   // verbs
+	i) dano (_	=dano  // verbs
+	i) dino (_	=dino
 	due (_	d'ue   // numbers
 	day (_	d'eI   // foreign
 
@@ -250,6 +253,7 @@
 	@C)	i (_S1q  i     // lookup it_list without suffix
         @)      i (Ante_   i
 		i (acA_   'i
+	i (ache_	'i
 		i (asi_   'i
 	@)	i (bile_  'i
 	@)	i (cA_	  =i
@@ -263,7 +267,6 @@
         @)      i (dere_  'i
 	@)	ie (rA_    i'E
 	@)	ié (rA_    i'E
-	@)	i (gA_	  =i
 		i (genA_  'i
 	c)	i (lA_    =i
 	g)	i (lA_    =i
@@ -326,7 +329,8 @@
 	A) mila (_	m'ila/
      _) m' (P2t     m
 	_) mezz' (P5t	mEdz:
-	metter (L04_	m'ette@-*
+	metter (L04_	m'ette@-* // Pron.s Verbs
+	manda (L05_	m'anda
 	mbano (_	=mbano // verbs
 	@) minano(_	=mina/no   // verbs
 
@@ -485,6 +489,7 @@
 	@C) sie (_	s'ie
 	@)	s (_S1	s
      _) sull' (P5t     sull
+	_) sant' (P5t	sant
 	_sotto) s (A	_||s
 	sfere (_	sf'eRe
 	@) scer (L04_	=SE@-*  // pron.s verbs
@@ -622,7 +627,7 @@ gn	n^
 _L16_)	: (_L17D_	_%%E_	// Say time
 
 		á	''a
-		é	'e
+		é	''e
 		è	E
 	@) è	''E
 		èi (K	''Ej
