@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 June 28 by Chris <llajta2012@gmail.com>
+// Last update: 2014 July 24 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -71,8 +71,8 @@
 	ch (a	tS
 	ch (o	tS
 	ch (u	tS
-		ci (A	tS    // or L01 ?
-		cci (A  tS:   // or L01 ?
+		ci (A	tS
+		cci (A  tS:
 	@)	co (lA_ =ko
      _) c' (P2t     tS
 	@@A) ce (A_	=tSE
@@ -85,6 +85,8 @@
 	in) cer (L04_	=tSe@-*
 	_L04Z) capit (A_	k'a:p,it
 		_L04Z) capit (ano_	k'a:p,it
+	correr (L04_	k'o:R*eR
+	ccorrer (L04_	k:'o:R*eR
 
 .group d
 		d	d
@@ -161,7 +163,8 @@
 	esser (L04_		'es:eR
 	_) ecco (L04	'Ek:o
 		ete (L04_	'ete
-	fl) etter (L04_	'Et:e@-*   // pronominal
+	fl) etter (L04_	'Et:e@-*
+	ever (L04_	'eveR
 	evano (_	'evano   // verbs
 	estano (_	'Estano   // verbs
 	AC) erano (_	=eR,ano   //verbs
@@ -434,6 +437,8 @@
 	ph	f   // foreign words
 	@m)	p (erY_	=p
 	porta (L05_	p'O@-*ta  // Pron.s verbs
+	pie (gaL05_	pI'e
+	pie (galA_	pI'e
 
 .group q
 		q	k
@@ -450,6 +455,9 @@
 	A) r (_	=@-*
 		rr	R*
 	A)	r (A	R
+	a) r (a	*
+	A) r (à_	*
+	A) r (ò_	*
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
 	C) rai (_	@-*'a:I
 	A) rai (_	R'a:I
@@ -485,7 +493,7 @@
 	A) sh (A	S
 	@A)	sia (_	z'ia
 	@A) sie (_	z'ie
-	@C)	sia	s'ia
+	@C) sia (_	s'ia
 	@C) sie (_	s'ie
 	@)	s (_S1	s
      _) sull' (P5t     sull
@@ -513,6 +521,7 @@
 	@ma) to (L06_	t'O
 	@a) to (L06_	=to
 	intima) to (L04_	=to
+	a) ta (si_	=ta
 	_) tutt' (P5t	tut:
 
 .group u

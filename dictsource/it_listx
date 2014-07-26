@@ -708,7 +708,7 @@ candel  $alt2
 canfor $1
 canil $2
 cannalong  $alt
-cannibale $2
+cannibal	$2
 cannobi  $alt
 canoa  $alt
 canon	$1
@@ -1980,6 +1980,7 @@ intersind $3
 intonarumori  $alt2
 intorn  $alt2
 intrinsec $2
+intrinseche	$2
 introdott  $alt2
 inver  $alt2
 invi $2
@@ -2874,7 +2875,6 @@ perregaux $2
 perrer $2
 persefone $2  $alt
 persia $1
-persian $3
 personcine	$3
 peru $2
 perugine	$3

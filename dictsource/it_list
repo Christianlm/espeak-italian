@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 June 28 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 July 24 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -515,16 +515,16 @@ era	$u1+ $only
 eravamo	$3
 eravate	$3
 erano	$1
-sarò	s,a/R'O 
-sarai	$2
-sarà	$u2+
+sarò	$u+ 
+sarai	sa*'aI
+sarà	$u+
 saremo	$u2+
 sarete	$u2+
 saranno	$u2+
 
 sia	$u+
-siate	si'ate	$u+
-siano	s'iano	$u+
+siate	$u+
+siano	$u+
 fossi	$u1+	$alt
 fosse	$u1+
 fossimo	$u1+
@@ -556,10 +556,10 @@ ebbero	$u1+
 avevo	$u2+   $alt $verbf
 avevi	$u2+
 aveva	$u2+
-avevamo	$u3
-avevate	$u3
+avevamo	$verbf
+avevate	$verbf
 
-avrò	a/v@-*'O $u+
+avrò	$u+	$verbf
 avrà	$u+
 avremo	$u2+
 avrete	$u+
@@ -708,13 +708,15 @@ faber	$1
 facebook		_^_EN
 fantasy	_^_EN
 firefox		_^_EN
-first	f'E:rst[
+fiction	f'ikS@n
+first	f'@:rst[
 flipper	$1
 folder	$1	$onlys
 follower	$1 $alt
 following	f'O:l:ow2iN
 fotocolor	$3	$onlys
 fotoreporter	$4	$onlys
+france	f@-*'a/ns
 free		_^_EN
 freedom	f@-*'i:dOm
 freelance	f@-*'i:l,Ens
@@ -867,6 +869,7 @@ teamviewer	t'i:m||_vju:Er
 teenager	tin'EIdZe@-*
 terminator	te@-*min'etO@-*
 tester	$1	$onlys
+tour	t'u:@-*
 thriller	$1 $onlys
 thunderbird		_^_EN
 time	t'aIm
@@ -1137,7 +1140,6 @@ infelic	infel'itS
 infrasuon	inf@-*asu'on
 ingegnere indZen^'ERe
 ingordigia	$3
-intarsiatrici	$5
 intercapedini	$4
 intere	$2	$alt2
 interfon	$3
@@ -1391,8 +1393,6 @@ trocantere	$3
 turbini	$1
 uffici	$2
 ugol	'u:gol
-ultime	$1
-ultimi	$1
 ultrasuono	ult@-*a||su'Ono
 univoche	$2
 uomini		$1
@@ -1468,6 +1468,7 @@ cagliari	$1
 calestano	$3
 calizzano	kalits:'ano
 calvizzano	$3
+cambridge	_^_EN
 camerun	$1
 campidano	$3
 campobassano	$4
@@ -1720,6 +1721,7 @@ zigano	ts-ig'a/no
 (charles baudelaire)	_^_FR
 (coca cola)	k,Okak'ola
 (dire straits)	d'aI*||st@-*'eIts
+(machu picchu)	matSup'iktSu
 (tel aviv)	t,El||av'iv;:
 
 //  Proper names
@@ -1792,6 +1794,7 @@ ivano	$2
 jack	_^_EN
 jackson	_^_EN
 james	_^_EN
+jane	_^_EN
 jennifer	$1
 jole	j'Ole
 jonathan	$1
@@ -1801,6 +1804,8 @@ juan	_^_ES
 jurij	juRI 
 juri	j'uRI
 katia	k'a:tia
+louise	lu'iz
+lewis	l'uIs
 lionel	l'aj,One@-*	$onlys
 lucía	_^_ES
 luciano	$2
@@ -1827,6 +1832,7 @@ Oliver	'O:liv,e@-* $onlys
 ollie	'Ol:i
 omero	om'E:Ro	$capital
 pascal	$2
+paul	p'O:l	$only
 peugeot	p,EZ'o
 pierangel	$2
 piernicola	$3
@@ -2230,12 +2236,13 @@ installano	$2
 installino	$2
 instaurano	$2
 insudiciano	$2
-intarsiavano	inta@-*si'avano
-intasiamo	intazi'amo
+intarsiano	$2
 intentano	$2
 intentino	$2
 interpret	$2
 interpretano	$2
+interrog	$2
+interroghi	$2
 interrogano	$2
 intitol	$2
 intono	$2
@@ -2353,7 +2360,6 @@ pazientano	patsi'entano
 pedinano	$2
 penetr	$1
 pensano	$1
-pensiamo	pensi'amo
 pensino	$1
 percepite	$3
 permanere	$3
@@ -2455,6 +2461,7 @@ rifil	$2
 rifiutano	$2
 rifugia	$2
 rifugiano	$2
+rigener	$2
 riguadagnano	$3
 riguardano	$2
 rigurgita	$2
@@ -2607,7 +2614,8 @@ suscita	$1
 suscitano	$1
 susseguano	$2
 svaligia	$2
-svuotano	zvu'otano
+sviscer	$1
+svuotano	zvU'o:tano
 tacere	$2
 tallono	$2
 tampono	$2
@@ -2660,10 +2668,12 @@ votano	$1	$alt2
 (capita di)	k'a:pita||_d'I
 (che capita)	ke||k'a:pita
 (volte capita)	v,Olte||k'a:p,ita
+(capitano tutte)	k'apitano||t'ut:e
 (che capitano)	ke||k'apitano
 (quando capitano)	kwando||k'a:pitano
 (dai che)	d'ai||ke
 (a seguito)	a||s'e:guito
+(al seguito)	als'egwito
 (di seguito)	di||s'e:gwito
 (seguita a)	s'e:gwita||a
 (seguiti a)	s'e:gwiti||a
@@ -2680,6 +2690,8 @@ aprigli	$1
 aprimel	$1
 aprimi	$1
 aprine	$1
+ascoltami	$2
+ascoltal	$2
 assumersi	$2
 batterlo	$1
 cancellami	$2
@@ -2734,7 +2746,9 @@ selezionali	$4
 sforzati	$1
 siediti	$1 $alt2
 spezzal	$1
-spiegaci	$1
+spiegaci	$2
+spiegatel	$3
+spiegati	$1
 stabilitosi	$3
 svuotalo	$2 $alt2
 usal	'u:za/l
