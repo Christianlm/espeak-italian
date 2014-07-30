@@ -165,10 +165,11 @@
 		ete (L04_	'ete
 	fl) etter (L04_	'Et:e@-*
 	ever (L04_	'eveR
-	evano (_	'evano   // verbs
-	estano (_	'Estano   // verbs
-	AC) erano (_	=eR,ano   //verbs
-	@s) ero (_	=ERO   //verbs
+	evano (_	'evano  // verbs
+	estano (_	'Estano
+	AC) erano (_	=eR,ano
+	@s) ero (_	=ERO
+	e (lano_	'e
 
 .group f
 		f	f
@@ -480,7 +481,6 @@
 		s (q	s
 		ss	ss
 	A) ss (A	s:
-
 		s (t	s
 		s (x	s
 		sc (Y	S
@@ -502,6 +502,7 @@
 	sfere (_	sf'eRe
 	@) scer (L04_	=SE@-*  // pron.s verbs
 	A) sci (L05_	=SI
+	scrivi (L04_	sk@-*'i:vI
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
@@ -518,6 +519,7 @@
 		a) ttoria (_	t:oR'ia
 		a) ttorie (_	t:oR'Ie
 		@) tt (ano_	=t:  // verbs
+	en) t (ano_	=t
 	@ma) to (L06_	t'O
 	@a) to (L06_	=to
 	intima) to (L04_	=to
@@ -538,8 +540,9 @@
 	uder (L04_	'udE@-*
 	uter (L04_	'ute@-*
 	uvano (_	'uvano // verbs
-	ubano (_	'ubano // verbs
-	ustano (_	'u:stano   // verbs
+	ubano (_	'ubano
+	ustano (_	'u:stano
+	C) uo (tano_	U'O
 	uomini (_	w2'Omini
 
 .group v
@@ -549,6 +552,7 @@
 		C) vi (A	vI
 		C) vi (A_	=vI
 	A) vino (_	=vino  // verbs
+	@) vo (cano_	=vo
 
 .group w
 		w	w2
