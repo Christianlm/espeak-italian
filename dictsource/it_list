@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 July 24 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 July 30 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -670,6 +670,7 @@ city	s'i:tI
 cleaner	_^_EN
 cliché		kli:S'e
 cocker	$1
+compilation	kompil'ES@n
 computer	kompj'ute@-*
 condor	$1
 container	kont'eInE@-*	$onlys
@@ -2281,6 +2282,7 @@ evidenziano	$3
 evit	$1
 evitano	$1
 fantasticano	$2
+faticano	$2
 fatturano	$2
 favoreggiano	$3
 fermano	$1
