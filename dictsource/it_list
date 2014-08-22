@@ -142,6 +142,8 @@ _‴	t@-*'iplo||'apitSe
 _‼	esklamatsi'One
 ¶	paR'ag@-*afo
 −	m'Eno
+²	d'ue $native
+³	t@-*'e	$native
 ⅓	uNt'e@-*|tso
 ⅔	du,e||t'E@-*tsI
 ¼	un||ku'a@-*to
@@ -152,12 +154,32 @@ _‼	esklamatsi'One
 ∫	integ@-*'ale
 _‐	legat'u:Ra
 _‒	lini'et:a
+_‑	t@-*at:,ino||duni'one
 ɛ	'E||ap'e@-*ta
 ɔ	'O||ap'e@-*ta
 ɾ	ER*e||untSin'ata
 ʔ	glotalst'Op
 ♥	'as:o||di||kw'ORI // s'imbolo||ku'oRe
 ❓	p'unto||inteR*ogat'ivo
+_‟	d,op:ie||vi@-*gol'et:e||asin'ist@-*a
+_‣	punt'ato
+_․	p'unto
+_‥	p,unto||d'op:io
+≈	tS'i@-*ka
+∝	p@-*opo@-*tsion'ale||a
+∂	d'Elta
+∑	tot'ale
+∗	aste*'isko
+∴	'Implika
+∵	pe@-*k'e
+˙	p'unto
+№	n'u:mERo
+←	f@-*'etS:a||sin'ist@-*a
+↑	f@-*,etS:a||_s'u
+→	f@-*'etS:a||d'est@-*a
+↓	f@-*,etS:a||_dZ'u
+♭	bem'ol:e
+♯	dI'ezis
 
 // phonetic modifiers
 
@@ -280,7 +302,7 @@ _27	ventis'Et:e
 _28     v'ent'Ot:o
 _29	ventin'Ove
 _3X     t@-*'enta
-_4X     kw2a/R'a:Nta
+_4X     kua*'a:nta
 _5X     tSinkw2'anta
 _6X     sess'anta
 _7X     set:'anta
@@ -414,7 +436,7 @@ quelle  $u+      // those
 anche	$u+
 attraverso 	$alt // across, through
 benchè		$u+	$brk      // though
-che             $u+
+che             $u+ $verbf
 cioè	$u+
 come	$u+
 contro	$u+
@@ -686,7 +708,8 @@ deejay		_^_EN
 default	_^_EN
 desktop	d'Eskt,op
 detector	$2
-design	dez'aIn
+designer	d,ez'aIne@-*
+design	d,ez'aIn
 disney	$1
 disneyland	$1
 display	displ'ei
@@ -763,6 +786,7 @@ lady	l'E:dI
 laser	$1
 leader	lidE@-*
 live	l'aIv
+lord	$alt $only
 lover	$1
 macintosh	_^_EN
 made	m'eId
@@ -773,6 +797,7 @@ manager	$1
 marker	$1
 master	$1
 melody	m'E:l@di
+messenger	$1
 microsoft		m'aIk@-*Osoft
 miller	$1	$only
 misery	$1
@@ -940,7 +965,6 @@ amic	$2
 amiche	$2
 amnistie	amnist'ie
 anatemi	$3
-anemie	anem'ie
 angioin	$3
 anime	$1
 anomal	$2
@@ -948,6 +972,7 @@ anomalie	$4
 ansia	'ansia
 ansie	'ansie
 antich	$2
+anticolesterol	$6 $alt2
 antidolorifici	$5
 antilopi	$2
 antipatie	antipat'ie
@@ -971,8 +996,8 @@ austere	$3
 autocrat	$3
 autoironia	auto,iRon'i;a
 autonom	$3
-autonomie	autonom'ie
 autoveicol	autove'ikol
+autostim	$4
 avarie	$3
 aziend	adzj'End
 aziendal	adzj,End'al
@@ -1057,7 +1082,6 @@ divino	$2
 dobermann	$1
 dolorifici	$3
 ebola	'ebola
-economie	ekonom'ie
 edifici	$3
 edili	$1
 egoistici	ego'istitSi
@@ -1416,6 +1440,7 @@ vocaboli	$2
 voragini	$2
 vuot	vu'O:t
 
+(in balia)	in||bal'i:a
 (principi attivi)	p@-*intS'i:pI||at:'ivI
 ciao	tS'ao:_
 (ciao a)	tS'ao||_|,a_|
@@ -1489,6 +1514,7 @@ ciserano	$3
 cismontano	$3
 citramontano	$4
 civezzano	$3
+chianciano	$2
 colombano	$3
 conzano	$2
 corchiano	$3
@@ -1522,6 +1548,7 @@ fusciano	$2
 gabbano	$2
 galgano	$2
 gallipoli	$2
+gardaland	$1
 gargano	$2
 gavorrano	$3
 genazzano	$3
@@ -1714,6 +1741,7 @@ valentano	$3 $capital
 vallombrosano	$4
 vazzano	$2
 vecchiano	$3
+venezuelan	venetsUel'an
 venezuelano	venetsUel'ano
 vezzano	$2
 visciano	$2
@@ -1990,6 +2018,7 @@ appaiano	$2
 appartenere	$4
 appoggiano	$2
 appoggino	$2
+apostrofano	$2
 apprezzat	ap:@-*,e'ts:at
 apprezzino	$2
 approfittino	$3
@@ -2016,6 +2045,7 @@ assimilano	$2
 assommino	$2
 assumano	$2
 attaccano	$2
+attendano	$2
 atterrano	$2
 attestino	$2
 attirano	$2
@@ -2144,6 +2174,7 @@ creano	$1
 credano	$1
 cremano	$1
 crepano	$1
+criticano	$1
 cullano	$1
 curano	$1
 dai	d'a:i $atend
@@ -2375,6 +2406,7 @@ incendiano	$2
 incid	$2
 incit	$1
 incitano	$1
+incomincino	$3
 incontrano	$2
 incontrino	$2
 incoraggiano	$3
@@ -2741,6 +2773,7 @@ rimandano	$2
 rimanere	$3
 rimbalzano	$2
 rimediano	$2
+rimpatria	$2
 rinavig	$2
 rinavigano	$2
 ringhiano	$1
@@ -2785,6 +2818,7 @@ rivendicano	$2
 riversi	$2
 rotolano	$1
 rovino	$2
+rubino	$1 $verb
 rullano	$1
 sabotano	$2
 salpano	$1
@@ -2902,6 +2936,7 @@ soffrano	$1
 sogghignano	$2
 soggiacere	$3
 sollecitano	$2
+sollecit	$2
 solleticano	$2
 somigliano	$2
 somministrano	$3
@@ -2988,6 +3023,7 @@ suscit	$1
 suscita	$1
 suscitano	$1
 susseguano	$2
+svaghino	$1
 svaligia	$2
 svalutano	$1
 svegliano	$1

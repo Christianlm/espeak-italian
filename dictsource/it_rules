@@ -42,7 +42,7 @@
      _) anch' (P5t     ank
 	@) amo (L04_	'amo  // Pron.s verbs
 	@) ander (L04_	'andE@-*  // Pron.s verbs
-		ate (L04_	'ate
+		ate (L04_+	'ate
 	_L04Z) auguri (_	'awguRI
 	astano (_	'a:sta/no   // verbs
 
@@ -74,6 +74,8 @@
 		ci (A	tS
 		cci (A  tS:
 	@)	co (lA_ =ko
+	cardia (_	ka@-*d'ia
+	cardie (_	ka@-*d'ie
      _) c' (P2t     tS
 	@@A) ce (A_	=tSE
 	ciano (_	=tSano   // verbs
@@ -242,6 +244,7 @@
 	af)	ie (_	'ie
 	fon)	ia (_	'ia
 	scop)	ia (_	'ia
+	scop) ie (_	'ie
 	er)	ia (_	'ia
 	er)	ie (_	'ie
 	gor)	ia (_   'ia
@@ -329,7 +332,8 @@
 .group m
 		m	m
 	mm	m:
-	A)	mi (a_  m'i
+	A) mi (a_  m'i
+	A) mi (e_	m'i
 	A) mila (_	m'ila/
      _) m' (P2t     m
 	_) mezz' (P5t	mEdz:
@@ -343,9 +347,11 @@
 		n (g	N
 		n (gY   n
 		n (k	N
+	Ama) nia (_	n'i:a
+	Ama) nie (_	n'i:e
      _) nell' (P5t     nell
 	_) neanch' (P7t	neank
-		ndo (L04_	=ndo    // for pronominal verbs
+		ndo (L04_	=ndo    //  Pronominal verbs
 		netter (L04_	n'Et:e@-*
 		_zA) nz (A	n|dz
 		A) ne (A_	=nE
@@ -440,6 +446,8 @@
 	porta (L05_	p'O@-*ta  // Pron.s verbs
 	pie (gaL05_	pI'e
 	pie (galA_	pI'e
+	tera) pi (A_	p'i
+	tro) pi (A_	p'i
 
 .group q
 		q	k
@@ -503,6 +511,7 @@
 	@) scer (L04_	=SE@-*  // pron.s verbs
 	A) sci (L05_	=SI
 	scrivi (L04_	sk@-*'i:vI
+	salu (taL04_	sal'U
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
