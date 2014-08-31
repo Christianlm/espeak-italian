@@ -79,8 +79,6 @@ agnati $1
 agonia $3
 agonie	agon'i;e
 agora $3
-
-
 agord $1
 agost  $alt2
 agosta		$1
@@ -117,6 +115,8 @@ alessia $3
 alfabet  $alt
 algebric  $alt
 algenib  $alt
+
+
 algovia  $alt
 alibi $1
 alice $2
@@ -402,6 +402,7 @@ ateo $1
 atlet  $alt
 atom $1
 aton $1
+atrii	$1
 atrofia $3
 atrofie	at@-*of'i:e
 attendol  $alt
@@ -582,6 +583,7 @@ bol  $alt
 bolgheri $1
 bolgia $1  $alt
 boll  $alt2
+bolsceviche	$3
 bom  $alt
 bon  $alt
 bonacolsi  $alt
@@ -1377,6 +1379,7 @@ egemonia $4
 egemonie	edZemon'i:e
 egeria $2
 egocentric  $alt
+egoistiche	ego'Istike
 egumen $2
 eh  $alt2
 ei		eI
@@ -1562,6 +1565,7 @@ euriloc $3
 eurit $1
 euritmia $4
 europ  $alt
+europeistiche	eURope'Istike
 europi  $alt
 europol $4
 eutifrone $3
@@ -1739,6 +1743,7 @@ frigia $1
 frod  $alt
 frode  $alt
 frumenzi  $alt
+fruscii	f@-*uS'i:j
 fruscio  f@-*uS'i:o
 fruttosi  $alt
 fucile $2
@@ -1792,6 +1797,8 @@ gerarchia	$3
 gerarchie	dZeRa@-*k'ie
 gergovia  $alt
 germil	$2
+geroglific	dZeRogl'ifik
+geroglifiche	dZeRogl'ifike
 gerolam $2
 gerrei $2
 gessopalen  $alt2
@@ -1830,11 +1837,14 @@ gladiol $2
 glaucofane $3
 gleb  $alt
 glia  l^'i:a
+glicemiche	glitS'emike
 glicemie	glitSem'i;e
 glicerin	glitSe*'in
+glicerofosforic	glitSeRofosf'oRik
 glicerol $3
 glicin	gl'itSin
 glicine	gl'itSine
+glicolic	glik'olik
 glicolisi	glikol'izI
 gliconeo	glik'O:n,Eo
 glicoprotein	glikop@-*ote'in
@@ -1868,6 +1878,7 @@ gonn  $alt2
 gonnes  $alt
 gorga		$alt2
 gorgia $1
+gorgoglii	go@-*gol^'i:I
 gorgonzol $3
 got  $alt
 goti  $alt
@@ -1920,6 +1931,7 @@ idrocors  $alt2
 idroelettric  $alt
 idrolisi $2
 idrope $1
+idroterapeutiche	$5
 idrovor $2
 iempsale $1  $alt
 ifigenia $4
@@ -1981,7 +1993,7 @@ inquiet  $alt
 insett  $alt
 insetti  $alt
 insetticid $4
-insieme  $alt
+insiem	insI'Em
 insit $1
 insolit $2
 insomm  $alt2
@@ -2015,6 +2027,7 @@ ioni  $alt
 iperborea	$3
 iperboree	$3
 iperboreo	$3
+iperglicemic	iperglitS'emik
 ipernucleo	$3
 ipersonnia $4
 ipertermia $4
@@ -2024,6 +2037,7 @@ ipocentr  $alt
 ipocloridria $5
 ipocondria $4
 ipofisi $2
+ipoglicemic	ipoglitS'emik
 ipotalam $3
 ipotec  $alt
 ipotermia $4
@@ -2104,13 +2118,14 @@ lauree	$1
 laurenzi  $alt
 laureo	$1
 lauria $3
-lazzar $1
+lazzar l'adz:aR
 lecc  $alt2
 lecit $1  $alt2
 legatoria $4
 legazia $3
 legge  $alt2
 leggi		l'edZ:,i
+leggii	ledZ'i:I
 lemn  $alt
 lemure $1  $alt
 lemuri $1  $alt
@@ -2248,6 +2263,7 @@ mandei $2
 mandibol $2
 mandorl $1
 mangan $1
+mangiaformiche	mandZa||fo@-*m'ike
 mangiatoia  $alt2
 mangim	$2
 mania $2
@@ -2285,6 +2301,7 @@ marsia $1
 marsicovetere  $alt
 martinitt $3
 martir	$1
+martirii	$2
 martor $1
 mascali $1
 mascalucia  maskalutS'i:a
@@ -2443,6 +2460,7 @@ molecol  $alt
 molestia	$2
 molestie	$2
 mollic $2
+molliche	$2
 moloch  $alt
 molochi  $alt
 molotr $1  $alt
@@ -2473,6 +2491,8 @@ monomi  $alt
 monopack $3
 monopett  $alt
 monopost  $alt2
+monosillabiche	mono||sil:'abike
+monoteistiche	monote'Istike
 monotonia $4
 monrovia  $alt
 montecompatri $3  $alt
@@ -2513,6 +2533,7 @@ motocross $3
 mozz  $alt2
 mucoprotein	mukop@-*ote'in
 mufti $2
+muggii	mudZ'i:j
 muggio $2  $alt
 multietnic  $alt
 multigaranzia	$5
@@ -2555,6 +2576,7 @@ nematodi $3  $alt
 nembr  $alt
 nemi  $alt
 nemic $2
+nemiche	$2
 nemmen  $alt2
 nenni  $alt
 neogrec  $alt
@@ -2757,6 +2779,7 @@ ottoboni  $alt
 ottobre  $alt2
 ottotip $2
 ottotipi $2
+ovaii	$2
 ovest  $alt
 ovideposizione  $alt
 ovil	$2
@@ -2827,6 +2850,7 @@ partenope $2  $alt
 passafili	$3
 passatemp  $alt
 pasten $1
+pastiche	$2
 pastor  $alt2
 pater $1
 patin $1
@@ -2910,6 +2934,7 @@ perrer $2
 persefone $2  $alt
 persia $1
 personcine	$3
+pertiche	$2
 peru $2
 perugine	$3
 perun $2
@@ -2986,11 +3011,13 @@ platania $3
 platin $1
 plebe  $alt
 plecotteri  $alt
+plenilunii	$3
 plesi  $alt
 plestia $1
 plettr  $alt
 pleur $1
 pleuric $1
+pleuriche	$1
 plexiglas $1  $alt
 plezz  $alt
 plumbea	$1
@@ -3032,6 +3059,7 @@ polis  $alt2
 polisten $2
 polistirol $4
 politecnic  $alt
+politeistiche	polite'i:stike
 polizia $3
 polizz $1
 poll  $alt2
@@ -3161,6 +3189,7 @@ prostaferesi $3
 prostat $1
 prot  $alt
 protas		$1
+proteiniche	p@-*ote'Inike
 proteo $1  $alt
 protesi $1
 protett  $alt
@@ -3180,6 +3209,7 @@ psicoanalisi $4
 psicocinesi  $alt
 psicosintesi $3
 psicoterapeut $5
+psicoterapeutiche	$5
 pulcheria $2
 puliga	$1
 pulizia $3
@@ -3214,7 +3244,9 @@ rabbi $2
 racale $1
 racem  $alt
 radicofani $3
+radiofarmaceutiche	$6
 radiospie	@-*adiosp'I:e
+radioterapeutiche	$6
 rafie	$1
 raglan $2
 ragnatel  $alt2
@@ -3442,6 +3474,7 @@ sbattezzare	zbat:edz:'aRe
 sbocc  $alt2
 scaliger $2
 scandal $1
+scansafatiche	$4
 scapit $1
 scapol $1
 scapoli $1
@@ -3757,6 +3790,7 @@ strettoia  $alt2
 strof  $alt
 strolag $1
 stronzi  $alt
+struscii	st@-*uS'i:j
 subacquea	$2
 subacquee	$2
 subacqueo $2
@@ -3828,6 +3862,7 @@ teetet  $alt
 tegol $1
 tegu $2
 teista  tE'ista
+teistiche	te'Istike
 tel  $alt2
 telecamer $3
 telef $1
@@ -4194,6 +4229,7 @@ vittoria  $alt2
 viveri $1
 vo  $alt
 vobbia  $alt
+vocii	votS'i:j
 vodk  $alt
 voglia  $alt2
 voivod  $alt

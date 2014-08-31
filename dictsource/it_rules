@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 July 30 by Chris <llajta2012@gmail.com>
+// Last update: 2014 August 18 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -231,6 +231,7 @@
 .group i
 		i	i
 		i (A	j
+	@) ii (_	'I:j
 	l)	i (A	%i
 	r)	i (A	%i
 	_C) ie (_	'ie
@@ -339,6 +340,7 @@
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-* // Pron.s Verbs
 	manda (L05_	m'anda
+	assu) mer (L04_	=me@-*
 	mbano (_	=mbano // verbs
 	@) minano(_	=mina/no   // verbs
 
@@ -562,6 +564,7 @@
 		C) vi (A_	=vI
 	A) vino (_	=vino  // verbs
 	@) vo (cano_	=vo
+	in) via (toL04_	vI'a
 
 .group w
 		w	w2

@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 July 30 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 August 18 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -106,8 +106,8 @@ _:	d,uep'unti
 _!	p,untoesklamat'ivo
 _"	viRgolet:e
 _'	ap'OstRofo
-_(	ap,eRtapaR'entezi
-_)	kj,uzapaR'entezi
+_(	ap,e@-*ta||paR'entezi
+_)	kj,uza||paR'entezi
 _,	v'iRgola
 _-	t@-*at:ino
 _;	p,untoev'iRgola
@@ -168,7 +168,7 @@ _‥	p,unto||d'op:io
 ≈	tS'i@-*ka
 ∝	p@-*opo@-*tsion'ale||a
 ∂	d'Elta
-∑	tot'ale
+∑	som:at'ORia
 ∗	aste*'isko
 ∴	'Implika
 ∵	pe@-*k'e
@@ -308,7 +308,7 @@ _6X     sess'anta
 _7X     set:'anta
 _8X     ot:'anta
 _9X     nov'anta
-_0C     tS'ento $u+
+_0C     tS'Ento $u+
 _0M1    m'ila
 _1M1	m'ille
 _0M2    mili'oni
@@ -576,8 +576,8 @@ aveste	$u2+
 ebbero	$u1+
 
 avevo	$u2+   $alt $verbf
-avevi	$u2+
-aveva	$u2+
+avevi	$u2+	$verbf
+aveva	$u2+	$verbf
 avevamo	$verbf
 avevate	$verbf
 
@@ -588,21 +588,21 @@ avrete	$u+
 avranno	$u+
 
 abbia	$u+
-abbiamo	$u+
+abbiamo	$u+	$verbf
 abbiate	$u+
-abbiano	$1
-avessi	$u+
-avesse	$u+
-avessimo	$u+
+abbiano	$1	$verbf
+avessi	$u+	$verbf
+avesse	$u+ $verbf
+avessimo	$u+	$verbf
 aveste	$u+
-avessero	$u+
+avessero	$u+	$verbf
 
-avrei	$2
-avresti	$u+
-avrebbe	$u+
-avremmo	$u+
+avrei	$2	$verbf
+avresti	$u+	$verbf
+avrebbe	$u+	$verbf
+avremmo	$u+	$verbf
 avreste	$u+
-avrebbero	$u+	$alt
+avrebbero	$u+	$alt	$verbf
 
 // to do/make
 fare	$u+
@@ -768,11 +768,11 @@ inter	$1 $only
 internet	'inte@-*nEt
 iper	$1
 iperlink	,iper||l'ink
-iphone		_^_EN
+iphone		'aI_fon
 italy	$1
 iter	$1
 jaguar	$1
-jaws		dZ'O:s
+jaws		dZ'O:z
 jazz		_^_EN
 jeans		dZi:ns
 jocker	$1
@@ -785,6 +785,7 @@ killer	$1
 lady	l'E:dI
 laser	$1
 leader	lidE@-*
+line	l'aIn	$only
 live	l'aIv
 lord	$alt $only
 lover	$1
@@ -795,6 +796,7 @@ mailer	m'Eile@-*
 maker	m'eIkE@-*
 manager	$1
 marker	$1
+marketing	$1
 master	$1
 melody	m'E:l@di
 messenger	$1
@@ -807,13 +809,14 @@ monitor	$1 $onlys
 monsieur	_^_FR
 mouse	maus
 new	_^_EN
-news	ni'us
 newsletter	njuzl:'et:e@-*
-musical	m'juzikOl
+musical	m'juzikOl $onlys
+noir	nU'a:R $only
 nomination	nomIn'eSon
 nonchalance	non_Sal'ans
 nylon	n'aIlon
 office		_^_EN
+one	w'a/n $onlys
 online	,on||l'aIn
 order	$1
 oscar	$1
@@ -923,6 +926,7 @@ videomaker	vidEom'eIke@-*
 viewer	vj'u:Er
 vodafone	v'odafon
 voilà	_^_FR
+volkswagen	_^_DE
 wafer	v'afe@-*
 wall	_^_EN
 walzer	v'altsE@-*
@@ -1009,6 +1013,7 @@ becera	$1
 beneficio	$3
 beneplacito	$3
 benzol	bendz'Ol
+bischer	b'Isk,e*
 bizzarria	$3
 bizzarrie	$3
 bombarol	$3 $alt
@@ -1016,7 +1021,6 @@ bonifici	$2
 bovino	$2
 bracciol	$2
 bronz	b@-*'ondz
-brusii	b@-*uz'ij
 bufere	$2
 buon	bu'on	$u+
 burocrate	$2
@@ -1042,7 +1046,6 @@ ciascuna	$2
 ciascune	$2
 ciascuno	$2
 cinguettio	$3
-cinguettii	tSingw,et:'i:j
 civil	$2
 clistere	$2
 cocaina	koka'i:na
@@ -1051,6 +1054,7 @@ compagini	$2
 compagnie	kompan^'ie
 compatrono	$3
 condiscepoli	$3
+consortil	$3
 copertin	$3
 cornic	ko@-*n'itS
 crimini	$1
@@ -1127,6 +1131,7 @@ formicolio	$4
 fotocamera	$3
 frastuon	$3
 fraticid	$3
+fremit	$1
 galere	$2
 garanzie	gaRants'ie
 gastrici	$1
@@ -1249,6 +1254,7 @@ ottim	$1
 ottonano	$3
 ovvia	'ov:ia
 ovvie	'ov:ie
+ovino	$2
 ozono	o|dz'ono
 pacifici	$2
 pantere	$2
@@ -1321,12 +1327,14 @@ ragnatel	$3
 randagia	$2
 razzo	@-*'a|dz:o
 reciproche	$2
+recondit	$2
 reduci	$1
 regim	$2
 regine	$2
 remore	$1
 repubblicano	$4
 restio	@-*est'io
+retino	$2
 revoche	$1
 riavvia	@-*iav:'i#a
 riavvio	@-*iav:'IO
@@ -1357,7 +1365,7 @@ schettin	$2
 schizzofrenia	$4
 scia	S'Ia
 sciabile	Si'abile
-sciacquii	S,akw2'ij
+sciacquii	S,akw2'i:j
 sciacquio	S,akw2'i;O
 sciator	Si|at'oR
 sciatric	Siat@-*'ItS
@@ -1506,6 +1514,7 @@ carezzano	$3	$capital
 casamarciano	$4
 castelmezzano	$4
 castelpagano	$4
+champs	S'amps
 chicago	tSikago
 cicciano	$2
 cilentano	$3
@@ -1530,6 +1539,7 @@ daciano	$2
 dallas	$1	$capital
 dorzano	$2
 durazzano	$3
+élysées	eliz''e
 esterzili	$3
 everest	$1
 fanano	$2
@@ -1566,6 +1576,7 @@ guinea	gwin'ea
 hamas	$2
 haiti	a'i:ti
 haitian	aiti'an
+hawaii	aw'a:i:
 hollywood	_^_EN
 huligano	$3
 ilbono	$2
@@ -1690,6 +1701,7 @@ rossano	$2
 rotoplano	$3
 rozzano	$2
 rusticiano	$3
+sanlazzaro	san_l'adz:aRo
 sandviciano	$3
 sangano	$2
 saragozzano	$4
@@ -1697,6 +1709,7 @@ sarezzano	$3
 sarnano	$2
 sassano	$2
 sassari	$1
+scampia	skamp'i:a
 scisciano	$2
 scorrano	$2 $capital
 seattle	_^_en
@@ -1931,18 +1944,27 @@ chilowatt	k'ilo_vat[:
 // Exceptions for verbs and others irregular verbs 
 
 abbagliano	$2
+abbaglino	$2
 abbaiano	$2
+abbandonino	$3
 abbandono	$3
 abbindolano	$2
+abbocchino	$2
+abbraccino	$2
 abbreviano	$2
 abilita	$2
+abilitino	$2
+abissino	$2
 abitano	$1
 abituano	$2
+abituino	$2
 abusano	$2
+abusino	$2
 accadano	$2
 accadere	$3	$alt2 
 accampano	$2
 accecano	$2
+accechino	$2
 accentuano	$2
 accertano	$2
 accettino 	$2
@@ -1953,15 +1975,20 @@ accompagnano	$3
 accoppiano	$2
 accumulano	$2
 accusano	$2
+accusino	$2
 acquietano	$2 $alt
 acquietino	$2 $alt
 adagia	$2
 adagiano	$2
+adattino	$2
 addensano	$2
 addestrano	$2
 addic	$2
+addossino	$2
 adeguano	$2
+adeguino	$2
 adirano	$2
+adirino	$2
 adoper	$2
 adoperino	$2
 adorano	$2
@@ -1974,6 +2001,7 @@ affermino	$2
 afferrano	$2
 affid	$2
 affil	$2
+affoghino	$2
 affrettino	$2
 affrontino	$2
 agevolano	$2
@@ -2014,11 +2042,11 @@ annullano	$2
 annuncino	$2
 annunziano	$2
 anticipano	$2
+apostrofano	$2
 appaiano	$2
 appartenere	$4
 appoggiano	$2
 appoggino	$2
-apostrofano	$2
 apprezzat	ap:@-*,e'ts:at
 apprezzino	$2
 approfittino	$3
@@ -2026,14 +2054,19 @@ aprano	$1
 apriti	$1
 arano	$1
 argina	$1
+argino	$1
 armano	$1
 arrabbiano	$2
+arrabbino	$2
 arrangiano	$2
+arrangino	$2
 arrecano	$2
 arrechino	$2
 arredano	$2
 arrestino	$2
 arrotol	$2
+ascoltino	$2
+aspettino	$2
 aspirano	$2
 assaggiano	$2
 assediano	$2
@@ -2065,7 +2098,10 @@ avvia	av:'i#a
 avviano	av:'iano
 avvicendano	$3	$alt
 avvisano	$2
+avvisino	$2
+azzardino	$2
 azzeccano	$2
+azzer	,a|dz:'eR
 badano	$1
 bagnano	$1
 ballano	$1
@@ -2184,6 +2220,7 @@ deambulano	de'ambulano
 debuttino	$2
 decadere	$3
 decapitano	$2
+decapit	$2
 decid	$2
 decifrano	$2
 decomprimano	$3
@@ -2393,6 +2430,7 @@ imprecano	$2
 impregnano	$2
 improvvisano	$3
 impugnano	$2
+inabissino	$3
 inalzano	$2
 inaugur	in'aw2gu@-*
 inaugurano	$2
@@ -2402,7 +2440,9 @@ incantano	$2
 incaricano	$2
 incartono	$3
 incastrano	$2
+incazzino	$2
 incendiano	$2
+incendino	$2
 incid	$2
 incit	$1
 incitano	$1
@@ -2410,17 +2450,23 @@ incomincino	$3
 incontrano	$2
 incontrino	$2
 incoraggiano	$3
+incoraggino	$3
 incorono	$3
 incorpor	$2
 incorporano	$2
+incrimino	$2
+incrocino	$2
 inculano	$2
 indebitano	$2
+indebitino	$2
 indicano	$1
+indichino	$1
 indignano	$2
 individuano	$3
 indossino	$2
 indugia	$2
 inequivoc	$3
+infettino	$2
 infiammano	$2
 infil	$2
 infilano	$2
@@ -2429,6 +2475,7 @@ informino	$2
 ingegnano	$2
 inglobano	$2	$alt2
 iniziano	$2
+inizino	$2
 innamorano	$3
 inquadrano	$2
 inquietano	$2 $alt
@@ -2444,8 +2491,10 @@ installino	$2
 instaurano	$2
 insudiciano	$2
 insultano	$2
+insultino	$2
 intarsiano	$2
 integrano	$1
+integrino	$1
 intentino	$2
 interpellano	$3
 interpret	$2
@@ -2476,12 +2525,14 @@ investighi	$2
 invia	Inv'Ia
 inviano	inv'iano
 invidiano	$2
+invii	inv'i:I
 invitano	$2
 invitino	$2
 invocano	$2
 invogliano	$2
 inzuppano	$2
 ipotecano	$3
+ipotechino	$3
 irradiano	$2
 irrig	$1
 irrit	$1
@@ -2492,6 +2543,7 @@ istig	$1
 istigano	$1
 lacrimano	$1
 lagnano	$1
+lagnino	$1
 lamentino	$2
 lancino	$1
 lasciavi	$2
@@ -2503,18 +2555,24 @@ leccano	$1
 leggere	$1 $alt
 levig	$1
 levigano	$1
+liberino	$1
 licenziano	$2
+licenzino	$2
 lievitano	li'Evitano
 lievitino	li'Evitino
 limit	$1
 limitano	$1
+limitino	$1
 liquidano	$1
+liquidino	$1
 litig	$1
 litigano	$1
+litighino	$1
 lodano	$1
 logorano	$1
 luccicano	$1
 lucidano	$1
+lucrano	$1
 macellano	$2
 macinano	$1
 maledicano	$3
@@ -2526,6 +2584,7 @@ mandano	$1
 mangiano	$1
 manipol	$2
 mantenere	$3
+marcino	$1
 martellano	$2
 mascherano	$1
 massacrano	$2
@@ -2586,6 +2645,7 @@ odiano	$1	$alt
 offendano	$2
 offrano	$1
 oltraggiano	$2
+oltrepassino	$3
 omogeneizz	omodZene'idz:
 onomatopeizzo	onomajtope'idz:o
 orbitano	$1
@@ -2610,6 +2670,7 @@ partecipano	$2
 pascolano	$1
 pattinano	$1
 peccano	$1
+pecchino	$1
 pedinano	$2
 peggiorano	$2
 penetr	$1
@@ -2646,6 +2707,7 @@ praticano	$1
 preannunziano	$3
 precipita	$2
 precisano	$2
+precisino	$2
 predicano	$1
 predici	$2
 preghino	$1
@@ -2654,6 +2716,7 @@ premiano	$1
 prendano	$1
 preoccup	$2
 preoccupano	$2
+preoccupino	$2
 preordin	$2
 preparano	$2
 presentino	$2
@@ -2681,6 +2744,7 @@ pulsano	$1
 puntano	$1
 quietano	$1 $alt
 raccomandano	$3
+raccontino	$2 $verb
 racimol	$2
 racimolano	$2
 raddoppiano	$2
@@ -2704,6 +2768,7 @@ rattizzo	@-*at:'its:O
 ravvedere	$3
 ravvisano	$2
 ravvisino	$2
+reagii	@-*eadZ'i:j
 recano	$1
 recitano	$1
 reclamano	$2
@@ -2724,6 +2789,7 @@ respirano	$2
 riabbandono	$4
 riabbono	$3 $alt2
 riabbottono	$4
+riabbraccino	$3
 riabilita	$3
 riabituano	$3
 riaccompagnano	$4
@@ -2741,6 +2807,7 @@ ricadere	$3	$alt2
 ricalcano	$2
 ricamano	$2
 ricambiano	$2
+ricambino	$2
 ricandidano	$2
 ricapitano	$2
 ricapitol	$3
@@ -2753,6 +2820,7 @@ ricompil	$3
 riconcili	$3
 riconciliano	$3
 riconsegnano	$3
+ricucii	@-*ikutS'i:j
 ridisegnano	$3
 ridrizzo	@-*,i_d:@-*'i:ts:O
 riducano	$2
@@ -2781,6 +2849,7 @@ ringraziano	$2
 rinomin	$2
 rintrono	$2
 rinviano	$2
+rinvii	@-*inv'i:j
 riordin	@-*i'o@-*din
 riottenere	$4
 ripaghino	$2
@@ -2788,6 +2857,7 @@ riparano	$2
 ripartano	$2
 ripensano	$2
 ripetano	$2
+riposino	$2 $verb
 riprendano	$2
 ripudiano	$2
 ripugnano	$2
@@ -2813,7 +2883,10 @@ risuscitano	$2
 ritardano	$2
 ritenere	$3
 ritirano	$2
+ritornino	$2
+riuscii	@-*IuS'i:j
 rivedere	$3
+rivelino	$2
 rivendicano	$2
 riversi	$2
 rotolano	$1
@@ -2833,11 +2906,14 @@ sappiano	$1
 saturano	$1
 saziano	$1
 sbagliano	$1
+sbaglino	$1
 sbarbano	$1
 sbarrano	$1
+sbircino	$1
 sbottono	$2
 sbraitano	$1
 sbriciolano	$1
+sbrighino	$1
 sbrodol	$1
 sbucano	$1
 sbullono	$2
@@ -2885,6 +2961,7 @@ scricchiol	$1
 scricchiolano	$1
 scusano	$1
 scusiamo	skuzi'amo
+scusino	$1
 sdegnano	$1
 sdraiano	$1
 seccano	$1
@@ -2901,50 +2978,71 @@ sequestrano	$2
 servino	$1
 sfamano	$1
 sferrano	$1
+sferrino	$1
 sfiammano	$1
+sfiatino	$1
 sfigurano	$2
 sfilano	$1
 sfiorano	$2
 sfiorino	$2
+sfoghino	$1
 sfondino	$1
 sforbiciano	$1
 sforzino	$1
 sfreddano	$1
 sfregia	$1
+sfregino	$1
 sfruttino	$1
 sfumano	$1
+sfumino	$1
+sgarrino	$1
 sghignano	$1
+sgolino	$1
+sgombrino	$1
 sgomin	$1
 sgomitol	$2
 sgonfiano	$1
+sgonfino	$1
 sgraffignano	$2
+sgrassino	$1
 sgretol	$1
 siano	s'i:ano
 sigillano	$2
 siglano	$1
+siglino	s'iglino
 simboleggiano	$3
 simulano	$1
+simulino	$1
+sintonizzino	$3
 sistemano	$2
+sistemino	$2
 situano	$1
 sloggiano	$1
 smascher	$1
 sniffano	$1
+socializzino	$3
 soddisfano	$2
+soddisfino	$2
 soffiano	$1
 soffocano	$1
 soffrano	$1
 sogghignano	$2
 soggiacere	$3
-sollecitano	$2
+solchino	$1
 sollecit	$2
+sollecitano	$2
+sollecitino	$2
 solleticano	$2
 somigliano	$2
 somministrano	$3
+soprannomino	$3
 soprassedere	$4
 soprassegnano	$3
+sorpassino	$2
 sorrid	$2
 sorteggino	$2
 sorvegliano	$2
+sospettino	$2
 sostenere	$3
 sottolineano	$3
 sottoposte	$3
@@ -2954,24 +3052,33 @@ sottovalutano	$3
 spaccano	$1
 spalmano	$1
 sparano	$1
+sparecchino	$2
+sparino	$1
 sparlano	$1
 sparlino	$1
+spassino	$1
 speculano	$1
 spegnerl	$1
 spellano	$1
 sperano	$1
+sperimentino	$3
 sperono	$2
 sperperano	$1
 spettin	$1
 spettinano	$1
+spezzino	$1
 spezzono	$2
 spiace	spI'a:tSe
 spiacere	$2
 spiano	sp'i:ano
+spiccino	$1
 spiccono	$2
+spieghino	$1
 spifferano	$1
+spifferino	$1 $verb
 spintono	$2
 spogliano	$1
+spoglino	$1
 spolmono	$2
 spolver	$1
 spolverano	$1
@@ -2993,12 +3100,14 @@ stiano	st'i:ano
 stimano	$1
 stimol	$1
 stimolano	$1
+stimolino	$1
 stipendiano	$2
 stipulano	$1
 stirano	$1
 strangolano	$1
 strappano	$1
 straripano	$2
+straripino	$2
 strattono	$2
 stravedere	$3
 stravere	$2
@@ -3007,6 +3116,7 @@ strillano	$1
 stritol	$1
 strutturano	$2
 studiano	$1
+studino	$1
 stufano	$1
 stuzzicano	$1
 subentrano	$2
@@ -3016,9 +3126,11 @@ sudano	$1
 suggestiono	$4
 suicid	$3
 suonano	sw'Onano
+suonino	$1
 super	$1
 superano	$1
 surriscaldano	$3
+surriscaldino	$3
 suscit	$1
 suscita	$1
 suscitano	$1
@@ -3027,8 +3139,12 @@ svaghino	$1
 svaligia	$2
 svalutano	$1
 svegliano	$1
+sveglino	$1
 sventolano	$1
+svergino	$1
+svignino	$1
 sviluppano	$2
+sviluppino	$2
 sviscer	$1
 tacere	$2
 tagliano	$1
@@ -3037,12 +3153,14 @@ tambureggiano	$3
 tampono	$2
 tappano	$1
 tardano	$1
+tardino	$1
 tariffano	$2
 tatuano	$1
 telefonano	$2
 teleregol	$3
 temere	$2	$alt2
 temperano	$1
+tempestino	$2
 temporeggiano	$3
 tendano	$1
 tenere	$2	$alt2
@@ -3055,6 +3173,7 @@ testimoniano	$3
 tifano	$1
 timbrano	$1
 tirano	$1
+tirino	$1
 titolano	$1
 tollerano	$1
 torturano	$2
@@ -3090,6 +3209,7 @@ tumol	$1
 turbano	$1
 turbino	$1
 ubriacano	$3
+ubriachino	$3
 uccid	$2
 uguagliano	$2
 ultimano	$1
@@ -3098,6 +3218,8 @@ umiliano	$2
 urlano	$1
 urtano	$1
 usano	$1
+usino	$1
+uscii	uS'i:j
 ustiono	$3 $alt
 usurpano	$2
 vacillano	$2
@@ -3107,6 +3229,7 @@ valicano	$1
 validano	$1
 valuta	$1
 valutano	$1
+valutino	$1
 vaneggiano	$2
 vantano	$1
 varano	$1
@@ -3117,7 +3240,9 @@ vegetano	$1
 vegliano	$1
 vendemmiano	$2
 vendicano	$1
+vendichino	$1
 vergogniano	$2
+vergognino	$2
 versano	$1
 viaggiano	$1
 vibrano	$1
@@ -3128,6 +3253,7 @@ violi	v'iOlI
 visitano	$1
 visualizza	vizUal'i|dz:a
 viziano	$1
+vizino	$1
 vogliano	$1
 volano	$1
 vomitano	$1
@@ -3170,6 +3296,7 @@ batterlo	$1
 cancellami	$2
 carical	$1
 cercasi	$1
+copial	$1 $alt
 dedical	$1
 digitalo	$1
 distrugerne	$2
