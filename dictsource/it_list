@@ -14,7 +14,7 @@ b	bi
 c	tSi
 d	d['i:
 _e	e:
-f	effe
+f	'Effe
 g	dZi
 h	ak:a
 _i	i:
@@ -82,7 +82,7 @@ _??	s'imbolo
 _?A	l'et:e:Ra
 _braille	b@-*'aIll
 
-₤       liRa
+₤	l'i:Ra
 £       sterl'ina
 ₠	'e:uRo
 €	'e:uRo
@@ -94,9 +94,9 @@ _braille	b@-*'aIll
 _.	punto	$max3
 =	ugwale	$max3
 +	pju	$max3
-/	slaS	$max3
-\	bakslaS	$max3
-&	_^_EN
+/	b'aR*a	$max3
+\	kont@-*ob'a:R*a	$max3
+&	'a/nd
 ©       k'opI||raIt
 #	kantSellet:o
 @	ki'otS:ola
@@ -106,19 +106,19 @@ _:	d,uep'unti
 _!	p,untoesklamat'ivo
 _"	viRgolet:e
 _'	ap'OstRofo
-_(	ap,e@-*ta||paR'entezi
+_(	ap,E@-*ta||paR'entezi
 _)	kj,uza||paR'entezi
 _,	v'iRgola
 _-	t@-*at:ino
 _;	p,untoev'iRgola
-_<	ap,eRta'angolo
-_>	kj,uza'angolo
+_<	min'oRe||d'I
+_>	madZ:'oRe||d'I
 _?	p,untointeRogat'ivo
-_[	ap'eRtakw2'ad@-*a
+_[	ap'ERtakw2'ad@-*a
 _]	kj,uzakw2'ad@-*a
 _^	kap:utS:o
 __	sot:oline'ato
-_`	bakp@-*aIm
+_`	atS:'ento||g@-*'ave
 _{	ap,eRtag@-*'af:a
 _}	kj,uzag@-*'af:a
 ¡	p'unto||esklamat'ivo||@-*ovES'ato
@@ -178,7 +178,7 @@ _‥	p,unto||d'op:io
 ↑	f@-*,etS:a||_s'u
 →	f@-*'etS:a||d'est@-*a
 ↓	f@-*,etS:a||_dZ'u
-♭	bem'ol:e
+♭	bem'Ol:e
 ♯	dI'ezis
 
 // phonetic modifiers
@@ -347,7 +347,7 @@ ocr	o||tSi||'ER*e	$only
 ok	ok'eI
 olp	o||el:e||p'i
 omg	o||em:e||dZ'i
-prof	$dot
+prof	$hasdot $dot
 rai	@-*'aj
 rna	$abbrev
 sos	$abbrev	$allcaps
@@ -444,7 +444,7 @@ cui	k'uj
 durante	$brk       // during
 e		$u+ $brk
 eccetto    $pause
-ed		$u+ $brk
+ed		$u+ $brk $only
 ma	$u+ $brk
 mai	$u+
 mentre	$u+
@@ -587,7 +587,7 @@ avremo	$u2+
 avrete	$u+
 avranno	$u+
 
-abbia	$u+
+abbia	$verbf
 abbiamo	$u+	$verbf
 abbiate	$u+
 abbiano	$1	$verbf
@@ -745,6 +745,7 @@ free		_^_EN
 freedom	f@-*'i:dOm
 freelance	f@-*'i:l,Ens
 freezer	f@-*'idzE@-*
+fuji	fu:ZI
 gangster	$1
 garage	gaR'aZ
 geyser	g'aIzE@-*
@@ -790,6 +791,7 @@ live	l'aIv
 lord	$alt $only
 lover	$1
 macintosh	_^_EN
+madame	_^_FR
 made	m'eId
 mail	m'eil
 mailer	m'Eile@-*
@@ -861,6 +863,7 @@ schopenhauer	_^_EN
 scooter	sk'utE@-*
 scuter	$1
 scorpion	$1	$onlys
+scotch	sk'OtS
 screen	sk@-*'i:n
 seller	$1 $onlys
 server	$1	$onlys
@@ -1467,7 +1470,7 @@ albuzzano	$3
 alessano	$3
 andorrano	$3
 angeles	$1
-anglicano	aNglik'ano
+anglican	aNglik'an
 aostano	aost'ano
 arbatax	'a:@-*bat,aks
 arizzano	aRidz:'ano
@@ -1476,6 +1479,7 @@ asia	'a:zja/
 atene	$2
 avezzano	$3
 azerbaijan	a@-*dz,eb,ajdZ'an
+azzano	$2
 barbagia	ba/@-*b'adZa/
 barisciano	$3
 barlettano	$3
@@ -1497,6 +1501,7 @@ broadway	b@-*'O:dweI
 brooklyn	b@-*'u:klin
 brusciano	$2
 bruxelles	b@-*uks'El:
+bruzzano	$2
 bucciano	$2
 bulgare	$1
 cagliari	$1
@@ -1512,8 +1517,9 @@ caracas	$2
 carbognano	$3
 carezzano	$3	$capital
 casamarciano	$4
-castelmezzano	$4
+castelmezzano	kast,el||medz:'ano
 castelpagano	$4
+cazzano	$2
 champs	S'amps
 chicago	tSikago
 cicciano	$2
@@ -1571,6 +1577,7 @@ godrano	$2
 gozzano	$2
 gramsciano	$2
 grassano	$2
+grazzano	$2
 guasila	$2
 guinea	gwin'ea
 hamas	$2
@@ -1662,6 +1669,7 @@ ostano	$2
 ottano	$2
 ottavino	$3
 ottoman	ot:,Om'an
+ozzano	$2
 pachistano	$3
 paciano	$2
 padova	$1
@@ -1675,7 +1683,7 @@ pavia	pav'ia
 pazzano	$2
 pedemontano	$4
 pellezzano	$3
-pellizzano	$3
+pellizzano	pel:its:'ano
 pentano	$2 $capital
 perugia	$2
 perugin	$3
@@ -1694,6 +1702,7 @@ regano	$2
 resuttano	$3
 ricciano	$2
 rimini	$1
+rivanazzano	$4
 rofrano	$2
 rognano	$2
 rosciano	$2
@@ -1716,6 +1725,7 @@ seattle	_^_en
 sedilo	$1
 segonzano	$3
 seychelles	seIS'El
+selvazzano	$3
 siberia	s,ib'E:Ri;a
 sidney	$1
 simpliciano	$3
@@ -1728,6 +1738,7 @@ sormano	$2
 sossano	$2
 sovrano	$2
 spazioplano	$4
+spezzano	$2 $capital
 spongano	$2
 stazzano	$2
 stezzano	$2
@@ -1735,12 +1746,15 @@ submontano	$3
 survoltano	$3
 swahili	swah'ilI
 taliban	$3
-teheran	t,iIR'an
+tavazzano	$3
+teheran	t,I_iR'a:n
 ternano	$2
 tessennano	$3
+tizzano	tits:'a:no
 tolosano	$3
 toscano	$2
 trevano	$2
+trezzano	$2
 tristano	$2
 trontano	$2
 truccazzano	$3
@@ -1776,7 +1790,7 @@ zigano	ts-ig'a/no
 
 agatha	$1
 aida	a'i:da
-albert	,a/lb'E@-*t
+albert	$1 $only // ,a/lb'E@-*t
 alejandro	_^_ES
 alessia	$2 $capital
 alexander	$3
@@ -1832,6 +1846,7 @@ gibson	g'Ibson
 giordano	$2
 giorgia	$1
 girolamo	$2
+gorbaciov	$1
 gray	g@-*'eI
 harry	hE:R*I
 iacopo	i'akopo
@@ -3296,6 +3311,9 @@ batterlo	$1
 cancellami	$2
 carical	$1
 cercasi	$1
+comunical	$2
+contattaci	$2
+contattami	$2
 copial	$1 $alt
 dedical	$1
 digitalo	$1
@@ -3351,6 +3369,7 @@ spiegati	$1
 stabilitosi	$3
 svuotalo	$2 $alt2
 usal	'u:za/l
+vendesi	$1 $alt
 verificatasi	$4
 verificatisi	$4
 
