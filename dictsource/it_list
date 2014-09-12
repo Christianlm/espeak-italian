@@ -1350,6 +1350,7 @@ rossonere	$3 $alt2
 rotol	$1
 rozz	@-*'O|dz:
 rubriche	$2
+ruderi	$1
 ruggini	$1
 rullio	$2
 sacrestano	$3
@@ -2042,6 +2043,7 @@ alloggiano	$2
 alloggino	$2
 allontanino	$3
 allontano	al:ont'ano
+alter	$1
 alzano	$1
 alzino	$1
 amano	$1
@@ -2086,10 +2088,12 @@ aspirano	$2
 assaggiano	$2
 assediano	$2
 assegnano	$2
+assemblano	$2
 asserragliano	$3
 assicurano	$3
 assimila	$2
 assimilano	$2
+assomigliano	$3
 assommino	$2
 assumano	$2
 attaccano	$2
@@ -2433,7 +2437,8 @@ imitano	$1
 immagin	$2
 immigrano	$2
 imparano	$2
-impegnano	$2
+imparino	$2
+impegnano	$2 $alt
 impegnino	$2
 impersono	$3
 imperterrit	$3
@@ -3242,7 +3247,7 @@ vadano	$1
 valere	$2 $alt2
 valicano	$1
 validano	$1
-valuta	$1
+valut	$1
 valutano	$1
 valutino	$1
 vaneggiano	$2
