@@ -272,7 +272,7 @@ _zh	tSIn'ezE
 
 
 // numbers
-_0	dz'eRo	$u+
+_0	dz'E*o
 _1	'uno
 _2	d'ue
 _3	t@-*'e
@@ -317,7 +317,7 @@ _0M3	mili'aRdi
 _1M3	unmili'aRdo
 _0M4    bili'oni
 _1M4	unbili'one
-_dpt    p'unto
+_dpt	v'i@-*gola
 // _0Z2	tSent'ezimi     // 100ths
 _0Z3	mill'ezimi      // 1000ths
 _roman	@-*Om'ano
@@ -330,6 +330,7 @@ ascii	'askIi
 atp	a||ti||p'i
 avg	$abbrev
 cia	tS'ia
+co	$abbrev $allcaps
 cpu	$abbrev
 dj	di||dZ'eI
 dna	$abbrev
@@ -713,6 +714,7 @@ design	d,ez'aIn
 disney	$1
 disneyland	$1
 display	displ'ei
+device	dIv'aIs
 doppler	$1
 download	d'a/:w2nl,o:d
 drive	_^_EN
@@ -788,8 +790,11 @@ laser	$1
 leader	lidE@-*
 line	l'aIn	$only
 live	l'aIv
+login	l'Og||In
+logging	l'Oging
 lord	$alt $only
 lover	$1
+my	_^_EN
 macintosh	_^_EN
 madame	_^_FR
 made	m'eId
@@ -878,6 +883,7 @@ sitar	$1	$only
 sitter	$1	$onlys
 skipper	$1
 skype	sk'a/:ip
+smartphone	zm'a@-*tfon
 smile	zmaIl
 smiley	_^_EN
 snack		_^_EN
@@ -1912,7 +1918,8 @@ sandoval	$3
 savino	$2
 scalfaro	$1
 schumacher	_^_DE
-sean	_^_EN $only
+schwarznegger	Sv,arzn'Eger
+sean	_^_EN $only $capital
 shakespeare	_^_EN
 simon	s'aImon	$onlys
 socrate	$1
@@ -2726,6 +2733,7 @@ pranzano	$1
 praticano	$1
 preannunziano	$3
 precipita	$2
+precipitano	$2
 precisano	$2
 precisino	$2
 predicano	$1
