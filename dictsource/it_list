@@ -1080,7 +1080,7 @@ deleghe	$1
 demoni	$1
 dentifrici	$3
 deroghe	$1
-desideri	d,ezid'E:RI	$noun
+desideri	d,ezid'E:RI	$noun	$only
 desossicortisol	$6
 detraibil	det@-*a'ibil
 diamin	di'amin
@@ -1166,6 +1166,7 @@ grandin	$1
 grigia	$1
 grumoli	$1
 guaiscono	gua'iskono
+hinterland	$1
 icono	$2
 idiozia	$4
 idiozie	idiots'i#e
@@ -1182,6 +1183,7 @@ ingordigia	$3
 intercapedini	$4
 intere	$2	$alt2
 interfon	$3
+interland	$1 $only
 interspecifici	$4
 intraspecifici	$4
 introversi	$3
@@ -1464,6 +1466,7 @@ ciao	tS'ao:_
 (ciao a)	tS'ao||_|,a_|
 (un turbine)	un||_t'u@-*bine
 (gli auguri)	l^I||aug'u:RI
+(pro	capite)	p@-*ok'a:pIte
 
 //  countries, locations and languages
 
@@ -2005,6 +2008,7 @@ adagia	$2
 adagiano	$2
 adattino	$2
 addensano	$2
+addentrano	$2	$alt
 addestrano	$2
 addic	$2
 addossino	$2

@@ -478,12 +478,11 @@
 
 .group s
 		s	s
-	_)	s	s
 	A)	s (A	z
 		s (L03	z
 	l)      s       s
-	p)      s       s
-	k)	s	s
+	p) s	s
+	k) s	s
 		s (c	s
 		s (f	s
 		s (k	s
@@ -499,13 +498,14 @@
 		sci (ì	S%i
 		sch (Y	sk
 		sh (K	S    // foreign words
-	K)	sh	S    // foreign words
+	K) sh	S
 	A) sh (A	S
 	@A)	sia (_	z'ia
 	@A) sie (_	z'ie
 	@C) sia (_	s'ia
 	@C) sie (_	s'ie
 	@)	s (_S1	s
+	_) s' (P2t	s
      _) sull' (P5t     sull
 	_) sant' (P5t	sant
 	_sotto) s (A	_||s
