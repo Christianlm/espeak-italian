@@ -50,7 +50,7 @@ addebit $2  $alt2
 addi $2
 addom	$2 $alt
 adeline  $alt2
-adempiere $2
+adempiere	ad'e:mpjeRe
 adenoipofisi $5
 adenomer $3
 aderbale $2
@@ -187,7 +187,7 @@ anarchie	ana@-*k'ie
 anastasia $3
 anatem  $alt
 anatroccol  $alt
-ancor  $alt2
+ancora	$alt2
 andine	$2
 andreis $2
 androgin $2
@@ -1071,6 +1071,7 @@ contropiede  $alt
 controsoggett  $alt
 controversia $3
 controversie	$3
+controversi	$3
 convogli  $alt
 copepodi  $alt
 copet  $alt
@@ -1394,7 +1395,7 @@ elettric  $alt
 elettrod  $alt
 elettrodott  $alt2
 elettroforesi  $alt
-elettrolisi $3
+elettrolisi elet:@-*'OlizI
 elettromagnete  $alt
 elettronvolt $4
 elettrotecnic  $alt
@@ -3803,7 +3804,7 @@ sudicie	$1
 sudovest  $alt
 suffett  $alt
 sugher $1
-suocer $1
+suocer sU'O:tSeR
 superior  $alt2
 superstite $2
 suppost  $alt2
@@ -4136,7 +4137,6 @@ varenn  $alt2
 vate $2
 vazzol $2
 vecchia  $alt
-vedere $2  $alt2
 vedov $1
 vegli  $alt
 veicol	vE'ikol
@@ -4185,6 +4185,7 @@ vesp  $alt
 vespasian $3
 vespr  $alt
 vestenanov  $alt
+vestigia	$2
 veszprem $2  $alt2
 vet  $alt
 vetr  $alt2
