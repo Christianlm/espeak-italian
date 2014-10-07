@@ -545,6 +545,7 @@ bibliotec  $alt
 bienni  $alt
 bientin $1  $alt
 biet  $alt
+bietol	$1 $alt
 bifor $1
 bigia $1
 bigne $2  $alt
@@ -1176,6 +1177,7 @@ curazia $3
 curcum $1
 cuscut $1
 custode  $alt
+custodi	$2 $alt
 custodia  $alt
 dafni $2
 dagherrotip $3
@@ -1952,7 +1954,6 @@ imeni  $alt
 imenofor $3
 imenotteri  $alt
 imol $1
-impari $1
 imperfett  $alt
 impet $1
 impieg  $alt
@@ -1961,7 +1962,7 @@ incendi  $alt
 incentr  $alt
 incivil	intSiv'il
 incognit $2  $alt
-incolume $2
+incolum	$2
 incomplet  $alt
 inconsci  $alt
 inconsuet  $alt
@@ -2009,6 +2010,7 @@ intemperie	$3
 interim $1
 interior  $alt2
 intermedi  $alt
+internod	$3
 interossea	$3
 interossee	$3
 interosseo	$3
@@ -2023,9 +2025,9 @@ introdott  $alt2
 inver  $alt2
 invi $2
 involucr $2  $alt
+iodi	j'Odi $only
 iolao $3
-ione  $alt
-ioni  $alt
+ion	j'on
 iperborea	$3
 iperboree	$3
 iperboreo	$3
@@ -2184,6 +2186,7 @@ lipsia $1
 liquigas $3
 liston $2
 litania $3
+litigi	$2
 lob  $alt
 lod  $alt
 lode	$alt
@@ -3004,7 +3007,7 @@ planargia $2
 planimetr $2
 plantagenet  $alt
 plasmodesm  $alt
-plasmodi  $alt
+plasmodi	$2 $alt
 platan $1
 platani $1
 platania $3
@@ -3032,7 +3035,6 @@ poe  $alt
 poem  $alt
 poet  $alt
 poggi  $alt
-poh  $alt
 pol  $alt
 polarimetr $3
 polc  $alt
@@ -3066,7 +3068,6 @@ poll  $alt2
 poll  $alt2
 polli  $alt
 pollic  $alt
-pollice  $alt
 pollin $1  $alt
 polline	$1 $alt
 poltroncine	$3
@@ -3083,7 +3084,6 @@ pop  $alt
 pope  $alt
 popliteo	$2
 popp  $alt2
-poppi  $alt2
 porcil	$2
 poros  $alt2
 porpor $1  $alt2
@@ -3185,6 +3185,7 @@ prosindaco	p@-*,o||s'indako
 prosodia $3
 prosodie	p@-*ozod'i:e
 prospett  $alt
+prosper	$1
 prostaferesi $3
 prostat $1
 prot  $alt
@@ -3342,6 +3343,7 @@ ripost  $alt2
 ripristin $2
 riprov  $alt
 risan $1
+risemin	@-*is'emin
 risolt  $alt
 risors  $alt2
 risort  $alt2

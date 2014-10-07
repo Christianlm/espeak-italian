@@ -175,9 +175,9 @@ _‥	p,unto||d'op:io
 ˙	p'unto
 №	n'u:mERo
 ←	f@-*'etS:a||sin'ist@-*a
-↑	f@-*,etS:a||_s'u
+↑	f@-*'etS:a||_s'u
 →	f@-*'etS:a||d'est@-*a
-↓	f@-*,etS:a||_dZ'u
+↓	f@-*'etS:a||_dZ'u
 ♭	bem'Ol:e
 ♯	dI'ezis
 
@@ -1472,13 +1472,15 @@ ciao	tS'ao:_
 (un turbine)	un||_t'u@-*bine
 (gli auguri)	l^I||aug'u:RI
 (pro	capite)	p@-*ok'a:pIte
+(droghe leggere)	d@-*'O:ge||ledZ:'ERe
 
 //  countries, locations and languages
 
 abbiatesi	$3 $alt
 acciano	$2
 adige	'adidZe
-afgano	afg'ano
+afgano	af_g'a:no
+afghanistan	$2
 agazzano	$3
 agostano	$3
 albuzzano	$3
@@ -1688,6 +1690,7 @@ ottano	$2
 ottavino	$3
 ottoman	ot:,Om'an
 ozzano	$2
+pakistan	$1
 pachistano	$3
 paciano	$2
 padova	$1
@@ -1763,11 +1766,13 @@ stezzano	$2
 submontano	$3
 survoltano	$3
 swahili	swah'ilI
+tagikistan	$2
 taliban	$3
 tavazzano	$3
 teheran	t,I_iR'a:n
 ternano	$2
 tessennano	$3
+tiscali	$1
 tizzano	tits:'a:no
 tolosano	$3
 toscano	$2
@@ -1822,9 +1827,11 @@ annamaria	$4
 antony	'E:ntonI
 armida	$2
 asdrubale	$2
+asimov	'azim,ov
 baudelaire	bOdl'E@-*
 beatles	bItols
 bergomi	$1
+brandon	b@-*'Endon
 brian	b@-*'aian
 caino	ka'i:nO
 camilleri	$3
@@ -1838,6 +1845,7 @@ charlotte	Sa@-*l'Ot
 chevalier	_^_FR
 chopin	Sop'EN
 christie	k@-*'istI
+christofer	$1
 christopher	$1
 danilo	$2
 debor $1  $alt
@@ -1869,8 +1877,10 @@ gray	g@-*'eI
 harry	hE:R*I
 iacopo	i'akopo
 igor	$1
+ingrassia	$3
 ipocrit	$2 $alt
 ippocrate	$2
+isaac	'aIza:k
 ivano	$2
 jack	_^_EN
 jackson	_^_EN
@@ -1884,6 +1894,7 @@ josé	_^_ES
 juan	_^_ES
 jurij	juRI 
 juri	j'uRI
+kate	k'eIt[
 katia	k'a:tia
 kennedy	$1 $alt
 louise	lu'iz
@@ -1905,6 +1916,7 @@ michael	m'aIkOl
 michelangel	$3
 mike	_^_EN
 monroe	m'On||r,ow
+morrissette	m,OR*iz'Et[
 mozilla	m,o|dz'il:a
 murgia	$1
 nancy	n'E:nsI
@@ -2074,6 +2086,7 @@ amputano	$2
 ancorano	$1
 animano	$1
 annebbiano	$2
+annod	$2
 annoiano	$2
 annotano	$2
 annullano	$2
@@ -2326,6 +2339,7 @@ dispregia	$2	$alt
 dissemin	$2
 dissetano	$2
 dissipano	$2
+dissod	$2
 distaccano	$2
 distillano	$2
 distinguano	$2
@@ -2382,6 +2396,7 @@ esiliano	$2
 esitano	$1
 espatriano	$2
 esplicitano	$2
+esplod	$2
 esplorano	$2
 esprimano	$2
 espugnano	$2
@@ -2487,6 +2502,7 @@ incastrano	$2
 incazzino	$2
 incendiano	$2
 incendino	$2
+inchiod	inkj'Od
 incid	$2
 incit	$1
 incitano	$1
@@ -2748,7 +2764,7 @@ possiedano	$2
 posticipano	$2
 postulano	$2
 potano	$1
-pranzano	$1
+pranzano	p@-*'andzano
 praticano	$1
 preannunziano	$3
 precipita	$2
@@ -2773,11 +2789,11 @@ prevedano	$2
 prevedere	$3
 previd	$2
 previdero	$2
-
 privilegia	$3
 privilegiano	$3
 proclamano	$2
 procurano	$2
+prodigano	$1
 producano	$2
 profilano	$2
 propinino	$2
@@ -2813,6 +2829,7 @@ rapportino	$2
 rappresentino	$3
 rassegnano	$2
 rassicurano	$3
+rassod	$2
 rassodano	$2
 rassomigliano	$3
 rateizz	@-*ate'idz:
@@ -2988,6 +3005,7 @@ scegliere $1
 scherzano	$1
 schiantano	$1
 schierano	$1
+schiod	sk'jOd
 schiodano	$2
 schizzano	sk'its:ano
 sciacquano	$1
@@ -3130,9 +3148,9 @@ spieghino	$1
 spifferano	$1
 spifferino	$1 $verb
 spintono	$2
-spogliano	$1
-spoglino	$1
-spolmono	$2
+spogliano	$1 $alt
+spoglino	$1 $alt
+spolmono	$2 $alt2
 spolver	$1
 spolverano	$1
 spopolano	$1
@@ -3323,6 +3341,7 @@ zuccherano	$1
 (che capita)	ke||k'a:pita
 (dove capita)	dove||k'apita
 (volte capita)	v,Olte||k'a:p,ita
+(quando capita)	kw'ando||k'apita
 (capitano tutte)	k'apitano||t'ut:e
 (che capitano)	ke||k'apitano
 (quando capitano)	kwando||k'a:pitano
@@ -3390,6 +3409,8 @@ provaci	$1
 proval	$1
 pulisciti	$2
 raccontaci	$2
+regalaci	$2
+regalavi	$3
 restatene	$1
 riceverne	$2
 ricordati	$2
@@ -3409,6 +3430,9 @@ spezzal	$1
 spiegaci	$2
 spiegatel	$3
 spiegati	$1
+spogliami	$1 $alt
+spoglial	$1 $alt
+spogliati	$1 $alt
 stabilitosi	$3
 svuotalo	$2 $alt2
 usal	'u:za/l
