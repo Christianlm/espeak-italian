@@ -633,13 +633,7 @@ u	u: $atend
 è	E: $atend
 
 // foreign words
-rock'n'roll	@-*,Oken@-*'o:l
-(call center)	k'ol||s'entE@-*
-(e speak)		isp'ik:
-(i phone)		'aI||fon
-(pace maker)	_^_EN
-(week end)	w,ik_'end
-(you tube)	ju:||tj'u:b
+
 abajour	abaZ'u@-*
 account	ak:'aw2nt
 after	$1
@@ -647,6 +641,7 @@ apple	_^_EN
 application	_^_EN
 authority	$3	$alt2
 avances	av'ans
+amway	_^_EN
 baby	b'EbI
 backup	bek'ap
 bancomat	$1
@@ -711,7 +706,7 @@ default	_^_EN
 desktop	d'Eskt,op
 detector	$2
 designer	d,ez'aIne@-*
-design	d,ez'aIn
+design	d,ez'aIn	$only
 disney	$1
 disneyland	$1
 display	displ'ei
@@ -942,6 +937,7 @@ wafer	v'afe@-*
 wall	_^_EN
 walzer	v'altsE@-*
 water	v'atE@-*
+way	_^_EN
 wave		_^_EN
 web		wEb
 webmaster	$2
@@ -955,6 +951,14 @@ yoghourt	'jogurt
 zoom	dz'u:m
 zoster	$1
 
+rock'n'roll	@-*,Oken@-*'o:l
+(call center)	k'ol||s'entE@-*
+(e speak)		isp'ik:
+(i phone)		'aI||fon
+(pace maker)	_^_EN
+(week end)	w,ik_'end
+(you tube)	ju:||tj'u:b
+
 // Main  Dictionary
 
 acciain	atS:a'in
@@ -966,6 +970,7 @@ adultere	$2
 aerea	a'E:Rea
 aerei	a'E:REi
 aereo	a'E:REo
+aereoplan	aeReopl'an
 aeroplano	aERopl'ano
 agenzie	adZents'ie
 alcoolici	alk'o:litSI
@@ -1324,7 +1329,7 @@ profug	$1
 profughi	$1
 prolifici	$2
 prossime	$1
-proteine	p@-*ote'ine
+protein	p@-*ote'in
 provino	$2
 pseudoscientifici	$5
 psichiatrici	$2
@@ -1622,6 +1627,7 @@ larciano	$2
 laterano	$3
 leverano	$3
 libano	$1
+liberia	$2
 lizzano	lits:'ano
 longano	$2
 lungadige	$2
@@ -1767,6 +1773,7 @@ submontano	$3
 survoltano	$3
 swahili	swah'ilI
 tagikistan	$2
+taiwan	t'aj_w,an
 taliban	$3
 tavazzano	$3
 teheran	t,I_iR'a:n
@@ -1897,6 +1904,7 @@ juri	j'uRI
 kate	k'eIt[
 katia	k'a:tia
 kennedy	$1 $alt
+lennon	_^_EN
 louise	lu'iz
 lewis	l'uIs
 lionel	l'aj,One@-*	$onlys
@@ -1970,6 +1978,8 @@ wilde	w'aIld
 wojtyla	vojt'ila
 woody	v'udI
 zaccaria	$3
+
+(che guevara)	tS'E_||gev'a*a
 
 // Unit of measure
 
@@ -2301,6 +2311,7 @@ derogano	$1
 desider	$2
 desiderino	$2
 designano	$2
+destrutturano	$3
 detenere	$3
 deteriorano	$4
 determina	$2
@@ -3023,6 +3034,7 @@ scomodano	$1
 scompagnano	$2
 scompaiano	$2
 scompiacere	$3
+sconsigliano	$2
 scontrano	$1
 scopano	$1
 scoppiano	$1
