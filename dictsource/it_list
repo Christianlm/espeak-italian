@@ -746,6 +746,7 @@ freezer	f@-*'idzE@-*
 fuji	fu:ZI
 gangster	$1
 garage	gaR'aZ
+general	$1 $onlys
 geyser	g'aIzE@-*
 ginger	$1
 gmail	dZI||m'eil
@@ -811,6 +812,7 @@ mister	$1	$onlys
 mixer	$1
 monitor	$1 $onlys
 monsieur	_^_FR
+motor	$1 $alt $onlys
 mouse	maus
 new	_^_EN
 newsletter	njuzl:'et:e@-*
@@ -886,6 +888,7 @@ smiley	_^_EN
 snack		_^_EN
 software	s'Oft[_we@-*
 sonar	$1	$only
+streaming	_^_EN
 street	_^_EN
 souvenir	suvEn'i@-*
 spanish		_^_EN
@@ -1854,6 +1857,7 @@ chopin	Sop'EN
 christie	k@-*'istI
 christofer	$1
 christopher	$1
+chrysler	_^_EN
 danilo	$2
 debor $1  $alt
 deborah	$1 $alt2
@@ -1913,6 +1917,7 @@ luciano	$2
 ludovic	$3
 luigi	lu'i:dZI
 luigia	lU'i:dZa
+manolo	ma/n'olo
 manzon	m,andz'On
 margaret	$1 $only
 maria	m,a/R'i:a
@@ -1966,6 +1971,7 @@ stefano	$1
 steven	st'iven	$onlys
 tamara	$2
 taylor	t'EIlo@-*
+tiffany	$1
 tyson	t'aIzon
 wagner	v'agnE@-*
 vainer	v'aIne@-*	$only
@@ -2408,6 +2414,7 @@ esitano	$1
 espatriano	$2
 esplicitano	$2
 esplod	$2
+esplodano	$2
 esplorano	$2
 esprimano	$2
 espugnano	$2
@@ -2418,6 +2425,8 @@ evaporano	$2
 evidenziano	$3
 evit	$1
 evitano	$1
+evoc	$1
+evochi	$1
 fantasticano	$2
 faticano	$2
 fatturano	$2
@@ -3103,6 +3112,7 @@ situano	$1
 sloggiano	$1
 smascher	$1
 sniffano	$1
+snodano	$1
 socializzino	$3
 soddisfano	$2
 soddisfino	$2
