@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 october 22 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 nov 5 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -293,13 +293,13 @@ _17     ditSas:'Et:e
 _18     ditS'Ot:o
 _19     ditSann'ove
 _2X	v'entI
-_21     v'ent'uno
+_21     vent'uno
 _23	ventit@-*'e
 _24	ventikw'at:@-*o
 _25	ventitS'inkwE
 _26	ventis'Ej
 _27	ventis'Et:e
-_28     v'ent'Ot:o
+_28     vent'Ot:o
 _29	ventin'Ove
 _3X     t@-*'enta
 _4X     kua*'a:nta
@@ -321,6 +321,56 @@ _dpt	v'i@-*gola
 // _0Z2	tSent'ezimi     // 100ths
 _0Z3	mill'ezimi      // 1000ths
 _roman	@-*Om'ano
+
+// ordinal numbers
+_#º	'Ezimo    // ordinal suffix
+_#ª	'Ezima
+_x#º	o         // suffix for 1 - 10
+_x#ª	a
+
+_1ox	p@-*im
+_2ox	sekond
+_3ox	tE@-*ts
+_4ox	kw2a:@-*t
+_5ox	kw2int
+_6ox	sEst
+_7ox	s'Et:im
+_8ox	ot:av
+_9ox	non
+_10ox	d'EtSim
+
+_1o	un
+_2o	du
+_3o	t@-*e
+_4o	kw2at:@-*
+_5o	tSinkw2
+_6o	sEj
+_7o	sEt:
+_8o	Ot:
+_9o	nOv
+
+_11o	unditS
+_12o	doditS
+_13o	t@-*editS
+_14o	kwat:o@-*ditS
+_15o	kwinditS
+_16o	seditS
+_17o	ditSas:Et:
+_18o	ditSOt:
+_19o	ditSan:Ov
+
+_20o	vent
+_30o	t@-*'ent
+_40o	kua*'a:nt
+_50o	tSinkw2'ant
+_60o	sess'ant
+_70o	set:'ant
+_80o    ot:'ant
+_90o	nov'ant
+_0Co	tSEnt
+_0M1o	mil
+_1M1o	mil
+
 
 // abbreviations
 
@@ -680,6 +730,7 @@ center	s'entE@-*	$onlys
 Challenger	$1
 champagne	Samp'an^
 champion	tS'Empion
+champignon	SampIn^'on
 chance	S'a:ns
 change	tS'EindZ
 channel	tS'anel
@@ -906,6 +957,7 @@ smiley	_^_EN
 snack		_^_EN
 software	s'Oft[_we@-*
 sonar	$1	$only
+stalking	st'O:lkiN
 streaming	_^_EN
 street	_^_EN
 souvenir	suvEn'i@-*
@@ -1492,6 +1544,7 @@ vuot	vu'O:t
 
 cos'è	koz'E
 l'ancora	l'ankoRa
+senz'altro	sents'a:lt@-*o
 (in balia)	in||bal'i:a
 (principi attivi)	p@-*intS'i:pI||at:'ivI
 ciao	tS'ao:_
@@ -1876,9 +1929,10 @@ brian	b@-*'aian
 caino	ka'i:nO
 camilleri	$3
 carey	_^_en
-carmelo	$2
+carmel	$2
 cassano	$2
 catia	k'a:tia
+celentano	$3
 chaplin	tS'apliN
 charles	tS'a/@-*ls
 charlie	tS'a@-*li
@@ -2048,7 +2102,7 @@ abbagliano	$2
 abbaglino	$2
 abbaiano	$2
 abbandonino	$3
-abbandono	$3
+abbandono	ab:aNd'Ono
 abbindolano	$2
 abbocchino	$2
 abbraccino	$2
@@ -2302,6 +2356,7 @@ consigliano	$2
 consol	$2
 consolano	$2
 consultano	$2
+consumano	$2
 contamin	$2
 contemplano	$2
 contenere	$3 $alt2
@@ -3456,6 +3511,7 @@ giuravi	$2
 guardaci	$1
 guidaci	$1
 impostaci	$2
+informaci	$2
 insegnagli	$2	$alt
 intonaci	$2
 invaghitosi	$3

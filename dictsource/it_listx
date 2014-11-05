@@ -186,6 +186,7 @@ anarchia $3
 anarchie	ana@-*k'ie
 anastasia $3
 anatem  $alt
+anatr	'anat@-*
 anatroccol  $alt
 ancora	$alt2
 andine	$2
@@ -690,6 +691,7 @@ calao $2
 calasett  $alt
 calcarea	$2
 calcaree $2
+calcarei	$2
 calcareo $2
 caldei $2
 calia $2
@@ -1372,6 +1374,8 @@ edip $1
 edit $1
 editoria $4
 edol  $alt
+educ	$1 $alt
+educhi	$1 $alt
 edui  $alt
 efeb  $alt
 efes $1  $alt
@@ -2604,8 +2608,8 @@ nippur $2
 niscemi  $alt
 niteroi  $alt2
 nitroglicerin	nit@-*oglitSeR'in
-nocciol  $alt
-nocciola	$2
+nocciol	$2	$alt
+noccioli	$1 $alt
 nod  $alt
 noe  $alt
 noe $2
