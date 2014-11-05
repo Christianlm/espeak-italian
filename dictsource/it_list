@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 nov 5 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 Nov 5 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -323,10 +323,8 @@ _0Z3	mill'ezimi      // 1000ths
 _roman	@-*Om'ano
 
 // ordinal numbers
-_#º	'Ezimo    // ordinal suffix
-_#ª	'Ezima
-_x#º	o         // suffix for 1 - 10
-_x#ª	a
+_#º	o         // ordinal suffix
+_#ª	a
 
 _1ox	p@-*im
 _2ox	sekond
@@ -337,39 +335,39 @@ _6ox	sEst
 _7ox	s'Et:im
 _8ox	ot:av
 _9ox	non
-_10ox	d'EtSim
 
-_1o	un
-_2o	du
-_3o	t@-*e
-_4o	kw2at:@-*
-_5o	tSinkw2
-_6o	sEj
-_7o	sEt:
-_8o	Ot:
-_9o	nOv
+_1o	un'Ezim
+_2o	du'Ezim
+_3o	t@-*e'Ezim
+_4o	kw2at:@-*'Ezim
+_5o	tSinkw2'Ezim
+_6o	sEj'Ezim
+_7o	sEt:'Ezim
+_8o	Ot:'Ezim
+_9o	nOv'Ezim
+_10o	d'EtSim
 
-_11o	unditS
-_12o	doditS
-_13o	t@-*editS
-_14o	kwat:o@-*ditS
-_15o	kwinditS
-_16o	seditS
-_17o	ditSas:Et:
-_18o	ditSOt:
-_19o	ditSan:Ov
+_11o	unditS'Ezim
+_12o	doditS'Ezim
+_13o	t@-*editS'Ezim
+_14o	kwat:o@-*ditS'Ezim
+_15o	kwinditS'Ezim
+_16o	seditS'Ezim
+_17o	ditSas:Et:'Ezim
+_18o	ditSOt:'Ezim
+_19o	ditSan:Ov'Ezim
 
-_20o	vent
-_30o	t@-*'ent
-_40o	kua*'a:nt
-_50o	tSinkw2'ant
-_60o	sess'ant
-_70o	set:'ant
-_80o    ot:'ant
-_90o	nov'ant
-_0Co	tSEnt
-_0M1o	mil
-_1M1o	mil
+_20o	vent'Ezim
+_30o	t@-*ent'Ezim
+_40o	kua*a:nt'Ezim
+_50o	tSinkw2ant'Ezim
+_60o	sessant'Ezim
+_70o	set:ant'Ezim
+_80o    ot:ant'Ezim
+_90o	novant'Ezim
+_0Co	tSEnt'Ezim
+_0M1o	mil'Ezim
+_1M1o	mil'Ezim
 
 
 // abbreviations

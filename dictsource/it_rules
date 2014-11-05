@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 October 22 by Chris <llajta2012@gmail.com>
+// Last update: 2014 Nov 5 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -149,7 +149,7 @@
 	gg)	e (ri_	E
 	f)	e (rm    e
 	@)	e (rrimo_ 'E
-	@)	e (simA_  'e
+	@) e (simA_	'E
 	h)	e (ss    e
 	m)	e (ss    e
 	_sC)	e (ss    e
