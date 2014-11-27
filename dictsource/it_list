@@ -1419,7 +1419,6 @@ radiofarmaceutici	$6
 radioterapeutici	$6
 ragnatel	$3
 randagia	$2
-razzo	@-*'a|dz:o
 reciproche	$2
 recondit	$2
 reduci	$1
@@ -2034,6 +2033,7 @@ ollie	'Ol:i
 omero	om'E:Ro	$capital
 pascal	$2
 paul	p'O:l	$only
+peggy	p'Eg:I
 peugeot	p,EZ'o
 pierangel	$2
 piernicola	$3
@@ -2654,6 +2654,8 @@ infettino	$2
 infiammano	$2
 infil	$2
 infilano	$2
+infiltrano	$2
+infiltrino	$2
 influenzano	influ'Entsano
 informino	$2
 ingegnano	$2
@@ -3486,6 +3488,7 @@ zuccherano	$1
 
 // pronominal verbs
 
+abbattersi	$2
 aiutaci	$2
 aiutal	aj'utal
 aiutami	$2

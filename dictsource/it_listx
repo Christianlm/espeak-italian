@@ -846,6 +846,7 @@ cefal $1  $alt
 cefalof $2
 celadon $1  $alt2
 celebre $1
+celiachia	$4
 celibe $1
 celine  $alt2
 cellole  $alt2
@@ -2181,6 +2182,7 @@ linfonod $3  $alt
 linguine	$1
 linoleum $2  $alt
 lipari $1
+lipidi	$2
 lipsia $1
 liquigas $3
 liston $2
@@ -2652,7 +2654,7 @@ nuot  $alt
 nuov  $alt
 nuraminis $2
 nuvolone  $alt
-oasi $1  $alt
+oasi	'o:a/zI
 obblig	$1 $alt
 obes  $alt
 obidos  $alt2
@@ -3226,6 +3228,7 @@ quadrifogli  $alt
 quadrigemin	$3
 quadrilater $3
 quadripol $3
+quadruped	$2
 quadrupl $1
 quadrupol $3
 qualcos  $alt
@@ -3264,6 +3267,8 @@ rapsod $2
 rapsodia $3
 rapsodie	@-*apsod'i:e
 rateo $1
+razzo	@-*'a|dz:o
+razzi	@-*'adz:I
 razzia $2
 razzie	@-*a/ts:'ie
 re	@-*'E	$capital
