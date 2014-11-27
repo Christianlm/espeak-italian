@@ -58,6 +58,10 @@ phoneme i
   length 140
   IfNextVowelAppend(;)
   FMT(vowel/i)
+
+   IF thisPh(isWordEnd) AND thisPh(isNotStressed) AND NOT prevPhW(E) THEN
+   ChangePhoneme(I)
+   ENDIF
 endphoneme
 
 

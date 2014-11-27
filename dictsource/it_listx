@@ -377,6 +377,7 @@ asol $1
 asparag $2
 asparagine	$4
 aspett  $alt
+assaggini	$3
 assedi  $alt
 assemble $3
 assemini $2
@@ -554,7 +555,7 @@ bigne $2  $alt
 bilateri $2
 bimensil	bimens'il
 biogas $3
-biond  $alt2
+biond	bj'ond
 biondine	$3
 biosintesi $3
 biotop $2
@@ -767,11 +768,11 @@ carcan $1
 carcare $1
 carceri $1
 carcofor $2
+cardiocircolatorio	ka@-*djotSi@-*kolat'ORio
 careggi  $alt2
 cargeghe  $alt
 carinol $2
 cariotip $3
-carite $3
 carlin $2
 carnefice  $alt2
 carneficine	$4
@@ -871,11 +872,9 @@ centromer $2
 centuripe $2
 cepp  $alt2
 cer  $alt2
-cer  $alt2
 ceram $1
 ceranesi $2
 cerber $1
-cerc  $alt2
 cerc  $alt2
 cerchi  $alt2
 cerchia  $alt2
@@ -888,6 +887,8 @@ cerveteri $2  $alt
 ces  $alt
 cesar $1
 cesare $1
+cesareo	$2
+cesarei	$2
 cesi  $alt
 cest  $alt2
 cet  $alt
@@ -1382,7 +1383,7 @@ efes $1  $alt
 effett  $alt
 effimer $2
 eg  $alt
-egemone  $alt
+egemon	edZ'Emon
 egemonia $4
 egemonie	edZemon'i:e
 egeria $2
@@ -1841,6 +1842,7 @@ glaucofane $3
 gleb  $alt
 glia  gl'i:a
 glicemiche	glitS'emike
+glicemic	glitS'Emik
 glicemie	glitSem'i;e
 glicerin	glitSe*'in
 glicerofosforic	glitSeRofosf'oRik
@@ -1862,7 +1864,6 @@ glottide  $alt
 glucosi  $alt
 gluteo $1
 gnom  $alt
-gnome  $alt
 gol  $alt
 golasecc  $alt2
 goleador $4
@@ -1950,6 +1951,7 @@ imbrogli  $alt
 imeni  $alt
 imenofor $3
 imenotteri  $alt
+immemor	$2
 imol $1
 imperfett  $alt
 imperi	$2
@@ -2046,7 +2048,7 @@ ipoglicemic	ipoglitS'emik
 ipotalam $3
 ipotec  $alt
 ipotermia $4
-ipotesi $2
+ipotesi	ip'OtezI
 ippolit $2
 ippomene $2
 ippopotam $3
@@ -2134,6 +2136,7 @@ lemn  $alt
 lemure $1  $alt
 lemuri $1  $alt
 lena		$alt2
+lenzuol	leNtsu'Ol
 leo  $alt
 leon  $alt2
 leonzi  $alt
@@ -2228,6 +2231,7 @@ maestrie	$3
 mafia $1
 mafie	$1
 magazine	m'EgaziN
+magazzinier	magadz:Inj'ER
 maggior  $alt2
 magie	madZ'iE
 magnenzi  $alt
@@ -2367,6 +2371,7 @@ meser $1
 mesia $1  $alt
 mesol $1
 mesopotamia $4
+messaggini	$3
 messe  $alt
 messenia  $alt
 messere $2
@@ -2945,8 +2950,7 @@ pesce		$alt2
 pesche  $alt
 peschici  $alt
 pessim  $alt
-pest  $alt2
-peste		$alt
+pesticid	$3
 petal $1  $alt
 pett  $alt
 pezz  $alt
@@ -3790,8 +3794,8 @@ stres  $alt
 strettoia  $alt2
 strof  $alt
 strolag $1
-stronzi  $alt
 struscii	st@-*uS'i:j
+strutturati	$3
 subacquea	$2
 subacquee	$2
 subacqueo $2

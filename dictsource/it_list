@@ -155,6 +155,7 @@ _‼	esklamatsi'One
 _‐	legat'u:Ra
 _‒	lini'et:a
 _‑	t@-*at:,ino||duni'one
+ə	Swa/:
 ɛ	'E||ap'e@-*ta
 ɔ	'O||ap'e@-*ta
 ɾ	ER*e||untSin'ata
@@ -508,7 +509,8 @@ perché		$u+ $brk
 pure	$u+
 più	$u+
 se		$u+     // if
-senza	$u+
+senza	s,eNtsa
+senza	s'Entsa $atend
 sopra	   $alt2
 sotto	$alt2
 tuttavia	tut:av'ia
@@ -520,16 +522,16 @@ a	$u+
 al      $u+ $only
 allo    $u+
 alla    $u+
-ai      $u+
-agli    $u+ $only
+ai      $u+ $nounf
+agli    $u+ $nounf $only
 alle    $u+
 ad	$u+	$only
 
-da	$u+       // by
+da	$u+
 dal	$u+
 dallo   $u+
 dalla	$u+	// by the
-dai     $u+
+dai     $u+ $nounf
 dagli   $u+
 dalle   $u+
 
@@ -537,9 +539,9 @@ di	$u+ $only
 del	$u+	$alt2 $only
 dello   $u+
 della	$u+
-dei     $u+
+dei     $u+	$nounf
 degli	$u+	$brk $alt2
-delle	$u+	$alt2
+delle	d,e:l:e
 de      $u+ $only
 
 in	$u+ 	$only $nounf
@@ -1028,7 +1030,7 @@ rock'n'roll	@-*,Oken@-*'o:l
 (e speak)		isp'ik:
 (i phone)		'aI||fon
 (pace maker)	_^_EN
-(week end)	w,ik_'end
+(week end)	w,i:k'end
 (you tube)	ju:||tj'u:b
 
 // Main  Dictionary
@@ -1197,7 +1199,7 @@ eurofestival	$4
 europei	$4
 europeistici	eu@-*ope'istitSi
 faccine	$2
-facilita	$2
+facilit	$2
 fantascientifici	$4
 farmaceutiche	fa@-*matS'ewtike
 farmacie	fa@-*matS'ie
@@ -1542,7 +1544,9 @@ vuot	vu'O:t
 
 cos'è	koz'E
 l'ancora	l'ankoRa
+quand'è	kw2aNd'E
 senz'altro	sents'a:lt@-*o
+
 (in balia)	in||bal'i:a
 (principi attivi)	p@-*intS'i:pI||at:'ivI
 ciao	tS'ao:_
@@ -1907,6 +1911,7 @@ alessia	$2 $capital
 alexander	$3
 alzeimer	alts'aime@-*
 alzheimer	alts'aIme@-*
+amazon	'amazOn $only
 amelia	$2	$alt2
 amerigo	$2
 amicis	$2
@@ -1915,6 +1920,7 @@ andreina	and@-*e'i:na
 andromeda	$2
 anita	$2
 annamaria	$4
+antioc	ant'iok
 antony	'E:ntonI
 armida	$2
 asdrubale	$2
@@ -1937,6 +1943,7 @@ charlie	tS'a@-*li
 charlotte	Sa@-*l'Ot
 chevalier	_^_FR
 chopin	Sop'EN
+chuck	tS'a/k
 churchill	_^_en
 christie	k@-*'istI
 christofer	$1
@@ -2013,6 +2020,7 @@ marilyn	m'E:r*ilIN
 marylin	m'ERilin
 michael	m'aIkOl
 michelangel	$3
+michelle	m,iS'el	$only
 mike	_^_EN
 monroe	m'On||r,ow
 morissette	m'ORIsEt[
@@ -2036,6 +2044,7 @@ presley	p@-*'e:zleI
 ray	@-*'eI
 rizzo	@-*'its:O
 rizzoli	@-*its:'OlI
+robinson	$1 $alt $onlys
 rocky	@-*'Oki
 roger	$1 $alt
 ryanair	@-*'aIaneR
@@ -2379,6 +2388,7 @@ criticano	$1
 cullano	$1
 curano	$1
 dai	d'a:i $atend
+danneggino	$2
 danzano	$1
 datano	$1
 deambulano	de'ambulano
@@ -3460,11 +3470,12 @@ zuccherano	$1
 (capita di)	k'a:pita||_d'I
 (che capita)	ke||k'a:pita
 (dove capita)	dove||k'apita
+(non capita)	non||k'a:pita
 (volte capita)	v,Olte||k'a:p,ita
 (quando capita)	kw'ando||k'apita
 (capitano tutte)	k'apitano||t'ut:e
 (che capitano)	ke||k'apitano
-(quando capitano)	kwando||k'a:pitano
+(quando capitano)	kw'ando||k'a:pitano
 (dai che)	d'ai||ke
 (a seguito)	a||s'e:guito
 (al seguito)	als'egwito
@@ -3490,7 +3501,9 @@ assumersi	$2
 batterlo	$1
 cancellami	$2
 carical	$1
+cercal	$1
 cercasi	$1
+chiuditi	kj'uditI
 compil	$2
 comunical	$2
 contattaci	$2
@@ -3505,6 +3518,7 @@ dirigersi	$2
 distrugerne	$2
 domandatel	$3
 domandati	$2
+fattel	f'at:el
 giuravi	$2
 guardaci	$1
 guidaci	$1
@@ -3536,6 +3550,7 @@ pulisciti	$2
 raccontaci	$2
 regalaci	$2
 regalavi	$3
+resistergli	$2
 restatene	$1
 riceverne	$2
 ricordati	$2
@@ -3593,6 +3608,6 @@ render	$1
 riscuoter	$2
 risolver	$2
 tender	$1
-tener	$2	$only
+tener	$2	$alt2 $only
 
 
