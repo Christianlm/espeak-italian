@@ -111,13 +111,16 @@
 
 .group e
 		e        e
-		ei (K        Ej
+	ei (d	Ej
+	ei (c	Ej
+	ei (colA_	ei
 	r) ei (_	'Ei
 	@d) ei (_	'eI
 	@C)	e (_S1q  e     // lookup it_list without suffix
 		e (C_    E
 		e (A     E
-		e (C%A_  E    // doubled consonant
+		e (C%A_  E
+	_d) e (llA_	e
 		e (CiCA_ E
 		e (CulA_ E
 		e (llu   E
@@ -259,7 +262,6 @@
         @)      io (_S1q   =i%o
 	a)	i (+	j
 	à)	i (+	j
-	L02)	i (+	j
 	o)	i (+	j
 	@C)	i (_S1q  i     // lookup it_list without suffix
         @)      i (Ante_   i

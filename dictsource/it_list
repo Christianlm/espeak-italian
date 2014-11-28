@@ -478,7 +478,7 @@ queste  $u+      // these
 
 quel	$u+	// that
 quella	$u+	// that
-quei    kw2ej      // those
+quei	kw2eI
 quegli  $u+      // those
 quelle  $u+      // those
 
@@ -532,16 +532,16 @@ dal	$u+
 dallo   $u+
 dalla	$u+	// by the
 dai     $u+ $nounf
-dagli   $u+
+dagli   $u+ $nounf
 dalle   $u+
 
 di	$u+ $only
 del	$u+	$alt2 $only
 dello   $u+
 della	$u+
-dei     $u+	$nounf
-degli	$u+	$brk $alt2
-delle	d,e:l:e
+dei	d,eI $nounf
+degli	$u+ $nounf
+delle	$u+
 de      $u+ $only
 
 in	$u+ 	$only $nounf
@@ -1091,7 +1091,6 @@ austere	$3
 autocrat	$3
 autoironia	auto,iRon'i;a
 autonom	$3
-autoveicol	autove'ikol
 autostim	$4
 avarie	$3
 aziend	adzj'End
@@ -1117,7 +1116,6 @@ bufere	$2
 buon	bu'on	$u+
 burocrate	$2
 cadaveri	$2
-caffein	kaf:E'in
 calorifici	$3
 cannol	$2
 capitol	kap'itol
@@ -1159,6 +1157,7 @@ decim	$1
 decimonono	$4
 decine	$2
 decrepit	$2
+dei	d'E:i	$noun
 deleghe	$1
 demoni	$1
 dentifrici	$3
@@ -1197,7 +1196,6 @@ eter	$1	$alt2
 etnie	etn'i#e
 eurofestival	$4
 europei	$4
-europeistici	eu@-*ope'istitSi
 faccine	$2
 facilit	$2
 fantascientifici	$4
@@ -1287,7 +1285,6 @@ lontano	$2
 lucine	$2
 lucubri	$1
 lumache	$2
-luteinici	lute'initSi
 maceria	$2
 macerie	$2
 madrepatria	$3
@@ -1322,7 +1319,6 @@ monoplano	$3
 monosillabi	mono||s'il:abI
 montagnol	$3
 mostacciol	$3
-motoveicol	mOtove'ikol
 multipolo	$3
 naric	$2
 negligenza	neglidZ'entsa
@@ -1335,7 +1331,6 @@ nucleoli	$2
 oblio	,Obl'i:o
 odontoiatrici	odontoj'at@-*itSi
 officine	$3
-oleifer	,Ole'i:feR
 olfattori	$3 $alt
 oneri	$1
 onorifici	$3
@@ -1403,7 +1398,6 @@ profug	$1
 profughi	$1
 prolifici	$2
 prossime	$1
-protein	p@-*ote'in
 provino	$2
 pseudoscientifici	$5
 psichiatrici	$2
@@ -1915,7 +1909,6 @@ amelia	$2	$alt2
 amerigo	$2
 amicis	$2
 anderson	$1
-andreina	and@-*e'i:na
 andromeda	$2
 anita	$2
 annamaria	$4
@@ -1925,7 +1918,7 @@ armida	$2
 asdrubale	$2
 asimov	'azim,ov
 baudelaire	bOdl'E@-*
-beatles	bItols
+beatle	b'i:tol
 bergomi	$1
 brandon	b@-*'Endon
 brian	b@-*'aian
@@ -1951,6 +1944,7 @@ chrysler	_^_EN
 danilo	$2
 debor $1  $alt
 deborah	$1 $alt2
+einstein	'aInstaIn
 eisenhower	aIzen'awE@-*
 edgar	$1
 elena	'e:lena
@@ -1960,6 +1954,7 @@ elizabeth	el'izabet[
 enric	$2
 esposito	$2
 eutichiano	ewdiki'ano
+fahrenheit	f'aRenaIt
 federic	$3
 felicita	$2
 ferrero	$2
@@ -2178,6 +2173,7 @@ agitano	$1
 agite	$2
 agitino	$1
 agito	adZ'i:to	$verb
+aggiudicano	$2
 aiutano	aj'utano
 alimentino	$3
 allaccino	$2
@@ -2382,6 +2378,7 @@ copiano	$1
 cospirano	$2
 creano	$1
 credano	$1
+creino	$1
 cremano	$1
 crepano	$1
 criticano	$1
@@ -2703,9 +2700,6 @@ intregnano	$2
 intuito	intu'i:to	$verb
 invaginano	$3
 invalidano	$2
-inveirono	inve'iRono
-inveiscano	inve'iskano
-inveiscono	inve'iskono
 inventino	$2
 investig	$2
 investigano	$2 $alt2
@@ -2737,6 +2731,7 @@ lancino	$1
 lasciavi	$2
 lascino	$1
 laureano	$1
+laureino	l'aw2Rejno
 lavorano	$2 $alt2
 lavorino	$2 $alt2
 leccano	$1
@@ -2772,6 +2767,7 @@ mandano	$1
 mangiano	$1
 manipol	$2
 mantenere	$3
+mantenei	$3 $alt2
 marcino	$1
 martellano	$2
 mascherano	$1
@@ -2815,6 +2811,7 @@ mutano	$1
 naquero	$1
 narrano	$1
 nauseano	$1
+nauseino	n'aw2zeIno
 navig	$1
 navigano	$1
 navighi	$1
@@ -2925,6 +2922,7 @@ procurano	$2
 prodigano	$1
 producano	$2
 profilano	$2
+prometei	$3 $alt2
 propinino	$2
 propugnano	$2
 prorogano	$1
@@ -2978,8 +2976,9 @@ registrano	$2
 registrino	$2
 regnano	$1
 regolano	$1
-reinvio	@-*einv'io
-remano	$1
+reintegr	@-*e'integ@-*
+reinvio	@-*einv'i:o
+remano	$1 $alt2
 rendano	$1
 replicano	$1
 reputa	$1
@@ -3020,6 +3019,7 @@ ricompil	$3
 riconcili	$3
 riconciliano	$3
 riconsegnano	$3
+ricreino	$2
 ricucii	@-*ikutS'i:j
 ridisegnano	$3
 ridrizzo	@-*,i_d:@-*'i:ts:O
@@ -3082,6 +3082,7 @@ risuscit	$2
 risuscitano	$2
 ritardano	$2
 ritenere	$3
+ritenei	$3 $alt2
 ritirano	$2
 ritornino	$2
 riuscii	@-*IuS'i:j
@@ -3109,6 +3110,7 @@ sbagliano	$1
 sbaglino	$1
 sbarbano	$1
 sbarrano	$1
+sbattei	zbat:'eI
 sbircino	$1
 sbottono	$2
 sbraitano	$1
@@ -3247,7 +3249,9 @@ sorteggino	$2
 sorvegliano	$2
 sospettino	$2
 sostenere	$3
+sostenei	$3 $alt2
 sottolineano	$3
+sottolineino	$3
 sottoposte	$3
 sottostim	$3
 sottovalut	$3
@@ -3553,6 +3557,7 @@ pulisciti	$2
 raccontaci	$2
 regalaci	$2
 regalavi	$3
+reinseritasi	$4
 resistergli	$2
 restatene	$1
 riceverne	$2
