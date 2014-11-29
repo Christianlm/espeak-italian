@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2014 Nov 5 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2014 Nov 29 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -2170,6 +2170,7 @@ agite	$2
 agitino	$1
 agito	adZ'i:to	$verb
 aggiudicano	$2
+aggrappano	$2
 aiutano	aj'utano
 alimentino	$3
 allaccino	$2
@@ -3483,6 +3484,8 @@ zuccherano	$1
 (seguita a)	s'e:gwita||a
 (seguiti a)	s'e:gwiti||a
 (seguito a)	s'e:gwito||a
+(ci perdono)	tSi||p'E@-*dono
+(si perdono)	si||p'E@-*dono
 
 // pronominal verbs
 
