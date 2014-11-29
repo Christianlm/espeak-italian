@@ -509,7 +509,7 @@ perché		$u+ $brk
 pure	$u+
 più	$u+
 se		$u+     // if
-senza	s,eNtsa
+senza	s,entsa
 senza	s'Entsa $atend
 sopra	   $alt2
 sotto	$alt2
@@ -603,7 +603,7 @@ fossi	$u1+	$alt
 fosse	$u1+
 fossimo	$u1+
 fossero	$u1+
-sarei	$u2+
+sarei	$u+
 saresti	$u2+
 sarebbe	$u2+
 saremmo	$u+
@@ -649,7 +649,7 @@ avessimo	$u+	$verbf
 aveste	$u+
 avessero	$u+	$verbf
 
-avrei	$2	$verbf
+avrei	$u+	$verbf
 avresti	$u+	$verbf
 avrebbe	$u+	$verbf
 avremmo	$u+	$verbf
@@ -1232,7 +1232,6 @@ geroglifici	dZeRogl'ifitSi
 ghiacciol	gIatS:'ol
 giovani	dZ'ovani
 giovanil	$3
-giudei	$2
 giurati	$2
 gladiol	$2
 glicemia	glitSem'ia
@@ -1280,7 +1279,6 @@ kimono	$2
 lacciol	$2
 lastrici	$1
 legger	$2 $alt
-licei	litS'Ei
 lontano	$2
 lucine	$2
 lucubri	$1
@@ -1780,7 +1778,6 @@ padova	$1
 padovano	$3
 pagazzano	$3
 pakistano	$3
-partenopei	$4
 passavogano	$4
 pavano	$2
 pavia	pav'ia
@@ -1961,7 +1958,6 @@ ferrero	$2
 francisco	f@-*ans'isko
 françois	f@-*,a/NsU'a
 frederic	$1
-galilei	galil'E:j
 garcía	_^_ES
 gavino	$2
 genesia	$2
@@ -2922,7 +2918,6 @@ procurano	$2
 prodigano	$1
 producano	$2
 profilano	$2
-prometei	$3 $alt2
 propinino	$2
 propugnano	$2
 prorogano	$1
@@ -3110,7 +3105,6 @@ sbagliano	$1
 sbaglino	$1
 sbarbano	$1
 sbarrano	$1
-sbattei	zbat:'eI
 sbircino	$1
 sbottono	$2
 sbraitano	$1
