@@ -82,65 +82,79 @@ _??	s'imbolo
 _?A	l'et:e:Ra
 _braille	b@-*'aIll
 
-₤	l'i:Ra
-£       sterl'ina
-₠	'e:uRo
-€	'e:uRo
-₨	@-*'upja
-¤	s'imbolo||di||v'aluta
-
+_.	punto	$max3
+_,	v'iRgola
+_:	d,uep'unti
+_;	p,untoev'iRgola
+_!	p,untoesklamat'ivo
+_?	p,untointeRogat'ivo
+_"	viRgolet:e
+_'	ap'OstRofo
+_(	ap,E@-*ta||paR'entezi
+_)	kj,uza||paR'entezi
+_[	ap'ERtakw2'ad@-*a
+_]	kj,uzakw2'ad@-*a
+_{	ap,eRtag@-*'af:a
+_}	kj,uzag@-*'af:a
+_<	min'oRe||d'I
+_>	madZ:'oRe||d'I
 *	aste@-*'isko $max3
 %	pe@-*tS'ento $max3
-_.	punto	$max3
 =	ugwale	$max3
 +	pju	$max3
 /	b'aR*a	$max3
 \	kont@-*ob'a:R*a	$max3
+_|	b'aR*a||ve@-*tik'ale
 &	'a/nd
 ©       k'opI||raIt
 #	kantSellet:o
 @	ki'otS:ola
 ~	tilde
 °	g@-*'a:di
-_:	d,uep'unti
-_!	p,untoesklamat'ivo
-_"	viRgolet:e
-_'	ap'OstRofo
-_(	ap,E@-*ta||paR'entezi
-_)	kj,uza||paR'entezi
-_,	v'iRgola
-_-	t@-*at:ino
-_;	p,untoev'iRgola
-_<	min'oRe||d'I
-_>	madZ:'oRe||d'I
-_?	p,untointeRogat'ivo
-_[	ap'ERtakw2'ad@-*a
-_]	kj,uzakw2'ad@-*a
 _^	kap:utS:o
+_-	t@-*at:ino
 __	sot:oline'ato
 _`	atS:'ento||g@-*'ave
-_{	ap,eRtag@-*'af:a
-_}	kj,uzag@-*'af:a
+_´	atS:'Ento||ak'uto
 ¡	p'unto||esklamat'ivo||@-*ovES'ato
 ¿	p'unto||inteR*ogat'ivo||@-*ovES'ato
-∞	infin'Ito
 ¦	b'aR*a||spets:'ata
-_´	atS:'Ento||ak'uto
+_―	b'aR*a||o*Idz:Ont'ale
+_‖	d,op:ia||b'aR*a
 _·	p'unto||tSent@-*'ale
 _¸	tSed'il^ia
-_―	b'aR*a||oRidzOnt'ale
-_‖	d,op:ia||b'aR*a
 _‚	vi@-*gol'Et:a||in||b'asso
 _‛	vi@-*gol'Et:a||sin'ist@-*a
 _„	dop:ievi@-*gol'Et:e||inb'asso
+_‟	d,op:ie||vi@-*gol'et:e||asin'ist@-*a
 _†	k@-*'otSe||lat'ina
 _‡	k@-*'otSe||lat'ina||d'Op:ia
-‰	p,E@-*||m'illE
 _′	p@-*'imi
 _″	d'Op:io||'apitSe
 _‴	t@-*'iplo||'apitSe
 _‼	esklamatsi'One
 ¶	paR'ag@-*afo
+_‐	legat'u:Ra
+_‒	lini'et:a
+_‑	t@-*at:,ino||duni'one
+ə	Swa/:
+ɛ	'E||ap'e@-*ta
+ɔ	'O||ap'e@-*ta
+ɾ	ER*e||untSin'ata
+ʔ	glotalst'Op
+
+_‣	punt'ato
+◦	punt'ato
+←	f@-*'etS:a||sin'ist@-*a
+↑	f@-*'etS:a||_s'u
+→	f@-*'etS:a||d'est@-*a
+↓	f@-*'etS:a||_dZ'u
+♭	bem'Ol:e
+♯	dI'ezis
+♥	'as:o||di||kw'ORI // s'imbolo||ku'oRe
+❓	p'unto||inteR*ogat'ivo
+
+∞	infin'Ito
 −	m'Eno
 ²	d'ue $native
 ³	t@-*'e	$native
@@ -150,20 +164,14 @@ _‼	esklamatsi'One
 ½	un||m'Edz:o
 ¾	t@-*'e||ku'a@-*ti
 √	s,En^o||d,i||@-*ad'itSe
+∛	@-*ad'itSe||k'ubika
+≡	ekw2Iv'ale
+≥	madZ:'oRe||,o_||ugw2'ale
+≤	min'oRe||,o||_ugw2'ale
+ɧ	heng
+ɼ	'ER*e||al:uNg'ata
 ≠	non||ugw'ale||,a
 ∫	integ@-*'ale
-_‐	legat'u:Ra
-_‒	lini'et:a
-_‑	t@-*at:,ino||duni'one
-ə	Swa/:
-ɛ	'E||ap'e@-*ta
-ɔ	'O||ap'e@-*ta
-ɾ	ER*e||untSin'ata
-ʔ	glotalst'Op
-♥	'as:o||di||kw'ORI // s'imbolo||ku'oRe
-❓	p'unto||inteR*ogat'ivo
-_‟	d,op:ie||vi@-*gol'et:e||asin'ist@-*a
-_‣	punt'ato
 _․	p'unto
 _‥	p,unto||d'op:io
 ≈	tS'i@-*ka
@@ -175,12 +183,14 @@ _‥	p,unto||d'op:io
 ∵	pe@-*k'e
 ˙	p'unto
 №	n'u:mERo
-←	f@-*'etS:a||sin'ist@-*a
-↑	f@-*'etS:a||_s'u
-→	f@-*'etS:a||d'est@-*a
-↓	f@-*'etS:a||_dZ'u
-♭	bem'Ol:e
-♯	dI'ezis
+‰	p,E@-*||m'ille
+
+₤	l'i:Ra
+£       sterl'ina
+₠	'e:uRo
+€	'e:uRo
+₨	@-*'upja
+¤	s'imbolo||di||v'aluta
 
 // phonetic modifiers
 
@@ -726,7 +736,7 @@ bye	_^_EN
 byte	_^_EN
 camper	$1
 caterpillar	$1
-center	s'entE@-*	$onlys
+center	s'EntE@-*	$onlys
 Challenger	$1
 champagne	Samp'an^
 champion	tS'Empion
@@ -743,7 +753,8 @@ cheque	S'ek
 (chewing gum)	tS'uIN||g'am
 chewinggum	tS'uIN||gam
 chihuahua	tSiw'awa
-city	s'i:tI
+choc	S'Ok	$only
+city	s'i:ti
 cleaner	_^_EN
 cliché		kli:S'e
 cocker	$1
@@ -957,6 +968,7 @@ smiley	_^_EN
 snack		_^_EN
 software	s'Oft[_we@-*
 sonar	$1	$only
+station	st'ESon	$only
 stalking	st'O:lkiN
 streaming	_^_EN
 street	_^_EN
@@ -1014,6 +1026,7 @@ way	_^_EN
 wave		_^_EN
 web		wEb
 webmaster	$2
+weekend	w,ik'end
 winchester	wintS'este@-*
 window		w2'IndOw2
 wireless		_^_EN
@@ -1616,6 +1629,7 @@ castelmezzano	kast,el||medz:'ano
 castelpagano	$4
 cazzano	$2
 champs	S'amps
+chernobyl	tS'E@-*nobil
 chicago	tSikago
 cicciano	$2
 cilentano	$3
@@ -1944,7 +1958,7 @@ deborah	$1 $alt2
 einstein	'aInstaIn
 eisenhower	aIzen'awE@-*
 edgar	$1
-elena	'e:lena
+elena	'E:lena
 elgar	$1	$only
 elia	el'ia
 elizabeth	el'izabet[
@@ -2064,6 +2078,7 @@ tyson	t'aIzon
 wagner	v'agnE@-*
 vainer	v'aIne@-*	$only
 valter	$1 $onlys
+victor	$1 $only
 vincent	v'inseNt[ $only
 vladimir	$3
 walker	w2'O:lke@-*
@@ -2149,6 +2164,7 @@ adoper	$2
 adoperino	$2
 adorano	$2
 adulano	$2
+affascinano	$2
 affascin	$2
 affascino	$2
 affaticano	$3
@@ -2587,6 +2603,7 @@ ignorano	$2
 illudano	$2
 illumin	$2
 illustrano	$2
+imbarazzati	imbaRats:'atI
 imbottigliano	$3
 imbrogliano	$2
 imit	$1
@@ -2977,7 +2994,7 @@ reinvio	@-*einv'i:o
 remano	$1 $alt2
 rendano	$1
 replicano	$1
-reputa	$1
+reput	$1
 reputano	$1
 respirano	$2
 restaurano	$2
@@ -3017,6 +3034,7 @@ riconciliano	$3
 riconsegnano	$3
 ricreino	$2
 ricucii	@-*ikutS'i:j
+ridigit	$2
 ridisegnano	$3
 ridrizzo	@-*,i_d:@-*'i:ts:O
 riducano	$2
@@ -3515,8 +3533,10 @@ contattami	$2
 copial	$1 $alt
 curati	$2
 costituitosi	$4
+dammel	$1
 dedical	$1
 digitalo	$1
+dimmelo	$1
 dirigerl	$2
 dirigersi	$2
 distrugerne	$2
