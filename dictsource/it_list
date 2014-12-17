@@ -745,6 +745,7 @@ chance	S'a:ns
 change	tS'EindZ
 channel	tS'anel
 chansonnier	S,aNs'Onie@-*
+chao	_^_es
 chaos	k'eOs
 charter	$1
 chat		_^_EN
@@ -793,6 +794,7 @@ english		_^_EN
 enter	$1
 equipe	Ek'ip
 error	$1	$onlys
+español	$3
 espeak		isp'ik:
 explorer	$2
 extension	Ekst'EnS@n
@@ -830,6 +832,7 @@ hamburger	hamb'u@-*ge@-*
 happy	_^_EN 
 hardware	'a:rd[we@-*
 highlander	aIl'a/Nde@-*
+hi	h'aI	$only
 hitler	$1
 home	hO:m
 hospital	$1 $alt
@@ -955,6 +958,7 @@ setup	s'Et||,a/p
 shaker	$1
 shampoo	S'a:mpo
 shuttle	S'a/tOl
+showgirl	_^_en
 sky	sk'aI
 single	s'ing,Ol $onlys
 sister	$1	$onlys
@@ -1044,6 +1048,8 @@ rock'n'roll	@-*,Oken@-*'o:l
 (e speak)		isp'ik:
 (i phone)		'aI||fon
 (pace maker)	_^_EN
+(hi fi)	h'aI_||f'a/I
+(wi fi)	w'a/I_||f'a/I
 (week end)	w,i:k'end
 (you tube)	ju:||tj'u:b
 
@@ -1691,6 +1697,7 @@ gozzano	$2
 gramsciano	$2
 grassano	$2
 grazzano	$2
+guantanamo	$2
 guasila	$2
 guinea	gwin'ea
 hamas	$2
@@ -1742,6 +1749,7 @@ medjugorje	m,EdJUg'O:RIE
 melissano	$3
 melizzano	$3
 mezzano	medz:'ano
+miami	maj'EmI
 minucciano	$3
 miscano	$2
 modena	$1
@@ -1846,7 +1854,7 @@ segonzano	$3
 seychelles	seIS'El
 selvazzano	$3
 siberia	s,ib'E:Ri;a
-sidney	$1
+sydney	$1
 simpliciano	$3
 sinnai	$1
 sizzano	$2
@@ -1958,6 +1966,7 @@ chrysler	_^_EN
 danilo	$2
 debor $1  $alt
 deborah	$1 $alt2
+eiffel	eIf'El
 einstein	'aInstaIn
 eisenhower	aIzen'awE@-*
 edgar	$1
@@ -1979,6 +1988,7 @@ frederic	$1
 garcía	_^_ES
 gavino	$2
 genesia	$2
+george	dZ'O@-*dZ	$onlys
 gibson	g'Ibson
 giordano	$2
 giorgia	$1
@@ -1986,6 +1996,7 @@ girolamo	$2
 gorbaciov	$1
 gray	g@-*'eI
 harry	hE:R*I
+harrison	h'ER*izon
 iacopo	i'akopo
 igor	$1
 ingrassia	$3
@@ -2036,6 +2047,7 @@ mozilla	m,o|dz'il:a
 murgia	$1
 nancy	n'E:nsI
 newton	nI'utoN
+nichola	n'ikola
 nicola	$2
 Oliver	'O:liv,e@-* $onlys
 ollie	'Ol:i
@@ -2594,6 +2606,7 @@ giudicano	$1
 giudichino	$1
 giurano	$1
 gocciolano	$1
+godano	$1
 godere	$2 $alt2
 graffiano	$1
 grattugia	$2
@@ -3572,6 +3585,7 @@ liberaci	$1
 mandal	$1
 mandatel	$2
 mettine	$1
+mostravi	$2
 offertogli	$2
 orientaci	$3
 pensaci	$1

@@ -14,6 +14,7 @@
 .L04 mi ti gli lo la le si ci vi li ne melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene
 .L05 melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene mi ci gli ne
 .L06 gli mi vi si
+.L07 mi ti gli lo la le si ci vi li ne melo selo celo velo mela sela cela vela meli seli celi veli mele sele cele vele mene sene cene vene glielo gliela glieli gliele gliene
 // Hours and minutes
 .L16 0 1 2 3 4 5 6 7 8 9 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 .L17 0 1 2 3 4 5
@@ -99,7 +100,7 @@
      _) dell' (P5t     dell
 	_) d' (P2t	d
 	donat (Y_	don'at
-	dona (L04_	d'ona  // Pron.s verbs
+	dona (L07_	d'ona  // Pron.s verbs
 	ci) der (L04_	=dE@-*
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
@@ -209,7 +210,7 @@
 		ggi (A  dZ:  // or L01 ?
 	@) gger (L04_ =dZ:e@-*  // Pron.s verbs
 	AC) ger (L04_	=dZe@-*
-		_) giura (L04_	dZ'URa
+		_) giura (L07_	dZ'URa
 		gl (i	l^
 		gl (ì	l^
 		gli (A  l^
@@ -333,7 +334,7 @@
 	@A) lo (ghY_	=lo
 	_) l' (P2t	l
 	lasciati (_	l,a/S'atI
-		lascia (L04_	l'aSa
+		lascia (L07_	l'aSa
 	leggi (L04_	l'EdZ:I
 
 .group m
@@ -346,6 +347,7 @@
 	_) mezz' (P5t	mEdz:
 	metter (L04_	m'ette@-* // Pron.s Verbs
 	manda (L05_	m'anda
+	mostra (L07_	m'Ost@-*a
 	assu) mer (L04_	=me@-*
 	mbano (_	=mbano // verbs
 	@) minano(_	=mina/no   // verbs
@@ -476,7 +478,7 @@
 	A) r (à_	*
 	A) r (ò_	*
 	@) r (L04_	=@-*   // for Italian pronominal verbs and reflexive verbs 
-	_) rega (laL04_	@-*eg'a
+	_) rega (laL07_	@-*eg'a
 	C) rai (_	@-*'a:I
 	A) rai (_	R'a:I
 	rrai (_	R*'a:I
@@ -572,6 +574,7 @@
 	A) vino (_	=vino  // verbs
 	@) vo (cano_	=vo
 	in) via (toL04_	vI'a
+	in) via (L07_	v'ia
 
 .group w
 		w	w2
@@ -605,7 +608,7 @@
 	zion (A_	tsi'on
 	ziona (ti_	tsiOn'a
 	zional (Y_	tsion'al
-	ziona (L04_	tsi'Ona
+	ziona (L07_	tsi'Ona
 	cra) zia (_	ts'i;a/
 	cra) zie (_	ts'I;e/
 	man) zia (_	ts'i;a
