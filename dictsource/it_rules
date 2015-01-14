@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2014 Nov 29 by Chris <llajta2012@gmail.com>
+// Last update: 2015 Jan 07 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -14,7 +14,7 @@
 .L04 mi ti gli lo la le si ci vi li ne melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene
 .L05 melo telo selo celo velo mela tela sela cela vela meli teli seli celi veli mele tele sele cele vele mene tene sene cene vene glielo gliela glieli gliele gliene mi ci gli ne
 .L06 gli mi vi si
-.L07 mi ti gli lo la le si ci vi li ne melo selo celo velo mela sela cela vela meli seli celi veli mele sele cele vele mene sene cene vene glielo gliela glieli gliele gliene
+.L07 mi gli lo la le si ci li ne melo selo celo velo mela sela cela vela meli seli celi veli mele sele cele vele mene sene cene vene glielo gliela glieli gliele gliene
 // Hours and minutes
 .L16 0 1 2 3 4 5 6 7 8 9 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 .L17 0 1 2 3 4 5
@@ -42,7 +42,8 @@
      _) all' (P4t     all
      _) anch' (P5t     ank
 	@) amo (L04_	'amo  // Pron.s verbs
-	@) ander (L04_	'andE@-*  // Pron.s verbs
+	Ci) amo (L04_	'amo
+	@) ander (L04_	'andE@-*
 		ate (L04_+	'ate
 	_L04Z) auguri (_	'awguRI
 	astano (_	'a:sta/no   // verbs
@@ -87,6 +88,7 @@
 	cceder (L04_	tS:'Ede@-*
 	in) cer (L04_	=tSe@-*
 	cuocer (L04_	kU'OtSe@-*
+	compra (L07_	k'omp@-*a
 	_L04Z) capit (A_	k'a:p,it
 		_L04Z) capit (ano_	k'a:p,it
 	correr (L04_	k'o:R*eR
@@ -102,6 +104,7 @@
 	donat (Y_	don'at
 	dona (L07_	d'ona  // Pron.s verbs
 	ci) der (L04_	=dE@-*
+	divi) der (L04_	=de@-*
 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
 	@) dinano (_	=dina/no   // verbs
@@ -211,6 +214,7 @@
 	@) gger (L04_ =dZ:e@-*  // Pron.s verbs
 	AC) ger (L04_	=dZe@-*
 		_) giura (L07_	dZ'URa
+	godi (L04_	g'Odi
 		gl (i	l^
 		gl (ì	l^
 		gli (A  l^
@@ -349,6 +353,7 @@
 	manda (L05_	m'anda
 	mostra (L07_	m'Ost@-*a
 	assu) mer (L04_	=me@-*
+	_a) ma (L07_	=ma
 	mbano (_	=mbano // verbs
 	@) minano(_	=mina/no   // verbs
 
@@ -375,7 +380,7 @@
 
 		o (C%A_	O    // doubled consonant
 		o (CACA_  O
-		o (Cr     O
+		o (CrA	O
 		o (CC_    O
 	@C)	o (_S1q  o     // lookup it_list without suffix 
 	@i)	o (_S1q  o     // lookup it_list without suffix 
@@ -523,6 +528,7 @@
 	A) sci (L05_	=SI
 	scrivi (L04_	sk@-*'i:vI
 	salu (taL04_	sal'U
+	spegner (L04_	sp'en^e@-*
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
@@ -543,6 +549,7 @@
 	@ma) to (L06_	t'O
 	@a) to (L06_	=to
 	intima) to (L04_	=to
+	ba) tter (L04_	=t:e@-*
 	a) ta (si_	=ta
 	_) tutt' (P5t	tut:
 
@@ -556,7 +563,7 @@
 	@) u (A_	=u
 	A%C) u (A_	=u
 	ural (Y_	uR'al
-	C) ura (L04_	'uRa   // Pron.s verbs
+	C) ura (L07_	'uRa   // Pron.s verbs
 	uder (L04_	'udE@-*
 	uter (L04_	'ute@-*
 	uvano (_	'uvano // verbs
@@ -601,7 +608,7 @@
 	_CCri) zz (o	ts:
 		@) zz (ano_	=ts:
 		i) zza (no_	=dz:a
-		@@) zza (L04_	=dz:a
+		@@) zza (L07_	=dz:a
 		@i) zza (ti_	dz:'a
 	@i) zz (are_	dz:
 	dri) zz (are_	ts:
