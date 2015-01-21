@@ -1310,7 +1310,6 @@ idoli	$1
 idroplano	id@-*opl'ano
 idroterapeutici	$5
 imprenditoria	$5
-indirizzo	ind,iR'i:ts:O
 indovino	$3
 infelic	infel'itS
 infrasuon	inf@-*asu'on
@@ -1500,7 +1499,7 @@ scaricabaril	$5
 scheletrici	$2
 schettin	$2
 schizzofrenia	$4
-scia	S'Ia
+scia	S'ia
 sciabile	Si'abile
 sciacquii	S,akw2'i:j
 sciacquio	S,akw2'i;O
@@ -1790,6 +1789,7 @@ modena	$1
 moldovano	m,Oldov'ano
 molfettano	m,Olfet'ano
 mondano	$2
+mompracem	$1
 mongrassano	$3
 monsano	$2
 montagano	$3
@@ -1814,6 +1814,7 @@ nazzano	$2
 nevano	$2
 newyorkes	nI,u||io@-*k'Ez
 niger	$1
+nizza	n'its:a
 nizzano	nits:'ano
 nocciano	$2
 oltramondano	$4
@@ -1906,6 +1907,7 @@ stazzano	$2
 stezzano	$2
 submontano	$3
 survoltano	$3
+svizzer	zv'i:ts:eR
 swahili	swah'ilI
 tagikistan	$2
 taiwan	t'aj_w,an
@@ -2113,14 +2115,13 @@ potter	$1	$onlys
 presley	p@-*'e:zleI
 ray	@-*'eI
 renault	@-*en'o
-rizzo	@-*'its:O
-rizzoli	@-*its:'OlI
 robinson	$1 $alt $onlys
 rocky	@-*'Oki
 roger	$1 $alt
 ryanair	@-*'aIaneR
 samuel	$1 $only
 sandoval	$3
+sandokan	$1
 savino	$2
 scalfaro	$1
 schumacher	_^_DE
@@ -2205,6 +2206,7 @@ accecano	$2
 accechino	$2
 accelerano	atS:'E:l,eRano
 acceler	atS:'E:l,ER
+accennino	$2
 accentuano	$2
 accertano	$2
 accettino 	$2
@@ -2229,6 +2231,7 @@ addentrano	$2	$alt
 addestrano	$2
 addic	$2
 addossino	$2
+addrizzare	ad:@-*Its:'aRe
 adeguano	$2
 adeguino	$2
 adirano	$2
@@ -2570,6 +2573,8 @@ dubit	$1
 dubitano	$1
 dubito	$1
 durano	$1
+drizzano	d@-*'its:ano
+drizzare	d@-*its:'aRe
 eccedano	$2
 eccit	$1
 eccitano	$1
@@ -2642,6 +2647,7 @@ fotografano	$2
 frantumano	$2
 fratturano	$2
 friggerl	$1
+frizzare	f@-*its:'aRe
 frodano	$1
 frustrano	$1
 fucil	$2
@@ -2739,6 +2745,8 @@ indebitino	$2
 indicano	$1
 indichino	$1
 indignano	$2
+indirizzano	indiR'its:ano
+indirizzino	$3
 individuano	$3
 indossino	$2
 indugia	$2
@@ -2785,6 +2793,8 @@ interroghi	$2
 intersecano	$2
 intervallano	$3
 intimano	$1
+intirizzendo	intiRits'Endo
+intirizzendosi	intiRits:'Endozi
 intitol	$2
 intono	$2
 intrattenere	$4
@@ -2877,6 +2887,7 @@ masturbano	$2
 maturano	$2
 medicano	$1
 meditano	$1
+memorizzino	$3
 mendicano	$1
 meravigliano	$3
 meritano	$1
@@ -2937,7 +2948,6 @@ oltrepassino	$3
 omogeneizz	omodZene'idz:
 onomatopeizzo	onomajtope'idz:o
 orbitano	$1
-orizzontarono	oRidz:ONt'a:ROno
 organizzino	o@-*gan'itsino
 oscillano	$2
 ospitano	$1	$alt
@@ -2986,9 +2996,11 @@ pigiano	$1
 pignorano	$2
 pilotano	$2
 pizzicano	$1
+pizzichino	$1
 placano	$1
 platinano	$1
 poggiano	$1
+polverizzino	$3
 popolano	$1 $alt
 portino	$1
 possedere	$3
@@ -3049,7 +3061,9 @@ raccontino	$2 $verb
 racimol	$2
 racimolano	$2
 raddoppiano	$2
-raddrizzo	@-*,a/dd@-*'its:o
+raddirizzare	@-*ad:iRits:'aRe
+raddrizzano	@-*ad:@-*'its:ano
+raddrizzare	@-*ad:@-*its:'aRe
 raffigurano	$3
 rafforzino	$2
 raffreddano	$2
@@ -3066,7 +3080,6 @@ rassodano	$2
 rassomigliano	$3
 rateizz	@-*ate'idz:
 rateizzano	@-*ate'idz:ano
-rattizzo	@-*at:'its:O
 ravvedere	$3
 ravvisano	$2
 ravvisino	$2
@@ -3103,7 +3116,7 @@ riallaccino	$3
 riapparvero	$3
 riaprano	$2
 riassegnano	$3
-riattizzo	@-*i,at:'its:O
+riattizzare	@-*iat:its:'aRe
 riavere	$3
 ribaltano	$2
 ribellano	$2
@@ -3130,7 +3143,6 @@ ricreino	$2
 ricucii	@-*ikutS'i:j
 ridigit	$2
 ridisegnano	$3
-ridrizzo	@-*,i_d:@-*'i:ts:O
 riducano	$2
 rientrano	$2
 rientrino	$2
@@ -3199,6 +3211,7 @@ rivedere	$3
 rivelino	$2
 rivendicano	$2
 riversi	$2
+rizzano	@-*'its:ano
 rotolano	$1
 rovino	$2
 rubino	$1 $verb
@@ -3330,17 +3343,20 @@ siglino	s'iglino
 simboleggiano	$3
 simulano	$1
 simulino	$1
+sintetizzino	$3
 sintonizzino	$3
 sistemano	$2
 sistemino	$2
 situano	$1
 sloggiano	$1
+smagnetizzino	$3
 smascher	$1
 sniffano	$1
 snodano	$1
 socializzino	$3
 soddisfano	$2
 soddisfino	$2
+sodomizzino	$3
 soffiano	$1
 soffocano	$1
 soffrano	$1
@@ -3404,6 +3420,7 @@ spolverano	$1
 spopolano	$1
 sprecano	$1
 spregia	$1
+sprizzano	$1
 sprovvedere	$3
 spuntano	$1
 sputano	$1
@@ -3433,6 +3450,7 @@ stravere	$2
 stremano	$1
 strillano	$1
 stritol	$1
+strizzano	$1
 strutturano	$2
 studiano	$1
 studino	$1
@@ -3488,6 +3506,7 @@ tergiversano	$3
 termin	$1
 terminino	$1
 termoregol	$3
+terrorizzino	$3
 tesserano	$1
 testimoniano	$3
 tifano	$1
@@ -3513,6 +3532,7 @@ trascurano	$2
 traslocano	$2
 trasformino	$2
 trattenere	$3
+traumatizzino	$4
 travasano	$2
 travedere	$3
 traversano	$2
@@ -3579,13 +3599,13 @@ vincolino	$1
 violano	$2
 violi	v'iOlI
 visitano	$1
-visualizza	vizUal'i|dz:a
 viziano	$1
 vizino	$1
 vogliano	$1
 volano	$1
 vomitano	$1
 votano	$1	$alt2
+voodoo	vud'u
 vuol	vu'ol	$u+
 zappano	$1
 zuccherano	$1
@@ -3652,6 +3672,7 @@ dirigersi	$2
 distrugerne	$2
 domandatel	$3
 domandati	$2
+drizzarsi	d@-*its:'a@-*si
 fattel	f'at:el
 giuravi	$2
 guardagli	$1
@@ -3663,6 +3684,7 @@ guardati	$1
 guardaci	$1
 guidaci	$1
 impostaci	$2
+indirizzati	indiRits:'ati
 informaci	$2
 insegnagli	$2	$alt
 installal	$2
@@ -3681,6 +3703,8 @@ pensaci	$1
 perdonatel	$3
 permettigli	$2
 pervenutaci	$3
+pizzical	$1
+pizzicami	$1
 portala	$1
 portalo	$1
 portatel	$2
@@ -3690,7 +3714,9 @@ proteggiti	$2 $alt2
 provaci	$1
 proval	$1
 pulisciti	$2
+raccontami	$2
 raccontaci	$2
+raddrizzarl	@-*ad:@-*its:'a@-*l
 regalaci	$2
 regalavi	$3
 reinseritasi	$4
@@ -3706,6 +3732,7 @@ rincorrerl	$2
 ripeterl	$2
 ripetersi	$2
 rivelataci	$3
+rizzarsi	@-*its:'a@-*sI
 romperti	$1
 sbrigati	$1
 scusami	$1

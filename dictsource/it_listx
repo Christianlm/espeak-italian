@@ -655,8 +655,8 @@ bronzei	b@-*'OndzeI
 bronzeo	b@-*'o:Ndz,Eo
 bronzeo $1
 bronzin	b@-*ondz'in
-brugol $1
 brufoli	$1
+brugol $1
 brusi $2
 bubu $2
 buccari $1
@@ -832,6 +832,7 @@ cattedr $1
 cattiveria $3
 caucas $1
 cavalcavia $4
+cavallerizz	kaval:eR'its:
 cavea $1
 cavedine  $alt2
 cazzol $2
@@ -1226,6 +1227,7 @@ democrit $2
 dentice  $alt
 deposit $2
 depost  $alt2
+derattizzazion	deRat:idz:atsi'on
 derog $1
 desdemon  $alt
 desi  $alt
@@ -1353,6 +1355,7 @@ drengot $2  $alt
 dresd  $alt
 driade $1
 driope $1
+drizzati	d@-*its:'ati
 drog  $alt
 dugong  $alt
 dulia $2
@@ -1827,6 +1830,7 @@ gettit $1
 gez  $alt2
 ghedi  $alt
 ghiott  $alt2
+ghiribizz	giRib'its:
 giacom $1
 giarabub $3
 giaven  $alt2
@@ -1926,6 +1930,7 @@ guerraiol  $alt2
 guglielmin	$3
 guidafili	$3
 guidizzol $3
+guinizzellian	gw2inits:el:i'an
 guizzare	gwIts:'aRe
 guspini $1
 hellas $2
@@ -2643,6 +2648,7 @@ nippur $2
 niscemi  $alt
 niteroi  $alt2
 nitroglicerin	nit@-*oglitSeR'in
+nizzard	nits:'a@-*d
 nocciol	$2	$alt
 noccioli	$1 $alt
 nod  $alt
@@ -2886,7 +2892,6 @@ passatemp  $alt
 pasten $1
 pastiche	$2
 pastor  $alt2
-pastorizzazion	pastoRidz:atsi'on
 pater $1
 patin $1
 patogenesi $3
@@ -3036,6 +3041,8 @@ pistol	$2
 pistolere $3
 pitecia  $alt
 pitegli  $alt
+pizzard	pits:'a@-*d
+pizzicagnola	$3
 placeb  $alt
 placit $1
 planargia $2
@@ -3099,7 +3106,7 @@ polisten $2
 polistirol $4
 politecnic  $alt
 polizia $3
-polizz $1
+polizz	p'O:li|ts
 poll  $alt2
 poll  $alt2
 polli  $alt
@@ -3257,6 +3264,7 @@ puntasecc  $alt2
 purpurea	$2
 purpuree	$2
 purpureo $2
+putizza	put'its:a
 quadrifogli  $alt
 quadrigemin	$3
 quadrilater $3
@@ -3283,6 +3291,7 @@ rabarbar $2
 rabbi $2
 racale $1
 racem  $alt
+raddrizzati	@-*ad:@-*its:'ati
 radicofani $3
 radiofarmaceutiche	$6
 radiospie	@-*adiosp'I:e
@@ -3402,6 +3411,7 @@ ritrov  $alt
 riverber $2
 rivincit $2
 rizzare	@-*its:'aRe
+rizzati	@-*its:'ati
 rizziconi $2
 rizzoli $2
 rob  $alt
@@ -3546,9 +3556,11 @@ scherm  $alt2
 schern  $alt2
 scherz  $alt2
 schettin $1  $alt2
+schiribizz	skiRib'its:
 schivenoglia  $alt
 schizofrenia $4
 schizofrenie	skits:of@-*en'i:e
+schizzati	skits:'ati
 sciabol $1
 sciliar $3
 scioper $1
@@ -3843,10 +3855,12 @@ strafila	$2
 stranguria $3
 strapiomb  $alt2
 strapotere $3  $alt2
+stravizz	st@-*av'its:
 strenuo  $alt
 stres  $alt
 strettoia  $alt2
 strimpellio	$3
+strizzati	st@-*its:'ati
 strof  $alt
 strolag $1
 struscii	st@-*uS'i:j
@@ -3872,6 +3886,7 @@ sugher $1
 sulfurei	$2
 suocer sU'O:tSeR
 superior  $alt2
+superman	s'upe@-*m,En $onlys
 superstite $2
 suppost  $alt2
 supremazia $4
@@ -4021,6 +4036,8 @@ tiroidine	$4
 tirol $2
 tisanotteri  $alt
 tisifone $2
+tizz	t'its:
+tizzon	tits:'On
 tobia $2
 tocc  $alt2
 tocoferol $4
@@ -4270,6 +4287,7 @@ vitree	$1
 vitrei	$1
 vitreo	$1
 viveri $1
+vizz	v'its:
 vobbia  $alt
 vocii	votS'i:j
 vodk  $alt
