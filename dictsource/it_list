@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 Jan 07 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2015 Jan 21 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -767,7 +767,8 @@ cocker	$1
 college	k'Ol:edZ
 community	komj'unitI
 compilation	kompil'ES@n
-computer	kompj'ute@-*
+computer	kompj'ute@-* $onlys
+computerizzat	kompjuteRidz:'at
 condor	$1
 container	kont'eInE@-*	$onlys
 controller	$2
@@ -3663,9 +3664,16 @@ copial	$1 $alt
 copriti	$1
 coprimi	$1
 costituitosi	$4
+dacel	$1
+daccene	$1
+dagliel	$1
+dagliene	$1
 dammel	$1
+dammene	$1
 dedical	$1
 digitalo	$1
+digliel	$1
+digliene	$1
 dimmelo	$1
 dirigerl	$2
 dirigersi	$2
