@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 Jan 07 by Chris <llajta2012@gmail.com>
+// Last update: 2015 Jan 21 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -243,6 +243,7 @@
 .group i
 		i	i
 		i (A	j
+	zz) ia (@	ia
 	@) ii (_	'I:j
 	l)	i (A	%i
 	r)	i (A	%i
