@@ -505,6 +505,7 @@ bavar $1
 baver $1
 bayamon $3
 bazar $2
+bazooka	badz'u:ka
 bearn  $alt2
 beatrix $1  $alt2
 becc  $alt2
@@ -514,6 +515,7 @@ belial $3
 belloves  $alt
 belv  $alt2
 belvedere $3  $alt2
+belzebù	beldz,Eb'u
 bemb  $alt
 benemerito	$3
 benessere  $alt
@@ -1138,10 +1140,8 @@ cospett  $alt
 cosseria $2
 cossov $1
 costui	kost'ui
+costumanz	kostum'an|ts
 cot  $alt
-cot  $alt
-cote  $alt
-coti  $alt
 cottim  $alt
 coyote  $alt
 cratere $2
@@ -1999,6 +1999,8 @@ indebit $2  $alt2
 indetraibil	indet@-*a'ibil
 indirett  $alt
 indirizzare	indiRits:'aRe
+indizi	ind'i:tsI
+indizio	iNd'i:tsjo
 indomit $2
 inedia  $alt
 inedit $2
@@ -2162,7 +2164,6 @@ lemn  $alt
 lemure $1  $alt
 lemuri $1  $alt
 lena		$alt2
-lenzuol	leNtsu'Ol
 leo  $alt
 leon  $alt2
 leonzi  $alt
@@ -2310,6 +2311,7 @@ manodoper $3
 mansuet  $alt
 manticor $2
 manul $2
+manzi	mantsi
 maracalagonis  $alt
 maramao $3
 marathon $3
@@ -2589,8 +2591,8 @@ nabucodonosor $4  $alt
 nadir $2
 naftol $2
 naiade $1
+napule	n'a:pul@
 narcolessia $4
-nardo $2  $alt
 nartece  $alt
 nascit $1
 nascost  $alt2
@@ -2784,6 +2786,9 @@ ortopedia $4
 ortotteri  $alt
 ortottic  $alt
 orviet  $alt
+orz	'O*dz
+orzaiol	o@-*dzaj'ol
+orzata	o@-*dz'ata
 orzinuovi  $alt
 orzivecchi  $alt
 osc  $alt
@@ -3012,7 +3017,6 @@ pietraperzia $4
 pietraroj  $alt
 pieve  $alt
 pievepelag $3
-piezoelettric  $alt
 pigolio	$3
 pilade $1
 pileo $1
@@ -3154,6 +3158,7 @@ pover $1
 pozz  $alt2
 pozzangher $2
 pozzol $2
+pranz	p@-*'aNdz
 prassea $1
 prassede  $alt
 prassitele $2
@@ -3560,6 +3565,7 @@ schiribizz	skiRib'its:
 schivenoglia  $alt
 schizofrenia $4
 schizofrenie	skits:of@-*en'i:e
+schizoid	skits'ojd
 schizzati	skits:'ati
 sciabol $1
 sciliar $3
@@ -4090,9 +4096,12 @@ tramoggia  $alt
 transcaucasia $4
 transett  $alt
 transit $1
+transumanz	t@-*ansum'ants
 tranvia $2
 trapan $1
-trapezoedr  $alt
+trapezoedr	t@-*apets'Oed@-*
+trapezoid	t@-*apets'Ojd
+trapezoidal	t@-*apetsoid'al
 trasbord  $alt2
 trascors  $alt2
 tratalias $3
@@ -4348,7 +4357,9 @@ zoofilia $4
 zoppia $2
 zoppie	dzop:'i:e
 zoppol  $alt
+zozz	ts'O:ts:
+zozzon	tsots:'on
 zuccari $1
-zuccher	dz:'U_k:eR
+zuccher	ts;'U_k:eR
 
 

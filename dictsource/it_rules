@@ -198,7 +198,7 @@
 		gg	g:
 		gh	g
 		g (Y	dZ
-		gi (A	dZ   // any vowel, or L01 ?
+		gi (A	dZ
 		gi (a_	dZ'i#  // [i] only if stressed
 		gì (a_	dZ'i#  // [i] only if stressed
 	al) gie (_	dZ'iE
@@ -210,7 +210,7 @@
 		lo) gi (e_	dZ'i#
 	n)	gi (a_	dZ
 		gg (Y	dZ:
-		ggi (A  dZ:  // or L01 ?
+		ggi (A  dZ:
 	@) gger (L04_ =dZ:e@-*  // Pron.s verbs
 	AC) ger (L04_	=dZe@-*
 		_) giura (L07_	dZ'URa
@@ -598,9 +598,9 @@
 		z	ts
 	A) zz (A	ts:
 	_A) z (AC	dz
-		_) z (AC          dz
+	_) z (A	dz
         _)	z (Y	dz
-		z (L01A	dz
+		z (oA	dz
 		_A) zz (A	|dz:
 		CA) zz (arC	dz:
 		@li) zz (A	dz:
@@ -617,6 +617,11 @@
 	stri) zz (A	ts:
 	_sti) zz (A ts:
 	Ci) zz (A	dz:
+	_mar) z (A	ts
+	par) z (A	ts
+	quar) z (A	ts
+	sfar) z (A	ts
+	ar) z (A	dz
 		@) zz (ano_	=ts:
 		i) zza (no_	=dz:a
 		@@) zza (L07_	=dz:a
@@ -628,6 +633,7 @@
 	ziona (L07_	tsi'Ona
 	cra) zia (_	ts'i;a/
 	cra) zie (_	ts'I;e/
+	man) z (A	dz
 	man) zia (_	ts'i;a
 	man) zie (_	ts'i;e
 	me) zz	dz:
@@ -679,7 +685,8 @@ _L16_)	: (_L17D_	_%%E_	// Say time
 
 		á	''a
 		é	''e
-		è	E
+	_) è (_	,E:
+	A) è	''E
 	C) è	''E
 		èi (K	''Ej
 		éi (K	''eI
@@ -694,10 +701,6 @@ _L16_)	: (_L17D_	_%%E_	// Say time
 
 		$	d'ollaRo
 	D) , (D	v'i@-*gola
-		!       _p'untoesklamat'ivo_
-	!)	!
-		?	_p'untointeRogat'ivo_
-	?)	?
         __)  - (_D         meno
         A_)  - (_D        _
         C_)  - (_D        _
