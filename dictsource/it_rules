@@ -24,8 +24,7 @@
 		a	a
 	ai (_	'aj
 		ai (C   aI
-                ao (_N   aU
-                au	a%u
+	au	a|%U
 	@C)	a (_S1q  a     // lookup it_list without suffix
 	@i)	a (_S1q  a     // lookup it_list without suffix
 	C) a (cY_	'a
@@ -51,8 +50,7 @@
 .group à
 		à	''a
 		ài (K   ''aI
-                ào (_N   ''aU
-                àu	''a%u
+                àu	''a|%U
 
 .group b
 		b       b
@@ -134,16 +132,11 @@
 	c)	e (ttA_  E
 		e (tti@	 E
 		e (zzA_  e
-
 		e (r     E
 		e (rsi_N e
-	A)	e (r_	 'E
-
-	_r)	e	 E
-
-//	@)	e (ce_	=e
+	A) e (r_	'E
+	_r) e	E
 	@)	e (ci_	=e
-
 		e (l     E
 	r)	e (m     E
 		e (monA_ 'e
