@@ -86,6 +86,7 @@ agord $1
 agost  $alt2
 agosta		$1
 agrifogli  $alt
+agronomi	$2
 agrosistem  $alt
 aho $2
 ailoche  $alt
@@ -256,6 +257,7 @@ antipatr $2
 antisepsi  $alt
 antisom $3  $alt
 antitesi $2
+antiuomo	anti||U'Omo
 antivari $2
 antoni  $alt
 antonomasia $4
@@ -413,8 +415,8 @@ augure $1
 augusteo	$3
 aulos $3
 aurea	$1
-aureo	$1
 aurei	$1
+aureo	$1
 aureol $3
 ausili  aw2z'ili
 ausilio	aw2z'ilio
@@ -1374,6 +1376,7 @@ ecate $1  $alt
 eccentric  $alt
 ecceter $2  $alt
 ecij $1  $alt2
+economi	$2
 ecosistem  $alt
 ecub $1  $alt
 eczem  $alt
@@ -1398,6 +1401,7 @@ egemonia $4
 egemonie	edZemon'i:e
 egeria $2
 egocentric  $alt
+egoistic	ego'i:stik
 egoistiche	ego'Istike
 egumen $2
 eh  $alt2
@@ -1795,12 +1799,14 @@ gambusia $2
 gamete  $alt
 gandolfi  $alt
 ganglio	g'anglio
+gangliom	gangli'om
 garanzia $3
 gardenia  $alt
 garibaldine	$4
 garofan $2
 garzon $2
 gasdott  $alt2
+gastronom	$2
 gaudenzi  $alt
 gebel  $alt
 gec  $alt
@@ -2079,6 +2085,7 @@ ipotalam $3
 ipotec  $alt
 ipotermia $4
 ipotesi	ip'OtezI
+ippodromi	$2
 ippolit $2
 ippomene $2
 ippopotam $3
@@ -2452,7 +2459,9 @@ microfilm $3
 micronesia $3  $alt
 microspie	mik@-*osp'i:e
 microsporum $2  $alt
+microtelecamer	$5
 microtom $2
+microtom$3
 midoll  $alt2
 miglioria	$3
 migliorie	$3
@@ -2971,6 +2980,7 @@ perimetr $2
 period $2
 peripl $1
 peristasi $2
+perizom	pe*idz'Om
 perlomen  $alt2
 permafrost $1
 permut $1
@@ -3625,6 +3635,7 @@ selvaggine	$3
 semafor $2
 semel  $alt
 semestene $2
+semiautonom	$4
 semibreve  $alt
 semicerchi  $alt2
 semidi $3
@@ -3711,6 +3722,7 @@ sindaci	$1
 sindia $2
 sindone $1
 sindrome $1
+sindromi	$1
 sinedri  $alt
 sinfisi $1
 sinfonie	sinfon'i:e
@@ -4349,6 +4361,7 @@ zet  $alt
 zeugm $1
 zevi  $alt
 ziggurat $1
+zigom	$1
 zigot	$alt
 zigotteri  $alt
 zingar $1
