@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 Jan 21 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2015 feb 10 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -3729,6 +3729,9 @@ guardami	$1
 guardati	$1
 guardaci	$1
 guidaci	$1
+illuminaci	$2
+illuminami	$2
+illuminal	$2
 impostaci	$2
 impostomi	$2
 indirizzati	indiRits:'ati
