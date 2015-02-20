@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 Jan 21 by Chris <llajta2012@gmail.com>
+// Last update: 2015 Feb 14 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -523,6 +523,7 @@
 	scrivi (L04_	sk@-*'i:vI
 	salu (taL04_	sal'U
 	spegner (L04_	sp'en^e@-*
+	re) sister (L04_	z'i:ste@-*
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano

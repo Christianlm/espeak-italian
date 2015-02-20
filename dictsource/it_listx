@@ -213,6 +213,7 @@ aniridia $4
 anisotteri  $alt
 anit $1
 annibale $2
+annid	$2
 anoa  $alt
 anofele $2
 anomalia $4
@@ -1233,6 +1234,7 @@ dentice  $alt
 deposit $2
 depost  $alt2
 derattizzazion	deRat:idz:atsi'on
+derid	$2
 derog $1
 desdemon  $alt
 desi  $alt
@@ -1626,6 +1628,7 @@ farsal $1
 fascett  $alt2
 fascin $1
 fascine	$2
+fastidi	$2
 fatic $2
 fattispecie  $alt
 fauglia $2
@@ -1781,6 +1784,7 @@ funerea	$2
 funeree	$2
 funerei	$2
 funereo	$2
+fungicid	$3
 funivia $3
 funivie	funiv'i:e
 fuorilegge  $alt2
@@ -1817,6 +1821,7 @@ generazione  $alt
 genes  $1 $alt
 geneve  $alt
 geni  $alt
+genocid	$3
 geocentric  $alt
 geode  $alt
 geotermia $4
@@ -1824,6 +1829,7 @@ geov $1
 gerarchia	$3
 gerarchie	dZeRa@-*k'ie
 gergovia  $alt
+germicidi	$3
 germil	$2
 geroglific	dZeRogl'ifik
 geroglifiche	dZeRogl'ifike
@@ -1870,9 +1876,11 @@ glia  gl'i:a
 glicemic	glitS'Emik
 glicemiche	glitS'emike
 glicemie	glitSem'i;e
+gliceridi	glitS'eRidi
 glicerin	glitSe*'in
 glicerofosforic	glitSeRofosf'oRik
 glicerol $3
+glicidi	glitS'idI
 glicin	gl'itSin
 glicine	gl'itSine
 glicolic	glik'olik
@@ -1888,6 +1896,7 @@ glob  $alt
 globicefal $3  $alt
 glossolalia $4
 glottide  $alt
+glucidi	$2
 glucosi  $alt
 glutei	$1
 gluteo $1
@@ -2016,6 +2025,7 @@ inedit $2
 inett  $alt
 infamia	$2
 infamie $2
+infanticidi	$4
 infantil	$3
 infedele  $alt2
 infer $1
@@ -2033,6 +2043,7 @@ inquiet  $alt
 insett  $alt
 insetti  $alt
 insetticid $4
+insidi	$2
 insiem	insI'Em
 insit $1
 insolit $2
@@ -2363,6 +2374,7 @@ massime $1
 matapan $3
 materia $2
 materie	$2
+matricid	$3
 matron  $alt
 mazzaccher $2
 mazzin $2
@@ -2517,6 +2529,7 @@ molestia	$2
 molestie	$2
 mollic $2
 molliche	$2
+molluschicidi	$4
 moloch  $alt
 molochi  $alt
 molotr $1  $alt
@@ -2576,6 +2589,7 @@ mori  $alt2
 moria $2
 morini $1
 morol $2
+moschicidi	$3
 moscov  $alt
 moscovia  $alt
 mose $2  $alt
@@ -2884,6 +2898,7 @@ parallelepiped $5
 parametr $2
 parapendi $4
 parapett  $alt
+parassiticidi	$5
 paratoia  $alt2
 paraurti $3
 paravia $3
@@ -2912,6 +2927,7 @@ pastor  $alt2
 pater $1
 patin $1
 patogenesi $3
+patricidi	$3
 pattin $1
 paulilatin $4
 paur $2
@@ -3675,6 +3691,7 @@ sessile  $alt
 setol	$1
 sette  $alt
 settembre  $alt
+setticidi	$3
 settime $1
 seul $2
 seves $1  $alt
@@ -3897,6 +3914,7 @@ subfebbril	$3
 subito  $1
 suddiacon $2
 suddit $1
+suddivid	$3
 sudest $2
 sudicia	$1
 sudicie	$1

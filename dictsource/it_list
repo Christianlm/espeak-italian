@@ -436,7 +436,7 @@ gli	$u	$nounf $only
 
 // pronouns
 io	$u+ $only
-tu	$u+ $only
+tu	$u+ $verbf $only
 lui	$u+ $only
 lei	$u+ $only
 noi	$u+ $only
@@ -520,7 +520,7 @@ ormai	o@-*m'aI
 perché		$u+ $brk
 pure	$u+
 più	$u+
-se		$u+     // if
+se		$u+ $verbf
 senza	s,entsa
 senza	s'Entsa $atend
 sopra	   $alt2
@@ -1067,6 +1067,7 @@ vodafone	v'odafon
 voilà	_^_FR
 volkswagen	_^_DE
 wafer	v'afe@-*
+walkman	w'Olk||m,En
 wall	_^_EN
 walzer	v'altsE@-*
 water	v'atE@-*
@@ -1226,7 +1227,7 @@ dei	d'E:i	$noun
 deleghe	$1
 dentifrici	$3
 deroghe	$1
-desideri	d,ezid'E:RI	$noun	$only
+desideri	d,ezid'E:RI	$only
 desossicortisol	$6
 detraibil	det@-*a'ibil
 diamin	di'amin
@@ -1693,6 +1694,7 @@ civezzano	$3
 chianciano	$2
 colombano	$3
 conzano	$2
+copenhagen	kopen'agen
 corchiano	$3
 corciano	$2
 cormano	$2
@@ -2420,7 +2422,9 @@ causano	$1
 celebr	$1
 celebrano	$1
 censurano	$2
-chiaccherano	$1
+chiacchier	$1
+chiacchierino	$1
+chiacchierano	$1
 chiamano	$1
 chiamino	$1
 chiudano	$1
@@ -2480,6 +2484,7 @@ contamin	$2
 contemplano	$2
 contemplino	$2
 contenere	$3 $alt2
+contino	$1
 continuano	$2
 continuino	$2
 contraddicano	$3
@@ -2534,7 +2539,17 @@ depositino	$2
 depurano	$2
 derogano	$1
 desider	$2
+desideri	$2 $verb $only
 desiderino	$2
+(la desideri)	ladez'i:deRi
+(lo desideri)	lodez'ideRi
+(mi desideri)	mI||dez'i:deRI
+(ci desideri)	tS,i||dez'I:deRI
+(come desideri)	kome||dez'ideRi
+(cosa desideri)	k'O:za||dez'i:deRI
+(così desideri)	koz'i||_dez'i:deRI
+(quando desideri)	kw2aNdo||dez'i:deRi
+(quindi desideri)	kw2,indi||dez'ideRi
 designano	$2
 destrutturano	$3
 detenere	$3
@@ -2790,6 +2805,7 @@ inglobano	$2	$alt2
 iniziano	$2
 inizino	$2
 innamorano	$3
+innamorino	$3
 inneggino	$2
 inquadrano	$2
 inquietano	$2 $alt
@@ -2842,6 +2858,7 @@ invia	Inv'Ia
 inviano	inv'iano
 inviino	inv'ijno
 invidiano	$2
+invidi	$2
 invii	inv'i:I
 invitano	$2
 invitino	$2
@@ -3115,6 +3132,7 @@ razziano	$1
 razziavano	$3
 reagii	@-*eadZ'i:j
 recano	$1
+recid	$2
 recitano	$1
 recitino	$1
 reclamano	$2
@@ -3134,6 +3152,7 @@ reput	$1
 reputano	$1
 respirano	$2
 restaurano	$2
+restino	$1
 riabbandono	$4
 riabbono	$3 $alt2
 riabbottono	$4
@@ -3468,6 +3487,7 @@ stegol	$1
 stendano	$1
 stermin	$1
 stiano	st'i:ano
+stilano	$1
 stimano	$1
 stimol	$1
 stimolano	$1
@@ -3676,6 +3696,7 @@ aiutal	aj'utal
 aiutami	$2
 aggiornal	$2	$alt2
 alzal	$1
+alzati	$1
 aprigli	$1
 aprimel	$1
 aprimi	$1
