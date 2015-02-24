@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 feb 10 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2015 feb 24 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -716,6 +716,8 @@ beep	b'i:p
 beige b'E:Z
 bestseller	b'Est[_||s'el:e@-*
 bijoux	biZ'u:
+bike	b'aIk
+superbike	supe@-*||b'aIk
 birthday	b'e/:rt[||d,ei
 bitter	$1
 blackout	bl'Ek'aUt
@@ -883,6 +885,7 @@ jaws		dZ'O:z
 jazz		_^_EN
 jeans		dZi:ns
 jocker	$1
+jukebox	dZ'u:kboks
 junior	j'unio@-*
 juniores	j'uni,o@-*s
 juve	j'uve
@@ -895,6 +898,7 @@ layout	_^_en
 leader	lidE@-*
 leadership	l'idE@-*Sip
 league	_^_en
+leasing	l'i:ziN
 line	l'aIn	$only
 live	l'aIv
 login	l'Og||In
@@ -1086,7 +1090,7 @@ yahoo		_^_EN
 yacht	j'Ot[
 youtube	ju:||tj'u:b
 yoghourt	'jogurt
-zoom	dz;'u:m
+zoom	z'u:m
 zoster	$1
 
 rock'n'roll	@-*,Oken@-*'o:l
@@ -1098,6 +1102,9 @@ rock'n'roll	@-*,Oken@-*'o:l
 (wi fi)	w'a/I_||f'a/I
 (week end)	w,i:k'end
 (you tube)	ju:||tj'u:b
+(déjà vu)	deIZa:||v'u:
+(ladies and gentlemen)	l'eIdIz||and||dZ'Ent@lm@n
+(nôtre dame)	noUt@-*'da:m
 
 // Main  Dictionary
 
@@ -1637,6 +1644,7 @@ avezzano	$3
 azerbaijan	a@-*dz,eb,ajdZ'an
 azerbaigian	$5
 azzano	$2
+bangladesh	$1
 barbagia	ba/@-*b'adZa/
 barisciano	$3
 barlettano	$3
@@ -1774,6 +1782,7 @@ liberia	$2
 liverpool	l'ive@-*pul
 lizzano	lits:'ano
 longano	$2
+louisiana	luIzi'a:na
 lungadige	$2
 lugano	$2
 lunano	$2
@@ -1796,6 +1805,7 @@ melissano	$3
 melizzano	$3
 mezzano	medz:'ano
 miami	maj'EmI
+minneapolis	$3
 minucciano	$3
 miscano	$2
 modena	$1
@@ -1970,6 +1980,7 @@ zigano	ts-ig'a/no
 
 agatha	$1
 aida	a'i:da
+alain	al'En $only
 albert	$1 $only
 alejandro	_^_ES
 alessia	$2 $capital
@@ -2016,6 +2027,7 @@ chevalier	_^_FR
 chopin	Sop'EN
 chuck	tS'a/k
 churchill	_^_en
+consoli	$1 $capital $only
 christie	k@-*'istI
 christofer	$1
 christopher	$1
@@ -2103,6 +2115,7 @@ mariapaola	maRIap'aola
 mariapia	$4
 marilyn	m'E:r*ilIN
 marylin	m'ERilin
+marzott	ma@-*dz'Ot:
 mayer	$1
 (mc laren)	m,Ek_l'aRen
 michael	m'aIkOl
@@ -2129,6 +2142,7 @@ peugeot	p,EZ'o
 pierangel	$2
 piernicola	$3
 pierpaol	pje@-*p'aol
+piscopo	$1
 poirot	puaR'o
 potter	$1	$onlys
 presley	p@-*'e:zleI
@@ -2157,6 +2171,7 @@ sophia	sOf'ia
 spencer	sp'ense@-*
 stanley	$1
 stefano	$1
+steve	_^_en $only
 steven	st'iven	$onlys
 thatcher	t'a/tSe@-*
 tamara	$2
@@ -2474,6 +2489,7 @@ consacrano	$2
 consegnano	$2
 conseguano	$2
 consider	$2
+considerino	$2
 consigliano	$2
 consol	$2
 consolano	$2
@@ -3281,6 +3297,7 @@ saturano	$1
 saziano	$1
 sbagliano	$1
 sbaglino	$1
+sbancano	$1
 sbarbano	$1
 sbarrano	$1
 sbircino	$1

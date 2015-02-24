@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 Feb 14 by Chris <llajta2012@gmail.com>
+// Last update: 2015 Feb 24 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -436,15 +436,16 @@
 		o (ttol     O
 		o (zA       O
 	l) oqui (A	Okwj
-	osano (_	'ozano
+	C) orda (L05_	'O@-*da   // pron. verbs
 		C) onder (L04_	'ondE@-*
 		over (L04_	'ovE@-*
 	d) over (L04_	Ov'E@-*
+	m) order (L04_	'O:@-*de@-*
 	ovano (_ 'ovano   // verbs
-	o (CCano_	'O   // verbs
-	o (CCicano_	'O   //verbs
-	ogliere (_	'Ol^eRe   // verbs
-	C) orda (L05_	'O@-*da   // pron. verbs
+	osano (_	'ozano
+	o (CCano_	'O
+	o (CCicano_	'O
+	ogliere (_	'Ol^eRe
 	@) ordin (A_	'o@-*din
 
 .group p
@@ -577,6 +578,7 @@
 	@) vo (cano_	=vo
 	in) via (toL04_	vI'a
 	in) via (L07_	v'ia
+	_a) vvisa (L07_	v:'iza
 
 .group w
 		w	w2
@@ -610,6 +612,8 @@
 	_spri) zz (A	ts:
 	stri) zz (A	ts:
 	_sti) zz (A ts:
+	appre) zza (rL04_	ts:a
+	appre) zza (L07_	=tsa
 	Ci) zz (A	dz:
 	_mar) z (A	ts
 	par) z (A	ts
