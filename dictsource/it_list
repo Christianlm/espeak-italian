@@ -975,6 +975,7 @@ recorder	$2	$onlys
 reporter	$2	$onlys
 reportage	@-*epo@-*t'a:Z
 residence	@-*'Ezidens	$onlys
+retriever	@-*et@-*'i:ve@-*
 revolver	$2 $onlys
 rockefeller	@-*Okf'el:e@-*
 rocker	$1
@@ -1093,6 +1094,8 @@ yoghourt	'jogurt
 zoom	z'u:m
 zoster	$1
 
+com'era	kom'E:Ra
+cos'hai	koz'a:i
 rock'n'roll	@-*,Oken@-*'o:l
 (call center)	k'ol||s'entE@-*
 (e speak)		isp'ik:
@@ -2084,6 +2087,7 @@ james	_^_EN
 jane	_^_EN
 jennifer	$1
 jole	j'Ole
+jolie	Zol'i $only
 jonathan	$1
 jones	dZ'O:ns
 josé	_^_ES
@@ -2727,6 +2731,11 @@ gioirono	dZo'iRono
 gioiscono	dZo'iskono
 gioissimo	dZo'i:s:imo
 gioivano	dZo'ivano
+gioimmo	dZo'i:m:o
+gioirne	dZo'i:@-*ne
+gioissero	$2
+gioit	dZo'i:t
+gioiv	dZo'i:v
 girano	$1
 giudicano	$1
 giudichino	$1
@@ -3306,7 +3315,8 @@ sbraitano	$1
 sbriciolano	$1
 sbrighino	$1
 sbrodol	$1
-sbronzai	zb@-*oNdz'aI
+sbronzati	$1
+sbronzino	$1
 sbucano	$1
 sbullono	$2
 scadano	$1
