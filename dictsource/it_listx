@@ -152,7 +152,10 @@ amalgam $2
 amarcord $3
 amazzone $2
 amazzoni $2
-ambit $1
+ambita	$2
+ambite	$2
+ambiti	$1
+ambito	'ambito
 ambliopia $4
 ambrogi  $alt
 ambrosi  $alt
@@ -468,6 +471,7 @@ bagnoregi  $alt
 bajazet $3  $alt2
 baka $2
 balaam $1
+balaustr	$3
 balen  $alt2
 balenotter  $alt
 bali $2
@@ -2910,6 +2914,7 @@ parere $2  $alt2
 parghelia $3
 paria $2
 parigin	$3
+parimerit	paRI||m'ERit
 parnassos $3
 parodi  $2	$alt
 parodia $3
@@ -3948,6 +3953,7 @@ talled $2
 tallofite $2
 talor  $alt2
 tamar $1
+tamburellio	$4
 tamerice $3
 tammar $1
 tanagr $1

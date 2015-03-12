@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 feb 24 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2015 march 12 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -668,25 +668,7 @@ avremmo	$u+	$verbf
 avreste	$u+
 avrebbero	$u+	$alt	$verbf
 
-// to do/make
-fare	$u+
-faccio	$u+
-facciamo	$u+
-fai	f'aI
-fate	$u+
-fa	$u+
-fanno	$u1+
-
-facevo	$u2+
-facevi	$u2+
-faceva	$u2+
-facevamo	$3
-facevate	$3
-fecero	$1
-
-// Letters
-// If a letter has a "word" pronunciation which is different from its
-// "letter" name, then include the letter name here
+// Letters at end
 
 a	a:  $atend
 e       e:  $atend
@@ -789,6 +771,7 @@ cowboy	k'aw||b'oI
 cracker	$1
 croissant	k@-*uas:'an
 club	kl'a/:b $onlys
+cult	k'a/:lt	$onlys
 database	datab'Eiz
 deejay		_^_EN
 default	_^_EN
@@ -1605,6 +1588,9 @@ l'ancora	l'ankoRa
 quand'è	kw2aNd'E
 senz'altro	sents'a:lt@-*o
 nessun'altra	nes:un'alt@-*a
+ultim'ora	ultim'ORa
+trent'anni	t@-*ent'a:n:I
+vent'anni	vent'an:I
 
 (in balia)	in||bal'i:a
 (principi attivi)	p@-*intS'i:pI||at:'ivI
@@ -1654,6 +1640,7 @@ barlettano	$3
 basciano	$2
 bassano	$2
 bazzano	$2
+beirut	b'Ei@-*ut
 beneventano	$4
 bergamo	$1
 beverly	$1
@@ -1774,6 +1761,7 @@ jonio	j'Onio
 jugoslav	jugozl'a/v
 jugoslavia	jugozl'a/via
 kabul	$2
+kazakistan	$2
 kuwait	kw2'E:it[
 labrador	$1
 langarolo	$3	$alt2
@@ -1988,6 +1976,7 @@ albert	$1 $only
 alejandro	_^_ES
 alessia	$2 $capital
 alexander	$3
+allende	al^'Ende
 alzeimer	alts'aime@-*
 alzheimer	alts'aIme@-*
 amazon	'amazOn $only
@@ -2071,6 +2060,7 @@ girolamo	$2
 gorbaciov	$1
 gray	g@-*'eI
 halen	'alen
+heidi	'aIdi
 harry	hE:R*I
 harrison	h'ER*izon
 hisham	hiS'am
@@ -2079,6 +2069,7 @@ igor	$1
 ingrassia	$3
 ipocrit	$2 $alt
 ippocrate	$2
+isabel	$3
 isaac	'aIza:k
 ivano	$2
 jack	_^_EN
@@ -2117,6 +2108,7 @@ mariah	$2
 mariangel	$3
 mariapaola	maRIap'aola
 mariapia	$4
+meola	$1
 marilyn	m'E:r*ilIN
 marylin	m'ERilin
 marzott	ma@-*dz'Ot:
@@ -2142,6 +2134,7 @@ parkinson	$1
 pascal	$2
 paul	p'O:l	$only
 peggy	p'Eg:I
+peter	$1 $onlys
 peugeot	p,EZ'o
 pierangel	$2
 piernicola	$3
@@ -2184,6 +2177,7 @@ tiffany	$1
 timoteo	$2
 troisi	t@-*o'izI
 tyson	t'aIzon
+tracy	t@-*'E:sI
 wagner	v'agnE@-*
 vainer	v'aIne@-*	$only
 valeria	$2 $alt2
@@ -2333,6 +2327,8 @@ annebbiano	$2
 annod	$2
 annoiano	$2
 annotano	$2
+annoverino	$2 $alt2
+annover	$2 $alt2
 annullano	$2
 annuncino	$2
 annunziano	$2
@@ -2429,6 +2425,7 @@ calmano	$1
 cambiano	$1
 cammin	$2
 camminano	$2
+camminino	$2
 cancellano	$2
 candidano	$1
 cantano	$1
@@ -2461,6 +2458,7 @@ collocano	$1 $alt
 collochi	$1	$alt
 comandano	$2
 comemor	kom'E:m,oR
+comincino	$2
 compaiano	$2
 competano	$2
 compiacere	$3
@@ -2685,10 +2683,12 @@ evit	$1
 evitano	$1
 evoc	$1
 evochi	$1
+fai	f'a:i
 fantasticano	$2
 faticano	$2
 fatturano	$2
 favoreggiano	$3
+fecero	$1 $alt
 fermano	$1
 fiatano	$1
 fidanzano	$2
@@ -2747,6 +2747,14 @@ graffiano	$1
 grattugia	$2
 gravitano	$1
 guadagnano	$2
+guaimmo	gw2a'i:m:o
+guaire	gw2a'i:Re
+guaiss	gw2a'i:s:
+guaissero	gw2a'i:s:eRo
+guaissimo	gw2a'i:s:imo
+guaist	gw2a'i:st
+guait	gw2a'i:t
+guaiv	gw2a'i:v
 guairono	gwa'iRono
 guaiscano	gw2a'i:skano
 guaivano	gwa'ivano
@@ -2766,6 +2774,8 @@ immigrano	$2
 imparano	$2
 imparino	$2
 impegnano	$2 $alt
+impuntano	$2
+impuntino	$2
 impegnino	$2
 impersono	$3
 imperterrit	$3
@@ -2778,6 +2788,7 @@ impregnano	$2
 improvvisano	$3
 impugnano	$2
 inabissino	$3
+inalber	$2
 inalzano	$2
 inaugur	in'aw2gu@-*
 inaugurano	$2

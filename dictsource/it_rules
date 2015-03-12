@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 Feb 24 by Chris <llajta2012@gmail.com>
+// Last update: 2015 march  12 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -219,14 +219,15 @@
 	a) gn (A_	n^:
 		gu (A   gw
 	guono (_	=gw2ono   / verbs
-	o) gnano (_	=n^ano   // verbs
+	o) gnano (_	=n^ano
 	A) gnano (_	n^'ano   // exceptions
 	@) ginano(_	=dZinano   // verbs
-		gano (_	=gano   // verbs
+		gano (_	=gano
 	ggano (_	=g:a/no 
-	giono (_	dZ'Ono   // verbs
-	n) guere (_	=gweRe   // verbs
+	giono (_	dZ'Ono
+	n) guere (_	=gweRe
 	@) graf (A_	=g@-*af
+	guai (scA_	gw2a'i:
 
 .group h
 		h
@@ -455,6 +456,7 @@
 	@m)	p (erY_	=p
 	porta (L05_	p'O@-*ta  // Pron.s verbs
 	pie (gaL05_	pI'e
+	prendi (L04_	p@-*'E:ndi
 	pie (galA_	pI'e
 	tera) pi (A_	p'i
 	tro) pi (A_	p'i
@@ -613,6 +615,7 @@
 	stri) zz (A	ts:
 	_sti) zz (A ts:
 	appre) zza (rL04_	ts:a
+	care) zz (A	ts:
 	appre) zza (L07_	=tsa
 	Ci) zz (A	dz:
 	_mar) z (A	ts
