@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 march  12 by Chris <llajta2012@gmail.com>
+// Last update: 2015 march  20 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -119,6 +119,7 @@
 	r) ei (_	'Ei
 	@d) ei (_	'eI
 	@t) ei (_	'eI
+	@) ey (_	=eI
 	@C)	e (_S1q  e     // lookup it_list without suffix
 		e (C_    E
 		e (A     E
@@ -548,6 +549,7 @@
 	@a) to (L06_	=to
 	intima) to (L04_	=to
 	ba) tter (L04_	=t:e@-*
+	tratta (L07	t@-*'at:a
 	a) ta (si_	=ta
 	_) tutt' (P5t	tut:
 

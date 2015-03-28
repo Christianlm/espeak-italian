@@ -507,6 +507,7 @@ batteri $2
 battezzare	bat:edz:'aRe
 battibalen  $alt2
 batticuore  $alt
+battigia	$2
 battit $1
 baul	ba'ul
 baunei baUn'eI:
@@ -683,6 +684,12 @@ bulgar $1
 bulgari $1
 bulgaria $3
 buonarroti  $alt
+buon	bw2,On	$only
+buona	bu'Ona
+buone	bu'One
+buoni	bu'Oni
+buono	bu'Ono
+buonasera	bw2,Ona_|s'eRa
 burber $1
 buscemi  $alt
 butanol $3
@@ -914,6 +921,7 @@ chambery  $alt2
 cheliceri $2
 cheope $1
 cheradi $1
+chiacchierio	$3
 chiavari $1
 chichibi $3
 chies  $alt
@@ -1722,6 +1730,7 @@ fol  $alt
 folag $1
 folgaria $3
 folgore $1
+folgorio	$3
 follia $2
 fomori $1
 fon  $alt
@@ -1762,7 +1771,10 @@ fotolisi $2
 fotoritocc  $alt2
 fotosintesi $3
 fovea $1  $alt
+fradicia	$1
+fradicio	$1
 fragol $1
+fragorio	$3
 franchigia $2
 franciacort  $alt2
 francoboll  $alt2
@@ -1932,6 +1944,7 @@ gottasecc  $alt2
 gozz  $alt2
 gradoli $1
 grafem  $alt
+grandigia	$2
 granollers $3  $alt2
 gratteri $2
 gratuit	g@-*at'u:it
@@ -2036,6 +2049,8 @@ infer $1
 inferi $1
 infett  $alt
 infinitesim  $alt
+infradici	$2
+insudici	$2
 ingenua  $alt
 ingenuo  $alt
 ingobbi  $alt
@@ -2177,6 +2192,7 @@ laurei	$1
 laurenzi  $alt
 laureo	$1
 lauria $3
+lavorio	$3
 lazzar l'adz:aR
 lecc  $alt2
 leccacul	$3
@@ -2251,6 +2267,7 @@ lodz  $alt2
 log  $alt
 loggia  $alt
 logli  $alt
+logorio	$3
 lol  $alt
 lombardia $3
 long  $alt
@@ -2555,6 +2572,7 @@ mongoli  $alt
 mongoz  $alt
 monil	$2
 monit $1
+monitorio	$4
 monoalber $3
 monocotiledoni $5  $alt
 monodia $3
@@ -2593,6 +2611,7 @@ morfem  $alt
 mori  $alt2
 moria $2
 morini $1
+mormorio	$3
 morol $2
 moschicidi	$3
 moscov  $alt
@@ -2638,7 +2657,7 @@ ndrangheta	$1
 neb  $alt
 nebul  $alt2
 necchi  $alt
-necrologi  $3  $alt
+necrologi  $3  $alt $only
 necrologio	$alt
 necton  $alt
 negligent	neglidZ'ent
@@ -2697,7 +2716,7 @@ nomin $1
 none  $alt
 nontiscordardime	non||ti||sko@-*d'a@-*||di||m'e
 normandia $3
-norvegia	$2 $alt2
+norvegia	no*v'e:dZa
 nosocomi  $alt
 nostoi $1  $alt2
 not  $alt
@@ -2836,6 +2855,7 @@ osset  $alt
 ossia $2
 ossidoreduttasi $1
 ossidril	os:id@-*'il
+ossimor	$2
 osteogenesi $4
 ostia	$1
 ostie	$1
@@ -2892,6 +2912,7 @@ pantalon $3
 paol $1
 papaver $2
 paper $1
+pappagorgia	$3
 parabit $2
 parabol $2
 parabord  $alt2
@@ -3053,6 +3074,7 @@ pietraperzia $4
 pietraroj  $alt
 pieve  $alt
 pievepelag $3
+pigiapigia	$3
 pigolio	$3
 pilade $1
 pileo $1
@@ -3085,6 +3107,7 @@ pizzard	pits:'a@-*d
 pizzicagnola	$3
 placeb  $alt
 placit $1
+plagia	$1
 planargia $2
 planimetr $2
 plantagenet  $alt
@@ -3154,6 +3177,7 @@ pollic  $alt
 pollin $1  $alt
 polline	$1 $alt
 poltroncine	$3
+polverio	$3
 pomice  $alt2
 ponce  $alt
 pontassieve  $alt
@@ -3317,6 +3341,7 @@ quadrupol $3
 qualcos  $alt
 qualor  $alt2
 qualsivoglia  $alt
+qualsivogliano	$3 $alt
 quantomen  $alt2
 quaresim  $alt2
 quartirol $3
@@ -3418,6 +3443,7 @@ ricerc  $alt2
 ricevitoria	$5
 ricevitorie	$5
 ricin $1
+ricordini	$3
 ricors  $alt2
 ricover $2
 ridolfi  $alt
@@ -3479,8 +3505,7 @@ rombicosidodecaedr  $alt
 rombicubottaedr  $alt
 romboedr  $alt
 rompiscatole $3
-rondo $2  $alt
-ronzi $2
+rondini	$1
 ropaloceri $3
 rore  $alt
 ros  $alt
@@ -3494,9 +3519,7 @@ rosolie	$3
 rosolio	$3
 rosp  $alt
 rospigliosi  $alt2
-ross  $alt2
-ross  $alt2
-rossi  $alt2
+ross	$alt2
 rot  $alt
 rotari $1
 rotea	$1
@@ -3514,6 +3537,7 @@ rozz  $alt2
 rubel $2
 rubric $2
 rufin $1
+rumorio	$3
 ruot  $alt
 ruoti  $alt
 ruteni  $alt
@@ -3527,14 +3551,12 @@ sacha $2
 sacrilegi  $alt
 sagam $1
 sagom $1
-sake $2  $alt
+sake	sa-k'e
 salam $2
 salemi  $alt
 saliscendi  $alt2
 salmodia $3
-salo $2  $alt
 salome $3  $alt
-saludeci  $alt
 salvacondott  $alt2
 salvadoregn  $alt
 samar $1
@@ -3575,6 +3597,7 @@ satur $1
 savoc $1
 savorgnan $3
 sbalzellio	$3
+sbambagia	$2
 sbattezzare	zbat:edz:'aRe
 sbocc  $alt2
 scaliger $2
@@ -3602,6 +3625,7 @@ schiribizz	skiRib'its:
 schivenoglia  $alt
 schizofrenia $4
 schizofrenie	skits:of@-*en'i:e
+schizoid	skits'O:jd
 schizoid	skits'ojd
 schizzati	skits:'ati
 sciabol $1
@@ -3613,6 +3637,7 @@ scodinzolio	$4
 scogli  $alt
 scogliere	$2  $alt
 scol  $alt2
+scolopendrio	$4
 scopa	$alt2
 scorci  $alt2
 scorciatoia  $alt2
@@ -3662,7 +3687,6 @@ semestene $2
 semiautonom	$4
 semibreve  $alt
 semicerchi  $alt2
-semidi $3
 semin $1  $alt2
 semini	$2 $noun
 semiopac	semIop'ak
@@ -3672,11 +3696,8 @@ sempre  $alt
 sempreverde  $alt2
 sen  $alt2
 seneghe $1  $alt
-seni  $alt
 senil	$2
-senior  $alt
-senior $1
-seniore  $alt
+senior	$1 $alt
 sennacherib $4
 sennori $1  $alt
 senoni $1  $alt
@@ -3684,7 +3705,8 @@ sepri  $alt
 sepsi  $alt
 sequals $2
 sequani $1  $alt
-sera		$alt2
+sera	$alt2
+sere	$alt2
 seren  $alt2
 seriol $2
 serval $2
@@ -3706,11 +3728,11 @@ seves $1  $alt
 sevres  $alt
 sezze $2  $alt
 sfacteria $2
-sfarfalli $3
 sfavillio	$3
 sfintere $2
 sfoggi  $alt
 sfoglia  $alt
+sfolgorio	$3
 sfregi  $alt
 sfrigolio	$3
 sgocciolio	$3
@@ -3730,8 +3752,6 @@ signoril	$3
 silenzi  $alt
 silesia $2  $alt
 sillab $1
-siluri $1
-simbionte  $alt2
 simet  $alt
 simia $1
 simonia $3
@@ -3762,7 +3782,6 @@ sintom $1
 sintonia $3
 sintonie	sinton'i:e
 sinuess  $alt
-sio $2
 sion $2
 sipont  $alt
 sirtori $1
@@ -3851,6 +3870,7 @@ specol  $alt
 speculum $1
 speot  $alt
 spermicid $3
+sperperio	$3
 spessimetr $2
 spettr  $alt
 spettri  $alt
@@ -3867,6 +3887,7 @@ spleni  $alt
 splenomegalia $5
 spogli  $alt
 spoglia  $alt
+spolverio	$3
 sporofit $2
 spos  $alt
 spotorn  $alt2
@@ -3939,6 +3960,8 @@ suppost  $alt2
 supremazia $4
 supremazie	sup@-*emats'ie
 surrene  $alt2
+sussurrio	$3
+susurrio	$3
 sventolio	$3
 svevia  $alt
 tabi $2
@@ -4116,6 +4139,7 @@ tornei	to@-*n'E:I
 torni  $alt2
 tornol  $alt2
 torped  $alt
+torpedini	$2
 torrile	$2
 tors  $alt2
 tortor $1  $alt2
@@ -4173,8 +4197,8 @@ trienni  $alt
 trifogli  $alt
 trifor $1
 trigemin $2
-triglif $1
 trigliceridi	t@-*iglitS'ERidI
+triglif $1
 trimer $1
 trimetr $1
 trinitapoli $3
@@ -4329,6 +4353,7 @@ vinil	$2
 vinov  $alt
 viper $1
 viril	$2
+viscera	$1
 viscontei	$2 $alt
 visigoti  $alt
 visir $2

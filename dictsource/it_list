@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 march 12 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2015 march 27 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -699,7 +699,6 @@ beige b'E:Z
 bestseller	b'Est[_||s'el:e@-*
 bijoux	biZ'u:
 bike	b'aIk
-superbike	supe@-*||b'aIk
 birthday	b'e/:rt[||d,ei
 bitter	$1
 blackout	bl'Ek'aUt
@@ -726,6 +725,7 @@ bye	_^_EN
 byte	_^_EN
 camper	$1
 caterpillar	$1
+carter	$1 $only
 cellophan	tS'e:lofan
 cellophane	tS'e:lofan
 center	s'EntE@-*	$onlys
@@ -784,6 +784,7 @@ disneyland	$1
 display	displ'ei
 device	dIv'aIs
 doppler	$1
+down	d'a/:w2n
 download	d'a/:w2nl,o:d
 drive	_^_EN
 driver	_^_EN
@@ -867,7 +868,8 @@ jaguar	$1
 jaws		dZ'O:z
 jazz		_^_EN
 jeans		dZi:ns
-jocker	$1
+jockey	dZ'OkeI
+jocker	dZ'Oke@-*
 jukebox	dZ'u:kboks
 junior	j'unio@-*
 juniores	j'uni,o@-*s
@@ -903,6 +905,7 @@ marketing	$1
 master	$1
 melody	m'E:l@di
 messenger	$1
+microchip	mik@-*o||tS'ip
 microsoft		m'aIk@-*Osoft
 miller	$1	$only
 misery	$1
@@ -978,7 +981,7 @@ scotch	sk'OtS
 screen	sk@-*'i:n
 screenreader	sk@-*'i:n||@-*'i:de@-*
 security	sikI'URitI
-seller	$1 $onlys
+seller	$1 $alt2 $onlys
 server	$1	$onlys
 service	s'E@-*vis	$onlys
 setter	$1	$onlys
@@ -1000,11 +1003,14 @@ smiley	_^_EN
 snack		_^_EN
 software	s'Oft[_we@-*
 sonar	$1	$only
+stage	st'EidZ $onlys
 standby	st'End||b'aI
 station	st'ESon	$only
 stalking	st'O:lkiN
 streaming	_^_EN
 street	_^_EN
+superbike	supe@-*||b'aIk
+suspense	s@sp'a/:ns $only
 souvenir	suvEn'i@-*
 spanish		_^_EN
 speaker		_^_EN
@@ -1091,6 +1097,7 @@ rock'n'roll	@-*,Oken@-*'o:l
 (déjà vu)	deIZa:||v'u:
 (ladies and gentlemen)	l'eIdIz||and||dZ'Ent@lm@n
 (nôtre dame)	noUt@-*'da:m
+(question time)	kw2'estiont'aIm
 
 // Main  Dictionary
 
@@ -1172,7 +1179,6 @@ bovino	$2
 bracciol	$2
 bronz	b@-*'ondz
 bufere	$2
-buon	bu'on	$u+
 burocrat	$2
 cadaveri	$2
 calorifici	$3
@@ -1514,7 +1520,6 @@ scrupol	$1
 scuolabus	$4
 scurril	$2
 semitono	$3
-sere	$alt2
 seria	$1 $alt2
 serie	$1
 severe	$2
@@ -1600,9 +1605,13 @@ ciao	tS'ao:_
 (ciao a)	tS'ao||_|,a_|
 (un turbine)	un||_t'u@-*bine
 (gli auguri)	l^jaUg'u:RI
-(pro	capite)	p@-*ok'a:pIte
+(pro capite)	p@-*ok'a:pIte
 (droghe leggere)	d@-*'O:ge||ledZ:'ERe
 (tutto spiano)	t'ut:o||spj'ano
+(più ambita)	pj,u||amb'ita
+(più ambite)	pi,u||amb'ite
+(più ambiti)	pi,u||amb'iti
+(più ambito)	pi,uamb'ito
 
 //  countries, locations and languages
 
@@ -1661,7 +1670,8 @@ bruzzano	$2
 bucarest	$1
 bucciano	$2
 bulgare	$1
-cagliari	k:'al^,a/RI
+düsseldorf	$1
+cagliari	k'a:l^,a/RI
 calestano	$3
 calizzano	kalits:'ano
 calvizzano	$3
@@ -1987,6 +1997,7 @@ anderson	$1
 andromeda	$2
 anita	$2
 annamaria	$4
+annapaola	$3
 antioc	ant'iok
 antony	'E:ntonI
 armida	$2
@@ -1997,6 +2008,7 @@ augias	a'u:dZas
 bardot	ba@-*d'o
 baudelaire	bOdl'E@-*
 beatle	b'i:tol
+Beethoven	be:t'o:ven
 bergomi	$1
 bettega	$1 $alt
 brandon	b@-*'Endon
@@ -2005,6 +2017,7 @@ brigitte	b@-*iZ'it[
 bruce	b@-*'Us $only
 buffon	$2 $only
 caino	ka'i:nO
+caligola	$2
 camilleri	$3
 carey	_^_en
 carmel	$2
@@ -2072,10 +2085,11 @@ ippocrate	$2
 isabel	$3
 isaac	'aIza:k
 ivano	$2
-jack	_^_EN
+jack	dZ'E:k
 jackson	_^_EN
 james	_^_EN
 jane	_^_EN
+jarno	j'a:@-*no
 jennifer	$1
 jole	j'Ole
 jolie	Zol'i $only
@@ -2097,6 +2111,7 @@ lionel	l'aj,One@-*	$onlys
 lucía	_^_ES
 luciano	$2
 ludovic	$3
+Ludwig	l'u:dvIc
 luigi	lu'i:dZI
 luigia	lU'i:dZa
 manolo	ma/n'Olo
@@ -2113,7 +2128,9 @@ marilyn	m'E:r*ilIN
 marylin	m'ERilin
 marzott	ma@-*dz'Ot:
 mayer	$1
-(mc laren)	m,Ek_l'aRen
+(mc donald's)	m,ek_d'Onalds
+(mc laren)	m,ek_l'aRen
+(mc cartney)	m,Ekk'a@-*tneI
 michael	m'aIkOl
 michelangel	$3
 michelle	m,iS'el	$only
@@ -2238,6 +2255,7 @@ accadano	$2
 accadere	$3	$alt2 
 accampano	$2
 accecano	$2
+acciecano	$2
 accechino	$2
 accelerano	atS:'E:l,eRano
 acceler	atS:'E:l,ER
@@ -2282,6 +2300,7 @@ affaticano	$3
 affermano	$2
 affermino	$2
 afferrano	$2
+affiancano	$2
 affid	$2
 affil	$2
 affoghino	$2
@@ -2291,6 +2310,7 @@ agevolano	$2
 agevolino	$2
 aggiornino	$2
 aggirano	$2
+aggradano	$2
 agit	$1
 agitano	$1
 agite	$2
@@ -2309,6 +2329,7 @@ allenano	$alt
 allenino	$2
 allertano	$2
 alleviano	$2
+allineano	$2
 alloggiano	$2
 alloggino	$2
 allontanino	$3
@@ -2408,9 +2429,11 @@ basano	$1
 bastono	$2
 bendano	$1
 benedic	$3
+benedicano	$3
 boccino	$1
 boicottino	$3
 bombardano	$2
+brahmano	$1
 brancolano	$1
 brillano	$1
 brindano	$1
@@ -2523,6 +2546,7 @@ creino	$1
 cremano	$1
 crepano	$1
 criticano	$1
+cuccano	$1
 cullano	$1
 curano	$1
 dai	d'a:i $atend
@@ -2597,8 +2621,10 @@ discrimin	$2
 discutano	$2
 disdegnano	$2
 disdic	$2
+disdicano	$2
 disegnano	$2
 disertano	$2
+disfano	$1
 disintegr	$2
 disonorano	$3
 dispensano	$2
@@ -2728,6 +2754,7 @@ giacere	$2
 giocano	$1
 gioire	dZo'iRE
 gioirono	dZo'iRono
+gioiscano	dZo'i:skano
 gioiscono	dZo'iskono
 gioissimo	dZo'i:s:imo
 gioivano	dZo'ivano
@@ -2797,6 +2824,7 @@ incamminano	$3
 incantano	$2
 incaricano	$2
 incartono	$3
+incartolano	$3
 incastrano	$2
 incastrino	$2
 incazzino	$2
@@ -2826,6 +2854,7 @@ indirizzano	indiR'its:ano
 indirizzino	$3
 individuano	$3
 indossino	$2
+inducano	$2
 indugia	$2
 inequivoc	$3
 infettino	$2
@@ -2863,6 +2892,7 @@ intarsiano	$2
 integrano	$1
 integrino	$1
 intentino	$2
+interdicano	$3
 interpellano	$3
 interpret	$2
 interpretano	$2
@@ -2883,6 +2913,7 @@ intravidero	$3
 intravid	$3
 intreccino	$2
 intregnano	$2
+introducano	$3
 intuito	intu'i:to	$verb
 invaginano	$3
 invalidano	$2
@@ -3172,6 +3203,7 @@ recid	$2
 recitano	$1
 recitino	$1
 reclamano	$2
+recludano	$2
 reclutano	$2
 recuper	$2
 regalano	$2
@@ -3193,6 +3225,7 @@ riabbandono	$4
 riabbono	$3 $alt2
 riabbottono	$4
 riabbraccino	$3
+riabbiano	$2
 riabilita	$3
 riabituano	$3
 riaccompagnano	$4
@@ -3223,7 +3256,9 @@ ricompensano	$3
 ricompil	$3
 riconcili	$3
 riconciliano	$3
+riconducano	$3
 riconsegnano	$3
+ricredano	$2
 ricreino	$2
 ricucii	@-*ikutS'i:j
 ridigit	$2
@@ -3231,6 +3266,7 @@ ridisegnano	$3
 riducano	$2
 rientrano	$2
 rientrino	$2
+riempiano	$2
 rifil	$2
 rifilano	$2
 rifiutano	$2
@@ -3248,6 +3284,8 @@ rimanere	$3
 rimbalzano	$2
 rimediano	$2
 rimpatria	$2
+rimugin	$2
+rimuginino	$2
 rinavig	$2
 rinavigano	$2
 rinforzino	$2
@@ -3266,6 +3304,7 @@ ripensano	$2
 ripetano	$2
 riposino	$2 $verb
 riprendano	$2
+riproducano	$3
 ripudiano	$2
 ripugnano	$2
 risaltano	$2
@@ -3318,6 +3357,7 @@ saziano	$1
 sbagliano	$1
 sbaglino	$1
 sbancano	$1
+sbandierano	$2
 sbarbano	$1
 sbarrano	$1
 sbircino	$1
@@ -3384,6 +3424,7 @@ scusino	$1
 sdegnano	$1
 sdraiano	$1
 seccano	$1
+seducano	$2
 segnalano	$2
 segnano	$1 $alt
 seguit	segw'it $verb
@@ -3429,6 +3470,7 @@ sgraffignano	$2
 sgrassino	$1
 sgretol	$1
 siano	s'i:ano
+siedano	$1
 sigillano	$2
 siglano	$1
 siglino	s'iglino
@@ -3451,6 +3493,9 @@ soddisfino	$2
 sodomizzino	$3
 soffiano	$1
 soffocano	$1
+soffoc	$1 $alt
+soffochi	$1 $alt
+soffochino	$1 $alt
 soffrano	$1
 sogghignano	$2
 soggiacere	$3
@@ -3464,6 +3509,7 @@ somministrano	$3
 soprannomino	$3
 soprassedere	$4
 soprassegnano	$3
+soprassiedano	$3
 sorpassino	$2
 sorrid	$2
 sorteggino	$2
@@ -3474,6 +3520,7 @@ sostenei	$3 $alt2
 sottolineano	$3
 sottolineino	$3
 sottoposte	$3
+sottostiano	sot:ost'i:ano
 sottostim	$3
 sottovalut	$3
 sottovalutano	$3
@@ -3484,6 +3531,7 @@ sparecchino	$2
 sparino	$1
 sparlano	$1
 sparlino	$1
+spaziano	$1
 spassino	$1
 speculano	$1
 spellano	$1
@@ -3624,6 +3672,7 @@ trascendano	$2
 trascurano	$2
 traslocano	$2
 trasformino	$2
+traspaiano	$2
 trattenere	$3
 traumatizzino	$4
 travasano	$2
@@ -3707,6 +3756,7 @@ zuccherano	$1
 (capita a)	k'apita/||a
 (capita che)	k'a:pita||ke
 (capita di)	k'a:pita||_d'I
+(capita spesso)	k'apita||sp'es:o
 (che capita)	ke||k'a:pita
 (dove capita)	dove||k'apita
 (non capita)	non||k'a:pita
