@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2015 December 10 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 january 12 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -66,12 +66,13 @@ _rng	an'ello
 _stk	baR*'a:ta
 _tld	kon||t'ilde
 _smc	m,ajuskol'e:t:o
+_rev	inv'E:@-*sa
 _tur	@-*oveS'a:ta
 _bar	baR*'a:ta
 _rfx	@-*et@-*ofl'E:s:a
-_hok	untSin'ata
 _crl	k'u@-*lI
-_rev	inv'E:@-*sa
+_hok	untSin'ata
+
 
 // character names
 
@@ -305,7 +306,7 @@ _15     kw2'imditSi
 _16     s'editSi
 _17     ditSas:'Et:e
 _18     ditS'Ot:o
-_19     ditSann'ove
+_19     ditSann'Ove
 _2X	v'entI
 _21     vent'uno
 _23	ventit@-*'e
@@ -534,6 +535,7 @@ non	$u	$only
 o	$u+ $brk
 ogni	$u+
 oltre	$u+
+ora	'oRa/
 ormai	o@-*m'aI
 perché	$u+ $brk
 pure	$u+
@@ -700,6 +702,7 @@ u	u: $atend
 
 abajour	abaZ'u@-*
 account	ak:'aw2nt
+adobe	ad'Ob@ $only
 after	$1
 amnesty	'amn@stI
 anonymous 	an'OnimUs
@@ -731,6 +734,7 @@ blind	bl'aInd $onlys
 blues	bl'u:z
 boiler	$1
 bonjour	b,O:_Z'u:r
+brioche	b@-*I'oS
 boogie	b'ugi
 boom	bum
 bordeaux	_^_FR
@@ -815,6 +819,7 @@ detector	$2
 designer	d,ez'aIne@-*
 design	d,ez'aIn	$only
 devolution	devol'uSon
+digital	$1 $onlys
 disney	$1
 disneyland	$1
 display	displ'ei
@@ -825,7 +830,7 @@ download	d'a/:w2nl,o:d
 drive	_^_EN
 driver	_^_EN
 ebook	'i:b,Uk
-edition	ed'iSon $only
+edition	ed'iSon $onlys
 editor	'Edito@-*	$onlys
 l'editor	l'Edito@-* $only
 eloquence		_^_EN
@@ -1163,7 +1168,7 @@ yahoo		_^_EN
 yacht	j'Ot[
 youtube	ju:||tj'u:b
 yoghourt	'jogurt
-zoom	z'u:m
+zoom	dz'u:m
 zoster	$1
 élysées	eliz''e
 
@@ -2005,6 +2010,7 @@ ripoli $1
 rivanazzano	$4
 rofrano	$2
 rognano	$2
+roma	$alt2
 romagnol $3
 rosciano	$2
 rossano	$2
@@ -2139,6 +2145,7 @@ anastasia $3
 andersson	'a:nde@-*son
 anderson	$1
 andromeda	$2
+angelis	$1 $only
 anita	$2
 annamaria	$4
 annapaola	$3
@@ -2204,6 +2211,7 @@ consoli	$1 $capital $only
 corine	k'ORIn $capital
 corrias	$2
 cristofor $2
+cupido	$2
 danilo	$2
 davidson	$1
 debor $1  $alt
@@ -2211,6 +2219,7 @@ deborah	$1 $alt2
 deidda	de'i:d:a
 delrio	del||@-*'io/
 diaz	d'iats $only
+Dickinson	$1
 diocle $1
 diomede  $alt
 duddington	d'a/dINt@n
@@ -2238,6 +2247,7 @@ fabiola	$3
 fahrenheit	f'aRenaIt
 federic	$3
 felicita	$2
+fenice	$2
 ferrer	$2	$alt2
 françois	f@-*,a/NsU'a
 francisco	f@-*ans'isko
@@ -2377,6 +2387,7 @@ paul	p'O:l	$only
 peggy	p'Eg:I
 pericle $1
 peter	$1 $onlys
+pettarin	$3 $only
 peugeot	p,EZ'o
 piquet	pik'E $only
 pierangel	$2
@@ -2934,6 +2945,7 @@ contrattaccano	$3
 conversano	$2
 conversino	$2
 convoc	$1
+convochi	$1
 convochino	$1
 convogliano	$2
 coordin	$2
@@ -3200,7 +3212,9 @@ fiutano	$1
 flagellino	$2
 fluttuano	$1
 forano	$1
-formino	$1
+formano	$alt2
+formino	$1 $alt2
+formulano	$1
 forzino	$1
 fotografano	$2
 franino	$1
@@ -3378,6 +3392,7 @@ indirizzino	$3
 individuano	$3
 individuino	$3
 indossino	$2
+indott	$alt2
 inducano	$2
 indugia	$2
 inequivoc	$3
@@ -3395,6 +3410,7 @@ influenzino	$3
 informino	$2
 infuriano	$2
 ingannino	$2
+ingarbugliano	$3
 ingegnano	$2
 ingegnino	$2
 inglobano	$2	$alt2
@@ -3728,6 +3744,7 @@ precisano	$2
 precisino	$2
 predicano	$1
 predichino	$1
+predice	$2
 predici	$2
 predomin	$2
 preghino	$1
@@ -3856,6 +3873,7 @@ riabbraccino	$3
 riabilita	$3
 riabituano	$3
 riabituino	$3
+riaccadere	$4 $alt2
 riaccompagnano	$4
 riacquistino	$3
 riadagia	$3
@@ -4619,7 +4637,9 @@ indirizzati	indiRits:'ati
 informaci	$2 $alt2
 informati	$2 $alt2 $atstart
 insediatisi	$3
-insegnagli	$2	$alt
+insegnaci	$2
+insegnagli	$2
+insegnale	$2
 installal	$2
 intonaci	$2
 invaghitosi	$3
@@ -4741,5 +4761,6 @@ risolver	$2
 saran	$2	$only
 tender	$1
 tener	$2	$alt2 $only
+
 
 

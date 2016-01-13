@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2015 November  20 by Chris <llajta2012@gmail.com>
+// Last update: 2016 January 12 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -25,7 +25,7 @@
 	ai (_	'aj
 		ai (C   aI
 	au	a|%U
-	@C)	a (_S1q  a     // lookup it_list without suffix
+	@C)	a (_S1q  a/     // lookup it_list without suffix
 	@i)	a (_S1q  a     // lookup it_list without suffix
 	C) a (cY_	'a
 	@)	a (co_	=a
@@ -123,7 +123,7 @@
 	@d) ei (_	'eI
 	@t) ei (_	'eI
 	@) ey (_	=eI
-	@C)	e (_S1q  e     // lookup it_list without suffix
+	@C)	e (_S1q  e/     // lookup it_list without suffix
 		e (C_    E
 		e (A     E
 		e (C%A_  E
@@ -342,6 +342,7 @@
 		lascia (L07_	l'aSa
 	_) lecca (L07_	l'ek:a
 	leggi (L04_	l'EdZ:I
+	e) limina (L07_	l'imina
 
 .group m
 		m	m
@@ -385,7 +386,7 @@
 		o (CACA_  O
 		o (CrA	O
 		o (CC_    O
-	@C)	o (_S1q  o     // lookup it_list without suffix 
+	@C)	o (_S1q  o/     // lookup it_list without suffix 
 	@i)	o (_S1q  o     // lookup it_list without suffix 
 	i)	o          O
 	i)	o (ne      o
@@ -496,6 +497,7 @@
 	_) rader (L04_	@-*'ade@-*
 	_) ripeter (L04_	@-*ip'E:te@-*
 	_) romper (L04_	@-*'ompe@-*
+	ca) re (zzaL07_	R'e
 	C) rai (_	@-*'a:I
 	A) rai (_	R'a:I
 	rrai (_	R*'a:I

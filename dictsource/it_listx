@@ -1175,7 +1175,7 @@ davver $2  $alt2
 debit $1  $alt2
 debole $1
 dec  $alt
-decameron $2
+decameron	$2 $only
 decapoli $2
 decebal $2  $alt
 decenni  $alt
@@ -1395,7 +1395,7 @@ elle  $alt2
 elleniche  $alt
 eller  $alt2
 ellespont  $alt
-elogi	$2	$alt2
+elogi	$2 $alt
 els  $alt2
 em  $alt
 emblem  $alt
@@ -1444,10 +1444,9 @@ entusiast $3
 enzim	endz'im
 enzimatic	endzim'atik
 enzimatici	endzim'atitSI
-epa		$alt
 epagneul $1
 eparchia $3
-epatosi	$3
+epatosi	$3 $alt
 epicentr  $alt
 epicurei	$3
 epifania $4
@@ -1458,8 +1457,8 @@ epiglottide  $alt
 epilessia $4
 epilessie	epiles:'i:e
 epirot  $alt
-episodi	$3
-episodi  $alt
+episodi	$3 $alt
+episodio	epiz'Odjo/
 epitet $2
 epitome $2
 epitrit $2
@@ -1523,10 +1522,9 @@ estensimetr $3
 ester $1
 estet  $alt
 estraibil	est@-*a'ibil
-et  $alt
-etampes $1
 etanol $3
 eteocle $2
+etereo	$2
 eterei	$2
 eterocefal $4  $alt
 eterotteri  $alt
@@ -1863,11 +1861,7 @@ glutei	$1
 gluteo $1
 gnom  $alt
 gocciolio	$3
-gol  $alt
-golasecc  $alt2
 goleador $4
-golem  $alt
-golgi  $alt
 golia $2
 goliardia $4
 goliardie	golia@-*d'i:e
@@ -1885,19 +1879,16 @@ gorgonzol $3
 got  $alt
 goti  $alt
 gotta	$alt2
-gottasecc  $alt2
 gozz  $alt2
 gradoli $1
 grafem  $alt
 grandigia	$2
-granollers $3  $alt2
 gratteri $2
 gratuit	g@-*at'u:it
 gravimetr $2
 gravit	$1
 grec  $alt
 grembiul	g@-*embI'ul
-gres  $alt
 greve  $alt
 grom  $alt2
 grosi  $alt
@@ -1907,7 +1898,7 @@ guardamacchine	$3
 guardarob  $alt
 guardiaregia $3  $alt
 guer  $alt2
-guerraiol  $alt2
+guerraiol	$alt2
 guglielmin	$3
 guidafili	$3
 guidizzol $3
@@ -1915,16 +1906,12 @@ guinizzellian	gw2inits:el:i'an
 guizzare	gwIts:'aRe
 habitat	'a:bitat[
 hannoverian	an:oveRi'an
-hellas $2
 heracleopolis $3  $alt2
 hieron $2
 huahine $3
 icet $1
 icon  $alt
 iconostasi $3
-icosaedr  $alt
-icosidodecaedr  $alt
-icositetraedr  $alt
 identic  $alt
 identikit $4
 idrocefal $3  $alt
@@ -3040,6 +3027,7 @@ polisten $2
 polistirol $4
 politecnic  $alt
 polizia $3
+polizie	p,OlIts'ie/
 polizz	p'O:li|ts
 poll	$alt2
 pollic  $alt
@@ -3050,19 +3038,16 @@ polverio	$3
 pomice  $alt2
 ponce  $alt
 pontefice  $alt2
-pontelandolf  $alt
 pontil	$2
-ponto		$alt
+ponto	$alt
 pontremoli $2
 pop  $alt
-pope  $alt
 poplitei	$2
 popliteo	$2
 popp  $alt2
 porcil	$2
 poros  $alt2
 porpor $1  $alt2
-portaelicotteri  $alt
 portafili	$3
 portafogli  $alt
 portalber $2
@@ -3073,7 +3058,7 @@ porzioncine	$4
 pos  $alt
 posillip $2
 post  $alt2
-posta	$alt
+posta	p'Osta/
 poste	$alt
 posteri $1
 posteriori  $alt2
@@ -3724,7 +3709,7 @@ spadaccine	$3
 spalat $1
 spandiconcim	$4
 spatol $1
-spazioausili	sp,atsio||a|Uz'ilI
+spazioausili	spatsjo/||_a|uz'ilI
 specchi  $alt
 specchia  $alt
 specie  $alt
@@ -4272,6 +4257,6 @@ zoppol  $alt
 zozz	ts'O:ts:
 zozzon	tsots:'on
 zuccari $1
-zuccher	tz'uk:e*
+zuccher	dz'uk:e*
 
 
