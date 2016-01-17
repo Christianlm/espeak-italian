@@ -69,7 +69,7 @@ _smc	m,ajuskol'e:t:o
 _rev	inv'E:@-*sa
 _tur	@-*oveS'a:ta
 _bar	baR*'a:ta
-_rfx	@-*et@-*ofl'E:s:a
+_rfx	@-*et@-*ofl'E:ssa
 _crl	k'u@-*lI
 _hok	untSin'ata
 
@@ -152,7 +152,7 @@ _‣	punt'ato
 ↓	f@-*'etS:a||_dZ'u
 ♭	bem'Ol:e
 ♯	dI'ezis
-♥	'as:o||di||kw'ORI
+♥	'asso||di||kw'ORI
 ❓	p'unto||inteR*ogat'ivo
 _‧	sepaRat'oRe/
 
@@ -210,14 +210,14 @@ U+2cc	atS:'ento||_sekoNd'aRio   // ˌ
 
 U+300	g@-*'a:ve_   // ̀
 U+301	ak'u:to_   // ́
-U+302	tSi@-*konfl'Es:o_   // ̂
+U+302	tSi@-*konfl'Esso_   // ̂
 U+303	t'Ilde_   // ̃
 U+304	m'ak@-*ON_   // ̄
 U+306	b@-*'E:ve_   // ̆
 U+308	di'ERezi   // ̈
 U+30a	an'e:l:o||in||'alto_   //̊ 
-U+31e	ap@-*os:im'ante_   // ̞
-U+325	an'e:l:o||in||b'as:o_   // ̥
+U+31e	ap@-*ossim'ante_   // ̞
+U+325	an'e:l:o||in||b'asso_   // ̥
 U+32a	dent'ale_   // ̪
 U+32f	n,onsil:'abika   // ̯
 
@@ -304,7 +304,7 @@ _13     t@-*'editSi
 _14     kw2at:'oRditSi
 _15     kw2'imditSi
 _16     s'editSi
-_17     ditSas:'Et:e
+_17     ditSass'Et:e
 _18     ditS'Ot:o
 _19     ditSann'Ove
 _2X	v'entI
@@ -368,7 +368,7 @@ _13o	t@-*editS'Ezim
 _14o	kwat:o@-*ditS'Ezim
 _15o	kwinditS'Ezim
 _16o	seditS'Ezim
-_17o	ditSas:Et:'Ezim
+_17o	ditSassEt:'Ezim
 _18o	ditSOt:'Ezim
 _19o	ditSan:Ov'Ezim
 
@@ -389,7 +389,7 @@ _1M1o	mil'Ezim
 
 abc	a||bi||tS'i
 acdc	$abbrev
-adsl	a||di||es:e||'El:e
+adsl	a||di||esse||'El:e
 ascii	'askIi
 atp	a||ti||p'i
 avg	$abbrev
@@ -806,14 +806,14 @@ couscous	k,us||k'us
 cover	$1
 cowboy	k'aw||b'oI
 cracker	$1
-croissant	k@-*uas:'an
+croissant	k@-*uass'an
 club	kl'a/:b $onlys
 cult	k'a/:lt	$onlys
 database	datab'Eiz
 deejay		_^_EN
 default	_^_EN
 desaparecido	d,EzapaReT'ido
-dessert	des:'e@-*	$only
+dessert	dess'e@-*	$only
 desktop	d'Eskt,op
 detector	$2
 designer	d,ez'aIne@-*
@@ -886,7 +886,7 @@ girl	_^_EN
 google		_^_EN
 green	g@-*i:n $onlys
 greenpeace	g@-*,iN||p'i:s
-guinness	g'ines:
+guinness	g'iness
 hacker	'ake@-*
 hall	h'O:l: $only
 hamburger	hamb'u@-*ge@-*
@@ -1207,8 +1207,8 @@ arbore	$1
 aree	'a:REe
 areoplano	aREopl'ano
 artifici	a@-*tif'itSi  $only
-asfissie	asfis:'ie
-assol	as:'o:l
+asfissie	asfiss'ie
+assol	ass'o:l
 aspirapolveri	$4
 astronom	ast@-*'Onom
 atenei	$3
@@ -1643,7 +1643,7 @@ l'ancora	l'ankoRa
 un'ancora	un'a:nkoRa
 quand'è	kw2aNd'E
 senz'altro	sents'a:lt@-*o
-nessun'altra	nes:un'alt@-*a
+nessun'altra	nessun'alt@-*a
 ultim'ora	ultim'ORa
 trent'anni	t@-*ent'a:n:I
 vent'anni	vent'an:I
@@ -3254,7 +3254,7 @@ gioirono	dZo'iRono
 gioiscano	dZo'i:skano
 gioiscono	dZo'iskono
 gioissero	$2
-gioissimo	dZo'i:s:imo
+gioissimo	dZo'i:ssimo
 gioit	dZo'i:t
 gioiv	dZo'i:v
 gioivano	dZo'ivano
@@ -3280,9 +3280,9 @@ guaimmo	gw2a'i:m:o
 guaire	gw2a'i:Re
 guairono	gwa'iRono
 guaiscano	gw2a'i:skano
-guaiss	gw2a'i:s:
-guaissero	gw2a'i:s:eRo
-guaissimo	gw2a'i:s:imo
+guaiss	gw2a'i:ss
+guaissero	gw2a'i:sseRo
+guaissimo	gw2a'i:ssimo
 guaist	gw2a'i:st
 guait	gw2a'i:t
 guaiv	gw2a'i:v
@@ -4516,7 +4516,7 @@ zuccherano	$1
 (capita ad)	k'a:pita||ad
 (capita che)	k'a:pita||ke
 (capita di)	k'a:pita||_d'I
-(capita spesso)	k'apita||sp'es:o
+(capita spesso)	k'apita||sp'esso
 (che capita)	ke||k'a:pita
 (chi capita)	ki||k'a:pita
 (dove capita)	dove||k'apita
@@ -4742,7 +4742,7 @@ batter	$1
 commetter	$2
 comprender	$2
 dipender	$2
-esser	'Es:eR
+esser	'EsseR
 gioir	dZo'i@-*
 legger	l'EdZ:e/@-* $only
 metter	$1 $alt2

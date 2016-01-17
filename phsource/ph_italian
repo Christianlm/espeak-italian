@@ -160,9 +160,9 @@ phoneme ts
   Vowelin f1=0  f2=1700 -300 300  f3=-100 60 len=60
   Vowelout f1=0 f2=1700 -300 250  f3=-100 70  rms=14
   IF nextPh(isPause2) THEN
-    WAV(ustop/ts)
+    WAV(ustop/ts_, 80)
   ENDIF
-  WAV(ustop/ts, 80)
+  WAV(ustop/ts_, 70)
 endphoneme
 
 phoneme dz
@@ -171,4 +171,13 @@ phoneme dz
   lengthmod 3
 endphoneme
 
+phoneme ss
+  vls alv frc sibilant
+  voicingswitch z
+  lengthmod 6
+  Vowelin  f1=2  f2=1700 -300 300  f3=-100 80
+  Vowelout f1=0  f2=1700 -300 250  f3=-100 80  rms=20
+  length 170
+  WAV(ufric/s, 86)
+endphoneme
 
