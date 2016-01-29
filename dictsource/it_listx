@@ -1723,6 +1723,7 @@ franciacort  $alt2
 francoboll  $alt2
 frassin $1
 frattemp  $alt
+freccine	$2
 freccette  $alt2
 fredd  $alt2
 fren  $alt2
@@ -3904,6 +3905,7 @@ termocoppia  $alt
 termoelettric  $alt
 termogenesi $3
 termoretraibil	te@-*mo||@-*et@-*a'ibil
+termosifon	te@-*mo_sif'on
 termostat $2
 teroldeg $2  $alt
 terranov  $alt
@@ -4140,12 +4142,11 @@ ver  $alt2
 verd	$alt2
 verg  $alt2
 vergin	$1 $alt2
-verolanuov  $alt
 veroli $1
 verosimil	veRo||s'imil
 vertebr $1
 vertov $1
-verz  $alt2
+verz	v'e@-*dz
 verzegnis  $alt
 vescic $2
 vescov $1

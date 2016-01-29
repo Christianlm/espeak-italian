@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 january 12 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 january 29 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -787,6 +787,7 @@ choc	S'Ok	$only
 city	s'i:ti
 cleaner	_^_EN
 cliché		kli:S'e
+clochard	kloS'a@-*
 cocker	$1
 cocktail	k'Ok_t,El
 college	k'Ol:edZ
@@ -1076,6 +1077,7 @@ sitar	$1	$only
 sitter	$1	$onlys
 skipper	$1
 skype	sk'a/:ip
+slider	sl'aIde@-*
 smartphone	zm'a@-*tfon
 smile	zmaIl
 smiley	_^_EN
@@ -1143,6 +1145,7 @@ valzer	$1
 videogames		v,ideo||g'eIm
 videomaker	vidEom'eIke@-*
 viewer	vj'u:Er
+virtual	$1 $onlys
 visual	v'iZwal $only
 voodoo	vud'u
 vodafone	v'odafon
@@ -2421,7 +2424,7 @@ sandokan	$1
 sandoval	$3
 santangelo	$2
 savino	$2
-scalfaro	$1
+scalfar	$1
 schopenhauer	S,Open'a:w2e@-*
 schumann	S'u:man
 schumacher	_^_DE
@@ -4599,6 +4602,7 @@ dammel	$1
 dammene	$1
 deciditi	$2
 dedical	$1
+dicasi	$1
 digitalo	$1
 digliel	$1
 digliene	$1
@@ -4758,6 +4762,7 @@ reger	$1
 render	$1
 riscuoter	$3
 risolver	$2
+suol	sU'Ol
 saran	$2	$only
 tender	$1
 tener	$2	$alt2 $only
