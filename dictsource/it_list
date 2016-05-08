@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 march 30 by Chris, Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 May 4 by Chris, Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -18,7 +18,7 @@ f	'Effe
 g	dZi
 h	ak:a
 _i	i:
-j	'i||l'unga
+j	'i||_l'uNga/
 k	kap:a
 l	Elle
 m	Emme
@@ -496,11 +496,9 @@ sue	$u+
 nostre	$u+
 vostre	$u+
 
-questo	$u+
-questa	$u+
-questi  $u+	$nounf
-queste  $u+
-
+quest	$u+	$nounf
+(questa è)	kw2'esta||'E
+(questo è)	kw2'esto/||,E
 quel	$u+
 quella	$u+
 quei	kw2eI
@@ -533,7 +531,7 @@ mentre	$u+
 neanche	$u+	$brk
 né	$u+	$brk  $only
 no	nO $strend
-non	$u	$only
+non	$u	$verbf $only
 o	$u+ $brk
 ogni	$u+
 oltre	$u+
@@ -828,6 +826,7 @@ disney	$1
 disneyland	$1
 display	displ'ei
 device	dIv'aIs
+door	d'o:@-*	$onlys
 doppler	$1
 down	d'a/:w2n
 download	d'a/:w2nl,o:d
@@ -2232,6 +2231,7 @@ debor $1  $alt
 deborah	$1 $alt2
 deidda	de'i:d:a
 delrio	del||@-*'io/
+dessolis	$2 $onlys
 diaz	d'iats $only
 Dickinson	$1
 diocle $1
@@ -2767,6 +2767,7 @@ attentino	$2
 atterrano	$2
 atterrino	$2
 attestino	$2
+attieniti	$2
 attirano	$2
 attirino	$2
 attonit	$2
@@ -4305,6 +4306,7 @@ spolver	$1
 spolverano	$1
 spopolano	$1
 sporchino	$1
+spostino	$1	$alt2
 sprecano	$1
 spregia	$1
 sprigionino	$2
@@ -4566,9 +4568,12 @@ zuccherano	$1
 (come desideri)	kome||dez'ideRi
 (così desideri)	koz'i||_dez'i:deRI
 (cosa desideri)	k'O:za||dez'i:deRI
+(cui desideri)	k'u:|I||dez'ide**I
+(invece desideri)	inv'etSe||dez'ide**I
 (la desideri)	ladez'i:deRi
 (lo desideri)	lodez'ideRi
 (mi desideri)	mI||dez'i:deRI
+// (non desideri)	non||dez'ideRI
 (quando desideri)	kw2ando||_|dez'i:deRi
 (quindi desideri)	kw2,indi||_dez'i:deRi
 
@@ -4644,6 +4649,7 @@ evolverci	$2
 evolversi	$2
 fammel	$1
 fattel	f'at:el
+fermati	$1 $atstart
 fermatosi	$2
 formatosi	$2
 giuravi	$2
@@ -4659,6 +4665,7 @@ illuminaci	$2
 illuminami	$2
 illuminal	$2
 immergiti	$2
+immetterl	$2
 impostaci	$2
 impostomi	$2
 indirizziamoci	indiRi_tsj'amotSI // $5

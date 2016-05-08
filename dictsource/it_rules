@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 march 3 by Chris <llajta2012@gmail.com>
+// Last update: 2016 may 3 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -90,11 +90,12 @@
 	cuocer (L04_	kU'OtSe@-*
 	compra (L07_	k'omp@-*a
 	_L04Z) capit (A_	k'a:p,it
-		_L04Z) capit (ano_	k'a:p,it
+	_L04Z) capit (ano_	k'a:p,it
 	correr (L04_	k'o:R*eR
 	ccorrer (L04_	k:'o:R*eR
 	chiama (L07_	ki'a:ma
 	a) cquista (L07_	k:w2'ista
+	re) cat (AL07_	k''at
 
 .group d
 		d	d
@@ -190,6 +191,7 @@
 	fobi (A_	fob'i;
 	fob (A_	=fob
 	farma (ci_	f'a@-*ma
+	ferma (L07_	f'e@-*ma/
 
 .group g
 		g	g
@@ -559,7 +561,8 @@
 .group t
 		t	t
 		tt	t:
-		@a) tria (_	t@-*'ia
+	_) t' (P2t	 t
+	@a) tria (_	t@-*'ia
 		@a) trie (_	t@-*'ie
 		a) ttoria (_	t:oR'ia
 		a) ttorie (_	t:oR'Ie
@@ -575,6 +578,8 @@
 	_) togli (L04_	t'Ol^i
 	trova (L07_	t@-*'Ova
 	_) tutt' (P5t	tut:
+	au) tentica (L07_	t'ENtIka/
+	a) ttiva (L07_	t:'iva
 	L02) tre (_	t@-*'e
 
 .group u
@@ -598,9 +603,9 @@
 	uomini (_	w2'Omini
 
 .group v
-		v	v
-		vv	v:
-		vvi (A	v:i
+	v	v
+	vv	v:
+	vvi (A	v:i
 		C) vi (A	vI
 		C) vi (A_	=vI
 	A) vino (_	=vino  // verbs
@@ -612,6 +617,7 @@
 	_in) vader (L04_	v'a:de@-*
 	_) vota (L07_	v'Ota
 	s) veglia (L07_	v'el^ia
+	volta (L07_	v'Olta
 
 .group w
 		w	w2
@@ -737,6 +743,6 @@ _L16_)	: (_L17D_	_%%E_	// Say time
 	D) , (D	v'i@-*gola
         __)  - (_D         meno
         A_)  - (_D        _
-        C_)  - (_D        _
-		§	pa*'ag@-*afO
-
+	C_)  - (_D        _
+	§	pa*'ag@-*afO
+	's (S2t	s
