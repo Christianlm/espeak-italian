@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 june 1 by Chris <llajta2012@gmail.com>
+// Last update: 2016 july 2 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -168,11 +168,11 @@
 	e (vi_	E
 	e (vo_	E
 	@) e (volA_	'e
-		e (zA    E
-		CC) eggia (no_	'EdZ:a
+	e (zA	E
+	CC) eggia (no_	'EdZ:a
 	C) ender (L04_	'ende@-*  // Pron.s verbs
 	C) erder (L04_	'E@-*de@-*
-	esser (L04_		'EsseR
+	esser (L04_	'EsseR
 	_) ecco (L04	'Ek:o
 		ete (L04_	'ete
 	fl) etter (L04_	'Et:e@-*
@@ -184,8 +184,8 @@
 	e (lano_	'e
 
 .group f
-		f	f
-		ff	f:
+	f	f
+	ff	f:
 	@A)	f (ilo_  =f
 	i)	f (erA_	=f
 	fobi (A_	fob'i;
@@ -194,40 +194,40 @@
 	ferma (L07_	f'e@-*ma/
 
 .group g
-		g	g
-		gg	g:
-		gh	g
-		g (Y	dZ
-		gi (A	dZ
-		gi (a_	dZ'i#  // [i] only if stressed
-		gì (a_	dZ'i#  // [i] only if stressed
+	g	g
+	gg	g:
+	gh	g
+	g (Y	dZ
+	gi (A	dZ
+	gi (a_	dZ'i#  // [i] only if stressed
+	gì (a_	dZ'i#  // [i] only if stressed
 	al) gie (_	dZ'iE
 	@Ar) gie (_	dZ'iE
 	fa) gie (_	dZ'iE
 	go) gie (_	dZ'iE
 	ple) gie (_	dZ'iE
 	rra) gie (_	dZ'iE
-		lo) gi (e_	dZ'i#
+	lo) gi (e_	dZ'i#
 	n)	gi (a_	dZ
-		gg (Y	dZ:
-		ggi (A  dZ:
-	@) gger (L04_ =dZ:e@-*  // Pron.s verbs
+	gg (Y	dZ:
+	ggi (A	dZ:
+	@) gger (L04_	=dZ:e@-*  // Pron.s verbs
 	AC) ger (L04_	=dZe@-*
 	esi) ger (L04_	=dZe@-*
 	eri) ger (L04_	=dZe@-*
-		_) giura (L07_	dZ'URa
+	_) giura (L07_	dZ'URa
 	godi (L04_	g'Odi
-		gl (i	l^
-		gl (ì	l^
-		gli (A  l^
+	gl (i	l^
+	gl (ì	l^
+	gli (A	l^
 	_)	gl	gl
 	@) glier (L04_	=l^E@-*
 	@) guer (L04_	=gUe@-*
-		gn	n^
+	gn	n^
 	@) gn (A_	n^;
 	a) gn (A_	n^:
-		gu (A   gw
-	guono (_	=gw2ono   / verbs
+	gu (A	gw
+	guono (_	=gw2ono   // verbs
 	o) gnano (_	=n^ano
 	A) gnano (_	n^'ano   // exceptions
 	@) ginano(_	=dZinano   // verbs
