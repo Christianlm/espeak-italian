@@ -28,11 +28,11 @@ phoneme a/
   IF prevPhW(l) THEN
     FMT(vowel/a_7, 80)
   ENDIF
-  IF prevPhW(isNasal) THEN
+  IF thisPh(isWordEnd) THEN
     FMT(vowel/a_8, 70)
   ENDIF
-  IF prevPhW(t) OR prevPhW(R) OR prevPhW(*) OR prevPhW(z) THEN
-    FMT(vowel/a, 75)
+  IF thisPh(isWordStart) THEN
+    FMT(vwl_it/a, 85)
   ENDIF
   FMT(vowel/a_8, 80)
 endphoneme
