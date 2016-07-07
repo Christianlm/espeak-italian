@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 july 2 by Chris <llajta2012@gmail.com>
+// Last update: 2016 july 6 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -239,68 +239,66 @@
 	guai (scA_	gw2a'i:
 
 .group h
-		h
+	h
 	_)	ha      h'a
-	_)	hà      h'a
+	_)	hà	h'a
 
 .group i
-		i	i
-		i (A	j
-	zz) ia (@	ia
+	i	i
+	i (A	j
 	@) ii (_	'I:j
-	l)	i (A	%i
+	l) i (A	%i
 	r)	i (A	%i
 	_C) ie (_	'ie
-		i (o    i
-		i (ò	i
-		i (ó	i
-        @)      ia (_   =i%a
-	@)	ià (_	i'a
-	X)	ia (_	'ia
-	af)	ia (_	'ia
-	af)	ie (_	'ie
-	fon)	ia (_	'ia
-	scop)	ia (_	'ia
+	i (o    i
+	i (ò	i
+	i (ó	i
+	@) ia (_	=i%a
+	@) ià (_	j'a
+	X) ia (_	'ia
+	af) ia (_	'ia
+	af) ie (_	'ie
+	fon) ia (_	'ia
+	scop) ia (_	'ia
 	scop) ie (_	'ie
-	er)	ia (_	'ia
-	er)	ie (_	'ie
-	gor)	ia (_   'ia
-	metr)	ia (_	'ia
-	metr)	ie (_	'ie
-	t)	ia (_	'ia
+	er) ia (_	'ia
+	er) ie (_	'ie
+	gor) ia (_	'ia
+	metr) ia (_	'ia
+	metr) ie (_	'ie
+	t) ia (_	'ia
 	t) ie (_	'ie
-        @)      io (_S1q   =i%o
-	a)	i (+	j
-	à)	i (+	j
+        @)      io (_S1q   =i%o // ?
+	a) i (+	j
+	à) i (+	j
 	o)	i (+	j
-	@C)	i (_S1q  i     // lookup it_list without suffix
-        @)      i (Ante_   i
-		i (acA_   'i
+	@C) i (_S1q	i  // lookup it_list without suffix
+	@) i (Ante_	i
+	i (acA_	'i
 	i (ache_	'i
-		i (asi_   'i
-	@)	i (bile_  'i
-	@)	i (cA_	  =i
+	i (asi_	'i
+	@)	i (bile_	'i
+	@) i (cA_	=i
 	ele%tr) ici (_	=itSi
 	centr) ici (_	=itSi
 	metr) ici (_	=itSi
-	tr)	i (cY_     i
+	tr) i (cY_	 // ?i
 	if) ici (_	'itSi
-	@)	i (chA_   =i
-        @)      i (dA_    =i
-        @)      i (dere_  'i
-	@)	ie (rA_    i'E
-	@)	ié (rA_    i'E
-		i (genA_  'i
-	c)	i (lA_    =i
-	g)	i (lA_    =i
-	ss)	i (lA_    =i
-	b)	i (le_    =i
-	m)	i (le_    =i
-		i (lA_    =i
+	@) i (chA_	=i
+	@) i (dA_	=i
+	@) i (dere_	'i
+	@)	ie (rA_	i'E
+	i (genA_	'i
+	c) i (lA_	=i
+	g) i (lA_	=i
+	ss) i (lA_	=i
+	b) i (le_	=i
+	m) i (le_	=i
+	i (lA_	=i
 	@) i (mA_	=i
 	laCr) i (mA_	=i
 	pr) i (mA_	   'i
-		inas (_   'inas
+	inas (_	'inas
 	@g) in (Y_	=in
 	c) ine (_	=ine
 	d) ine (_	=ine
@@ -309,7 +307,7 @@
 	im) in	(Y_	=in
 	@) issim (A_	'issim
 	@)	issero(_S6q	'isse*o
-	ip) i (te_    =i
+	ip) i (te_	=i
 	C) iad (Y_	'iad
 	@) iono (_	=iono
 	ite (L04_	'ite  // Pron.s verbs

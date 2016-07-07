@@ -102,10 +102,10 @@ phoneme o/
   IF nextPhW(isNasal) OR nextPhW(isLiquid) THEN
     FMT(vwl_it/o_open, 80)
   ENDIF
-  IF thisPh(isWordEnd) THEN
+  IF thisPh(isWordEnd) AND NOT prevPhW(a) THEN
     FMT(vwl_it/o, 65)
   ENDIF
-    FMT(vowel/o)
+    FMT(vowel/o, 90)
 endphoneme
 
 phoneme O

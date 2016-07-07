@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 july 5 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 july 6 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -4616,6 +4616,7 @@ carical	$1
 causatoci	$3
 cercal	$1
 cercasi	$1
+chiediti	$1
 chiuditi	kj'uditI
 cliccal	$1
 cliccaci	$1
