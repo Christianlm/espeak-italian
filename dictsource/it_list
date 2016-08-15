@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 august  4 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 august  15 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -47,6 +47,7 @@ _ò	$accent
 _ù	$accent
 _ú	$accent
 ñ	$accent
+ć	$accent
 
 // accent names
 
@@ -1663,7 +1664,7 @@ vent'anni	vent'an:I
 (principi attivi)	p@-*intS'i:pI||at:'ivI
 (principi morali)	p@-*intS'i:pI||moR'alI
 (principi sociali)	p@-*intS'i:pI||sotS'alI
-(ciao ciao)	tS,a/o||tS'a:o
+(ciao ciao)	tS,a:o||tS'a:o
 (un turbine)	un||_t'u@-*bine
 (gli auguri)	l^iaw2g'u:RI
 (pro capite)	p@-*ok'a:pIte
@@ -1914,7 +1915,7 @@ melizzano	$3
 mesopotamia $4
 mexic  $alt2
 mezzano	medz:'ano
-miami	maj'EmI
+miami	maj'EmI $only
 minneapolis	$3
 minucciano	$3
 miscano	$2
@@ -2583,6 +2584,7 @@ acchiappino	$2
 acciecano	$2
 acclamano	$2
 acclamino	$2
+accreditano	$2
 accodano	$2
 accodino	$2
 accomoda	$2
@@ -2826,6 +2828,7 @@ bastino	$1
 bastono	$2
 battezzat	bat:edz:'at
 battezzino	bat:'edz:ino
+beccano	$1
 bendano	$1
 bendino	$1
 benedic	$3
@@ -2918,9 +2921,11 @@ comincino	$2
 commemor	$2 $alt
 commutino	$2
 compaiano	$2
-competano	$2
+competano	$2 $alt
+compiace	kompj'atSe/
 compiacere	$3
-compiere	k'o:mpjeRe
+compiaci	kompj'atSi
+compiere	k'ompjeRe
 compilano	$2
 completano	$2
 comprano	$1
@@ -4750,6 +4755,7 @@ rincorrerl	$2
 risparmial	$2
 risparmiaci	$2
 risparmiami	$2
+rivelaci	$2
 rivelataci	$3
 rizzarsi	@-*its2:'a@-*sI
 sbrigati	$1
@@ -4774,7 +4780,8 @@ stabilitosi	$3
 stampal	$1
 suggeritomi	$3
 svegliati	$1 $atstart
-svoltasi	$1 $alt $atstart
+svelaci	$1
+svoltasi	$1 $alt
 svoltesi	$1
 svoltosi	$1 $alt
 svuotal	$2 $alt2
