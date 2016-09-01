@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 August 4 by Chris <llajta2012@gmail.com>
+// Last update: 2016 August 24 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -108,7 +108,7 @@
 	dona (L07_	d'ona  // Pron.s verbs
 	ci) der (L04_	=dE@-*
 	divi) der (L04_	=de@-*
-	chAA) der (L04_	=de@-*
+// 	chAA) der (L04_	=de@-*
 	re) der (L04_	=de@-*
 	@) dinano (_	=dina/no   // verbs
 	i) dano (_	=dano  // verbs
@@ -173,6 +173,7 @@
 	e (nder	E
 	C) ender (L04_	'Ende@-*  // Pron.s verbs
 	C) erder (L04_	'E@-*de@-*
+	chi) eder (L04_	'Ede@-*
 	esser (L04_	'EsseR
 	_) ecco (L04	'Ek:o
 		ete (L04_	'ete
