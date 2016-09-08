@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 september 2 by Chris <llajta2012@gmail.com>
+// Last update: 2016 september 8 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -96,6 +96,8 @@
 	chiama (L07_	ki'a:ma
 	a) cquista (L07_	k:w'ista
 	re) cat (AL07_	k''at
+	chiedi (L04_	kj'EdI
+	chiudi (L04_	kj'udI
 
 .group d
 	d	d
@@ -561,14 +563,14 @@
 	L02) sei (_	_s'Ej
 
 .group t
-		t	t
-		tt	t:
+	t	t
+	tt	t:
 	_) t' (P2t	 t
 	@a) tria (_	t@-*'ia
-		@a) trie (_	t@-*'ie
-		a) ttoria (_	t:oR'ia
-		a) ttorie (_	t:oR'Ie
-		@) tt (ano_	=t:  // verbs
+	@a) trie (_	t@-*'ie
+	a) ttoria (_	t:oR'ia
+	a) ttorie (_	t:oR'Ie
+	@) tt (ano_	=t:  // verbs
 	en) t (ano_	=t
 	@ma) to (L06_	t'O
 	@a) to (L06_	=to
@@ -579,10 +581,11 @@
 	a) ta (si_	=ta
 	_) togli (L04_	t'Ol^i
 	trova (L07_	t@-*'Ova
-	_) tutt' (P5t	tut:
+	tieni (L04_	tj'e/nI
 	au) tentica (L07_	t'ENtIka/
 	a) ttiva (L07_	t:'iva
 	L02) tre (_	t@-*'e
+	_) tutt' (P5t	tut:
 
 .group u
 		u	u
