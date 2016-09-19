@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 September 8 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 September 19 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -3001,6 +3001,7 @@ convogliano	$2
 coordin	$2
 copiano	$1
 copino	$1
+correre	$1 $alt2
 cospirano	$2
 costino	$1
 creano	$1
@@ -3863,6 +3864,7 @@ raffigurano	$3
 raffigurino	$3
 rafforzino	$2
 raffreddano	$2
+raggirano	$2
 raggruppano	$2
 ragliano	$1
 rallegrano	$2
@@ -4278,6 +4280,7 @@ sorrid	$2
 sorteggino	$2
 sorvegliano	$2
 sospettino	$2
+sospirano	$2
 sostenei	$3 $alt2
 sostenere	$3
 sostino	$1
@@ -4325,6 +4328,7 @@ spieghino	$1
 spifferano	$1
 spifferino	$1 $verb
 spintono	$2
+spirano	$1
 spogliano	$1 $alt
 spoglino	$1 $alt
 spolmono	$2 $alt2
@@ -4471,6 +4475,7 @@ trascurino	$2
 trasformino	$2
 traslocano	$2
 traspaiano	$2
+traspirano	$2
 trasportino	$2
 trattenere	$3
 traumatizzino	$4

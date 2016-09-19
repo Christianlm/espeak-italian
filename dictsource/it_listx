@@ -1049,12 +1049,11 @@ corporee	$2
 corporei	$2
 corporeo	$2
 corred  $alt
-correr $1
 corrett  $alt
 corrid $2
 corrott  $alt2
-corsa	$alt2
-cort  $alt2
+cors	$alt2
+cort	$alt2
 corte  $alt2
 cortenuov  $alt
 cortes $2
@@ -3491,6 +3490,7 @@ seggi  $alt
 seggiol	$1
 seggiovia $3
 seggiovie	sedZ:,ov'i:e
+segnanumer	$3
 segnapost  $alt2
 segnavia $3
 selce  $alt2
