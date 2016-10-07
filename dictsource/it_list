@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 September 29 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 october 7 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -360,7 +360,7 @@ _26	ventis'Ej
 _27	ventis'Et:e
 _28     vent'Ot:o
 _29	ventin'Ove
-_3X     t@-*'enta
+_3X     t@-*'e:nta
 _4X     kua*'a:nta
 _5X     tSinkw'anta
 _6X     sess'anta
@@ -2660,6 +2660,7 @@ addentrano	$2	$alt
 addestrano	$2
 addestrino	$2
 addic	$2
+addicano	$2
 addossino	$2
 addrizzare	ad:@-*Its2:'aRe
 adeguano	$2
@@ -2953,13 +2954,14 @@ circondino	$2
 citano	$1
 citofonano	$2
 clicchino	$1
-coincida	ko'intSita
-coincide	kOintS'ide
+coincid	kointS'i:d
+coincita	ko'intSita
 collabor	$2
 collaborano	$2
 colloc	$1	$alt
 collocano	$1 $alt
 collochi	$1	$alt
+collochino	$1
 comandano	$2
 comandino	$2
 combinino	$2
@@ -3130,6 +3132,7 @@ differenziano	$3
 diffid	$2
 digit	$1
 digitano	$1
+digitino	$1
 digiunino	$2
 digrignano	$2
 dilatano	$2
@@ -3146,6 +3149,7 @@ disarmano	$2
 disarmino	$2
 discolpino	$2
 discrimin	$2
+discriminino	$2
 discutano	$2
 disdegnano	$2
 disdegnino	$2
@@ -3769,6 +3773,7 @@ ovvino	$1
 paghino	$1
 palpano	$1
 palpita	$1
+palpitano	$1
 paragono	$3 $alt2
 parano	$1
 parlano	$1
@@ -3993,6 +3998,7 @@ ricandidano	$2
 ricapitano	$2
 ricapitol	$3
 ricaricano	$2
+ricarichino	$2
 richiamano	$2
 richiamino	$2
 richiedano	$2
@@ -4316,6 +4322,7 @@ soprannomino	$3
 soprassedere	$4
 soprassegnano	$3
 soprassiedano	$3
+sormontino	$2
 sorpassino	$2
 sorrid	$2
 sorteggino	$2
@@ -4432,8 +4439,8 @@ sudano	$1
 sudino	$1
 suggestiono	$4
 suicid	$3
-suonano	sw'Onano
-suonino	$1
+suonano	sw'O:nano
+suonino	sw'Onino
 super	$1
 superano	$1
 superino	$1
@@ -4508,6 +4515,8 @@ tramutano	$1
 trangugia	$2
 tranquillizzino	$3
 transitano	$1
+transitino	$1
+trapassino	$2
 trapelino	$2
 trascegliere	$2
 trascendano	$2
@@ -4541,6 +4550,7 @@ tuffano	$1
 tumol	$1
 turbano	$1
 turbino	$1
+tutelino	$2
 ubriacano	$3
 ubriachino	$3
 uccid	$2
@@ -4584,6 +4594,7 @@ veglino	$1
 vendemmiano	$2
 vendicano	$1
 vendichino	$1
+vendano	$1
 vergogniano	$2
 vergognino	$2
 versano	$1
