@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 September 19 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 September 29 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -136,7 +136,8 @@ _′	p@-*'imi
 _″	d'Op:io||'apitSe
 _‴	t@-*'iplo||'apitSe
 _‼	esklamatsi'One
-¶	paR'ag@-*afo
+§	setsi'One
+¶	pa*'ag@-*afo
 _‐	legat'u:Ra
 _‒	lini'et:a
 _‑	t@-*at:,ino||duni'one
@@ -249,6 +250,45 @@ _ka	dZeO@-*dZ'anO
 _ko	kore'anO
 _ja	dZap:on'ezE
 _zh	tSIn'ezE
+
+// Greek letters
+// 0xce is the first byte of the utf-8 code for these characters
+
+α	'alfa_
+ά	'alfa_
+β	b'eta_
+γ	g'am:a_
+δ	d'Elta_
+ε	'EpsIlon
+έ	'EpsIlon_
+ζ	dz'eta||g@-*'eka
+η	'e:ta||g@-*'eka
+ή	'e:ta||g@-*'eka_
+θ	t'e:ta||g@-*'eka_
+ι	I'ota_
+ί	I'ota_
+κ	k'ap:a||g@-*'eka_
+λ	l'ambda_
+μ	m'ju:_
+ν	n'ju:_
+ξ	ks'I||g@-*'eka_
+ο	'omIk@-*on_
+
+// Greek letters 0xcf   
+
+π	p'I||g@-*'eka_
+ρ	@-*'O||g@-*'eka_
+σ	s'Igma_
+ς	s'Igma_
+τ	t'au_
+υ	'IpsIlon_
+ύ	'IpsIlon_
+φ	f'I||g@-*'eka_
+χ	k'I||g@-*'eka_
+ψ	ps'I||g@-*'eka_
+ω	om'ega_
+ώ	om'ega_
+ό	'omIk@-*on_
 
 // Cyrillic letters
 
@@ -2250,6 +2290,7 @@ diaz	d'iats $only
 Dickinson	$1
 diocle $1
 diomede  $alt
+distefano	$2
 duddington	d'a/dINt@n
 eddie	'Ed:I
 edgar	$1

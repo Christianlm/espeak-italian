@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 september 8 by Chris <llajta2012@gmail.com>
+// Last update: 2016 september 29 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -684,45 +684,6 @@
 	me) zz	dz:
 	amma) zziamo (L04_	_tsi'a:mo
 
-.group 0xce   // Greek letters
-// 0xce is the first byte of the utf-8 code for these characters
-
-	α	'alfa_
-	ά	'alfa_
-	β	b'eta_
-	γ	g'am:a_
-	δ	d'Elta_
-	ε	'EpsIlon
-	έ	'EpsIlon_
-	ζ	dz'eta||g@-*'eka
-	η	'e:ta||g@-*'eka
-	ή	'e:ta||g@-*'eka_
-	θ	t'e:ta||g@-*'eka_
-	ι	I'ota_
-	ί	I'ota_
-	κ	k'ap:a||g@-*'eka_
-	λ	l'ambda_
-	μ	m'ju:_
-	ν	n'ju:_
-	ξ	ks'I||g@-*'eka_
-	ο	'omIk@-*on_
-
-.group 0xcf   // Greek letters
-
-	π	p'I||g@-*'eka_
-	ρ	@-*'O||g@-*'eka_
-	σ	s'Igma_
-	ς	s'Igma_
-	τ	t'au_
-	υ	'IpsIlon_
-	ύ	'IpsIlon_
-	φ	f'I||g@-*'eka_
-	χ	k'I||g@-*'eka_
-	ψ	ps'I||g@-*'eka_
-	ω	om'ega_
-	ώ	om'ega_
-	ό	'omIk@-*on_
-
 .group
 
 	ñ	n^
@@ -749,5 +710,4 @@
 	__) - (_D	meno
         A_)  - (_D        _
 	C_)  - (_D        _
-	§	pa*'ag@-*afO
 	's (S2t	s
