@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 october 13 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 october 24 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -946,6 +946,9 @@ green	g@-*i:n $onlys
 greenpeace	g@-*,iN||p'i:s
 guinness	g'iness
 hacker	'ake@-*
+hackeraggio	akeR'adZ:o
+hackerat	akeR'at
+hackerare	ake*'a:Re
 hall	h'O:l: $only
 hamburger	hamb'u@-*ge@-*
 happy	_^_EN 
@@ -2348,6 +2351,7 @@ gibson	g'Ibson
 giordano	$2
 giorgia	$1
 girolamo	$2
+giovagnol	$3
 gorbaciov	$1
 gregoria	$2 $alt2
 grace	g@-*'Eis	$only
