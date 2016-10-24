@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 september 29 by Chris <llajta2012@gmail.com>
+// Last update: 2016 october 24 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -186,6 +186,14 @@
 	AC) erano (_	=eR,ano
 	@s) ero (_	=ERO
 	e (lano_	'e
+
+.group è
+	_) è (_	,E
+	A) è	''E
+	C) è	''E
+	èi (K	''Ej
+	è (A	''E
+	è (C	''E
 
 .group f
 	f	f
@@ -692,10 +700,6 @@
 
 	á	''a
 	é	''e
-	_) è (_	,E
-	A) è	''E
-	C) è	''E
-	èi (K	''Ej
 	éi (K	''eI
 	ì	''i
 	í	''i
