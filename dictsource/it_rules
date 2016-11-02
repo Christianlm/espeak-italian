@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2016 october 24 by Chris <llajta2012@gmail.com>
+// Last update: 2016 November 2 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -573,6 +573,7 @@
 .group t
 	t	t
 	tt	t:
+	tz (A	T:
 	_) t' (P2t	 t
 	@a) tria (_	t@-*'ia
 	@a) trie (_	t@-*'ie
