@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 November 2 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 November 5 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -109,7 +109,7 @@ $	d'Ol:aRI
 \	kont@-*ob'a:R*a	$max3
 _|	b'aR*a||ve@-*tik'ale
 &	'a/nd
-©       k'opI||raIt
+©       k'O:pI||raIt
 #	kantSellet:o
 @	ki'otS:ola
 ~	tilde
@@ -853,7 +853,7 @@ condor	$1
 container	kont'eInE@-*	$onlys
 controller	$2
 converter	$2	$onlys
-copyright	k'opI@-*,aIt[
+copyright	k'O:pI@-*,aIt[
 corner	$1
 corporation	ko@-*poR'ESon
 couscous	k,us||k'us
@@ -950,7 +950,7 @@ hackeraggio	akeR'adZ:o
 hackerat	akeR'at
 hackerare	ake*'a:Re
 hall	h'O:l: $only
-Halleluja	al:el'u:ja
+Hallelujah	al:el'u:ja
 hamburger	amb'u@-*ge@-*
 Handicap	'andikap
 handicapat	andikap'at
@@ -1704,6 +1704,7 @@ com'è	kom'E
 com'era	kom'E:Ra
 cos'hai	koz'a:i
 cos'è	koz'E
+cos'altro	koz'a:lt@-*o/
 dov'è	dov'E
 qual'è	kwal''E
 tant'è	taNt'E
@@ -2269,6 +2270,7 @@ Cancelleri	$3 $only
 carey	_^_en
 carmel	$2
 cassano	$2
+casula	$2
 catia	k'a:tia
 celentano	$3
 cesare $1
@@ -2436,6 +2438,7 @@ mariapia	$4
 marilyn	m'E:r*ilIN
 marylin	m'ERilin
 marzott	ma@-*dz'Ot:
+masala	$1
 mayer	$1
 mazzin $2
 mazzol $2
@@ -2530,7 +2533,7 @@ sonja	s'O:nIa
 sophia	sOf'ia
 spencer	sp'ense@-*
 stanley	$1
-stefano	$1
+stefan	$1
 steve	_^_en $only
 steven	st'iven	$onlys
 stewart	stj'ua*t
@@ -4750,6 +4753,7 @@ evolverci	$2
 evolversi	$2
 fammel	$1
 fattel	f'at:el
+fattoci	$1
 fermati	$1 $atstart
 fermatosi	$2
 formatosi	$2
