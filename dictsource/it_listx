@@ -251,7 +251,6 @@ antilope $2
 antimafia $3
 antimateria	$4
 antimaterie	$4
-antincendi  $alt
 antinoe $2
 antiope $2
 antipatr $2
@@ -965,7 +964,6 @@ commedia  $alt
 commod  $alt
 comod $1
 compagnia $3
-compendi  $alt
 compiet  $alt
 compit $1
 complet  $alt
@@ -1083,6 +1081,7 @@ cremer $1
 cremia $1
 cremisi $1
 crep  $alt
+crepitio	k@-*epit'io/
 cres  $alt
 crescit $1
 cresol $2
@@ -1229,7 +1228,6 @@ disistim	$3
 dislessia $3
 dispareunia $5
 dispari $1
-dispendi  $alt
 dispett  $alt
 dispost  $alt2
 disprezz  $alt
@@ -1623,7 +1621,6 @@ flegias $1  $alt
 floem  $alt
 florin $1  $alt2
 fluido  fl'uido
-flumendos  $alt
 fobia $2
 foder $1
 fogli  $alt
@@ -1911,7 +1908,6 @@ impet $1
 impieg  $alt
 implicit $2
 incazzati	inka_ts'ati
-incendi  $alt
 incentr  $alt
 incerti	$2 $alt
 incipit	$1 $only
@@ -2291,11 +2287,8 @@ membr  $alt
 mement  $alt
 memnone $1  $alt
 memore $1  $alt
-men  $alt2
-mendelevi  $alt
-menecm  $alt
+men	$alt2
 menhir $2
-menn  $alt2
 mensile $2
 mensol  $alt
 ment  $alt2
@@ -2721,6 +2714,7 @@ ozia $2
 pacec  $alt
 padron $2
 padroncine	$3
+padul	$2
 pagane	pag'ane
 pagin	$1
 pagod  $alt

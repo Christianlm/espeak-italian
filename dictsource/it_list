@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2016 November 5 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2016 december 12 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -505,7 +505,7 @@ tu	$u+ $verbf $only
 lui	$u+ $only
 lei	$u+ $only
 noi	$u+ $only
-voi	$u+ $only
+voi	v'o|I	$only
 loro	$u+ $only
 egli	$u+
 ella	$u+
@@ -573,15 +573,15 @@ come	$u+
 contro	$u+
 cui	k'uj
 durante	$brk
-e		$u+ $brk
+e	$u+ $brk
 eccetto    $pause
-ed		$u+ $brk $only
+ed	$u+ $brk $only
 forse	$alt2
 ma	$u+ $brk
 mai	$u+ $verbf
 mentre	$u+
 neanche	$u+	$brk
-né	$u+	$brk  $only
+// né	$u+	$brk  $only
 no	nO $strend
 non	$u	$verbf $only
 o	$u+ $brk
@@ -630,6 +630,7 @@ delle	$u+
 de      $u+ $only
 in	$u 	$only $nounf
 in	'i:n	$atend
+(in arrivo)	_inaR*'ivo
 nel	 $u+	$only
 nello	$u+
 nella	$u+
@@ -2786,6 +2787,7 @@ anticipino	$2
 apostrofano	$2
 appaiano	$2
 appannino	$2
+appartano	$2
 appartenere	$4
 apparvero	$2
 appellino	$2
@@ -3587,6 +3589,7 @@ intravvedere	$4
 intreccino	$2
 intregnano	$2
 introducano	$3
+intrufol	$2
 intuito	intu'i:to	$verb
 invaginano	$3
 invalidano	$2
@@ -3631,6 +3634,7 @@ lamentino	$2
 lancino	$1
 lasciavi	$2
 lascino	$1
+latitano	$1
 laureano	$1
 laureino	l'aw2Rejno
 lavorano	$2 $alt2
@@ -4478,6 +4482,7 @@ svegliano	$1
 sveglino	$1
 sventolano	$1
 svergino	$1
+sventrano	$1 $alt
 svignino	$1
 sviluppano	$2
 sviluppino	$2
@@ -4809,6 +4814,7 @@ portalo	$1
 portatel	$2
 posizionati	$4 $atstart
 presentaci	$2
+procurati	$2 $atstart
 promessomi	$2
 privaci	$1
 proteggiti	$2 $alt2
