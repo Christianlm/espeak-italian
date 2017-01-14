@@ -2837,7 +2837,7 @@ peptidi  $alt
 percentil	$3
 percors  $alt2
 perdio	pe@-*||d'i:o
-perdit $1
+perdit	$1
 perdon	$2 $alt2
 pereg $1
 peretol $2
@@ -2845,7 +2845,6 @@ perez  $alt2
 perfett  $alt
 perfugas $1
 pergam $1
-perieget  $alt
 perier $1  $alt2
 perifrasi $2
 perim $2
@@ -2856,8 +2855,9 @@ peristasi $2
 perizom	pe*idz'Om
 perlomen  $alt2
 permafrost $1
+Permaflex	$1
 permut $1
-peronospor $3  $alt
+peronospor	$3  $alt
 perpetua  $alt
 perpetuo  $alt
 perregaux $2
