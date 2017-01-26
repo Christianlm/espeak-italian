@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2017 January 14 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2017 January 25 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -68,7 +68,7 @@ _stk	baR*'a:ta
 _tld	kon||t'ilde
 _smc	m,ajuskol'e:t:o
 _rev	inv'E:@-*sa
-_tur	@-*oveS'a:ta
+_tur	@-*oveS'ata
 _bar	baR*'a:ta
 _rfx	@-*et@-*ofl'E:ssa
 _crl	k'u@-*lI
@@ -388,7 +388,6 @@ _1M4	unbili'one
 _dpt	v'i@-*gola
 // _0Z2	tSent'ezimi     // 100ths
 _0Z3	mill'ezimi      // 1000ths
-_roman	@-*om'ano
 
 // ordinal numbers
 _#º	o         // ordinal suffix
@@ -583,7 +582,7 @@ ma	$u+ $brk
 mai	$u+ $verbf
 mentre	$u+
 neanche	$u+	$brk
-// né	$u+	$brk  $only
+né	$brk  $only
 no	nO $strend
 non	$u	$verbf $only
 o	$u+ $brk
@@ -597,7 +596,7 @@ più	$u+
 se	$u+ $verbf
 senza	s,Ents2a
 senza	s'Entsa $atend
-si	si: $atend
+sì	si:
 sopra	   $alt2
 sotto	$alt2
 tuttavia	tut:av'ia
@@ -632,7 +631,6 @@ delle	$u+
 de      $u+ $only
 in	$u 	$only $nounf
 in	'i:n	$atend
-(in arrivo)	_inaR*'ivo
 nel	 $u+	$only
 nello	$u+
 nella	$u+
@@ -678,7 +676,7 @@ eravamo	$3
 eravate	$3
 erano	$1
 sarò	$u+ 
-sarai	sa*'aI
+sarai	sa*'a|I
 sarà	$u+
 saremo	$u2+
 sarete	$u2+
@@ -1421,17 +1419,6 @@ ghiacciol	gIatS:'ol
 giovani	dZ'ovani
 giovanil	$3
 gladiol	$2
-glicemia	glitSem'ia
-glicemici	glitS'emitSi
-glicerofosforici	glitSeRofosf'oRitSi
-glicerol	glitSeR'Ol
-glicolici	glik'olitSi
-glutine	$1
-gomitoli	$2
-gonartria	$3
-grandin	$1
-grigia	$1
-grumoli	$1
 guaiscono	gua'iskono
 hinterland	$1
 icono	$2
@@ -1455,7 +1442,6 @@ intraspecifici	$4
 introversi	$3
 intuito	int'u:jto
 ipercheratosi	$5
-iperglicemici	ipe@-*glitS'EmitSi
 ipertono	$3
 ipogastrici	$3
 ipopotam	$3
@@ -1495,7 +1481,7 @@ mezzosoprano	medz:osop@-*'ano
 microb	$1
 microfoni	$2	$alt2
 microtono	$3
-miglior	mil^'O@-*
+miglior	$2 $alt2
 milliampere	mil:i||amp'e@-*
 miop	m'i;op
 monopattin	$3
@@ -1544,7 +1530,7 @@ patrie	$1
 patrono	$2
 pedine	$2
 pedonal	$3
-peggior	$2 $alt
+peggior	$2 $alt2
 perigastrici	$3
 peripezia	$4
 peripezie	pe@-*ipets'ie
@@ -1698,7 +1684,7 @@ veterano	$3
 vicere	$3 $alt2
 videocamera	$4
 vinacciol	$3
-visualizzazion	vizw2ali|dz:atsj'on
+visualizzazion	vizw2ali|dz:atsi'on
 vittime	$1
 vocaboli	$2
 voragini	$2
@@ -1756,7 +1742,7 @@ alessano	$3
 amsterdam	$1
 andorrano	$3
 angeles	$1
-anglican	aNglik'an
+
 angola	$2 $capital
 aostano	aost'ano
 arab $1
@@ -2138,7 +2124,7 @@ stazzano	$2
 stezzano	$2
 submontano	$3
 survoltano	$3
-svizzer	zv'its2:eR
+svizzer	zv'Its2:eR
 swahili	swah'ilI
 sydney	$1
 tagikistan	$2
@@ -2348,6 +2334,7 @@ freud	f@-*'Oid $only
 gandolfi  $alt
 garcía	_^_ES
 gargiul	$2
+gasperi	$1
 gavino	$2
 genesia	$2
 george	dZ'O@-*dZ	$onlys
@@ -2641,7 +2628,7 @@ accampano	$2
 accarezzano	$3 $alt
 accecano	$2
 accechino	$2
-acceler	atS:'E:l,ER
+acceler	atS:'Ele:R
 accelerano	atS:'E:l,eRano
 accelerino	$2
 accennino	$2
@@ -3260,6 +3247,7 @@ entrano	$1
 entrino	$1
 enuncino	$2
 equivalere	$4
+eredit	$2
 ereditano	$2
 ereditino	$2
 erog	$1

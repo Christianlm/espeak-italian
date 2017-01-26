@@ -8,7 +8,7 @@ head       4 80 43 -8 -5
 headextend 0 63 38 13 0
 headlast 45 4 8
 nucleus0 fall 64 8
-nucleus  fall 68 18 22 8
+nucleus  fall 68 18 22 10
 endtune
 
 tune c4
@@ -40,6 +40,7 @@ headlast 75 67 55
 nucleus0 fall2  92 8
 nucleus  fall2  88 74 72 12
 endtune
+
 
 
 

@@ -1,6 +1,6 @@
 ﻿
 //====================================================
-//  Italian, last update DECEMBER 28 2016 by Chris <llajta2012@gmail.com>
+//  Italian, last update january 25 2017 by Chris <llajta2012@gmail.com>
 //====================================================
 
 phoneme : //  Lengthen previous vowel by "length"
@@ -71,10 +71,18 @@ phoneme i
   IF thisPh(isWordEnd) AND thisPh(isNotStressed) AND NOT prevPhW(E) THEN
     ChangePhoneme(I)
   ENDIF
-  IF thisPh(isNotStressed) AND prevPhW(s) AND nextPhW(#o) THEN
-    ChangePhoneme(j)
+  IF thisPh(isNotStressed) AND prevPhW(isNotVowel) AND nextPhW(isVowel) THEN
+    ChangePhoneme(i/) 
   ENDIF
   FMT(vwl_it/i)
+endphoneme
+
+phoneme i/
+  vowel starttype #i endtype #i
+  unstressed
+  length 130
+  IfNextVowelAppend(;)
+  FMT(vwl_it/i, 90)
 endphoneme
 
 phoneme i#    // Used for 'gia_' where [i] is only spoken if stressed
@@ -86,9 +94,8 @@ endphoneme
 
 phoneme I
   vowel starttype #i endtype #i
-  length 140
-  IfNextVowelAppend(;)
-  FMT(vowel/i_4)
+  length 145
+  FMT(vowel/i_7)
 endphoneme
 
 
@@ -132,7 +139,6 @@ phoneme U
   length 140
   FMT(vowel/u_bck2)
 endphoneme
-
 
 phoneme aU
   vowel starttype #a endtype #u
