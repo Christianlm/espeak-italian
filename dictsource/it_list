@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2017 January 25 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2017 feb 2 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -103,13 +103,13 @@ _>	madZ:'oRe||d'I
 *	aste@-*'isko $max3
 $	d'Ol:aRI
 %	pe@-*tS'ENto $max3
-=	ugwale	$max3
-+	pju	$max3
+=	ugw'ale	$max3
++	pj'u	$max3
 /	b'aR*a	$max3
 \	kont@-*ob'a:R*a	$max3
 _|	b'aR*a||ve@-*tik'ale
 &	'a/nd
-©       k'O:pI||raIt
+©       k'O:pi||raIt
 #	kantSellet:o
 @	ki'otS:ola
 ~	tilde
@@ -266,8 +266,8 @@ _zh	tSIn'ezE
 η	'e:ta||g@-*'eka
 ή	'e:ta||g@-*'eka_
 θ	t'e:ta||g@-*'eka_
-ι	I'ota_
-ί	I'ota_
+ι	j'ota_
+ί	j'ota_
 κ	k'ap:a||g@-*'eka_
 λ	l'ambda_
 μ	m'ju:_
@@ -505,9 +505,9 @@ io	$u+ $only
 tu	$u+ $verbf $only
 lui	$u+ $only
 lei	$u+ $only
-noi	$u+ $only
-voi	v'o|I	$only
-loro	$u+ $only
+noi	$u+	$only
+voi	v'oi	$only
+loro	$u+
 egli	$u+
 ella	$u+
 essa	$u+ 
@@ -807,7 +807,7 @@ bunker	$1
 business	_^_EN
 by	b'aI $only
 bye	_^_EN
-bypass	b'aIpas
+bypass	b'aI||p'as
 byte	_^_EN
 cabaret	$3 $only
 camper	$1
@@ -854,7 +854,7 @@ condor	$1
 container	kont'eInE@-*	$onlys
 controller	$2
 converter	$2	$onlys
-copyright	k'O:pI@-*,aIt[
+copyright	k'O:pi@-*,aIt[
 corner	$1
 corporation	ko@-*poR'ESon
 couscous	k,us||k'us
@@ -1244,7 +1244,7 @@ zoom	dz'u:m
 zoster	$1
 élysées	eliz''e
 
-rock'n'roll	@-*,Oken@-*'o:l
+rock'n'roll	@-*,Oken@-*'O:l
 (call center)	k'ol||s'entE@-*
 (e speak)		isp'ik:
 (i phone)		'aI||fon
@@ -1350,18 +1350,8 @@ cuor	kU'OR
 cucchiain	kuk:ia'in
 cupidigia	$3
 curriculum	$2
-debol	$1
-decim	$1
-decimonono	$4
-decine	$2
-decrepit	$2
 dei	d'E:i	$noun
-deleghe	$1
-dentifrici	$3
-deroghe	$1
 desideri	d,Ezid'E:RI	$only
-desossicortisol	$6
-detraibil	det@-*a'ibil
 diamin	di'a:min
 discepol	$2	$alt
 disguid	dizgw2'id
@@ -1415,7 +1405,7 @@ gazzetta	ga|dz:'Et:a
 genesi	$1
 gentil	$2
 geroglifici	dZeRogl'ifitSi
-ghiacciol	gIatS:'ol
+ghiacciol	giatS:'ol
 giovani	dZ'ovani
 giovanil	$3
 gladiol	$2
@@ -1584,7 +1574,7 @@ repubblicano	$4
 restio	@-*est'io
 revoche	$1
 riavvia	@-*iav:'i#a
-riavvio	@-*iav:'IO
+riavvio	@-*iav:'iO
 ricordino	$3 $noun
 rigoli	$1
 rossonere	$3 $alt2
@@ -2403,6 +2393,7 @@ landolf  $alt
 laurenzi  $alt
 lee	_^_en $capital
 lennon	_^_EN
+leonard	l'EonaRd	$onlys
 leopold  $alt
 lewis	l'uIs
 ligabue	$3
@@ -3104,6 +3095,7 @@ degradano	$2
 degradino	$2
 delegano	$1
 deleghino	$1
+deleghi	$1
 delimit	$2
 delimitano	$2
 delimitino	$2
@@ -4684,6 +4676,8 @@ zuccherano	$1
 (quando desideri)	kwando||_|dez'i:deRi
 (quale desideri)	kw2ale||dez'i:deRi
 (quindi desideri)	kw,indi||_dez'i:deRi
+ch'era	k'E*a
+ch'erano	k'E*ano
 
 // pronominal verbs
 

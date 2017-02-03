@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 january 16 by Chris <llajta2012@gmail.com>
+// Last update: 2017 feb 2 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -392,8 +392,10 @@
 
 .group o
 	o	o
-	oi	O%I
+	oi	O%i
 	oi (o_	oj
+	n) oi (_	oi
+	v) oi (_	oi
 	oi (sCA_	o'i
 	o (C%A_	O
 	o (CACA_	O

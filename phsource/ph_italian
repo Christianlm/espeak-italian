@@ -68,7 +68,7 @@ phoneme i
   vowel starttype #i endtype #i
   length 155
   IfNextVowelAppend(;)
-  IF thisPh(isWordEnd) AND thisPh(isNotStressed) AND NOT prevPhW(E) THEN
+  IF thisPh(isWordEnd) AND thisPh(isNotStressed) AND prevPhW(isNotVowel) THEN
     ChangePhoneme(I)
   ENDIF
   IF thisPh(isNotStressed) AND prevPhW(isNotVowel) AND nextPhW(isVowel) THEN
