@@ -80,7 +80,7 @@ endphoneme
 phoneme i/
   vowel starttype #i endtype #i
   unstressed
-  length 130
+  length 100
   IfNextVowelAppend(;)
   FMT(vwl_it/i, 90)
 endphoneme
@@ -95,6 +95,7 @@ endphoneme
 phoneme I
   vowel starttype #i endtype #i
   length 145
+  IfNextVowelAppend(;)
   FMT(vowel/i_7)
 endphoneme
 

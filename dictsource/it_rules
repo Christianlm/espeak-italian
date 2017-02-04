@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 feb 2 by Chris <llajta2012@gmail.com>
+// Last update: 2017 february  4 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -614,8 +614,8 @@
 	v	v
 	vv	v:
 	vvi (A	v:i
-	C) vi (A	vI
-	C) vi (A_	=vI
+	C) vi (A	vi
+	C) vi (A_	=vi
 	A) vino (_	=vino  // verbs
 	@) vo (cano_	=vo
 	in) via (toL04_	vI'a
