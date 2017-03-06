@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2017 march 4 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2017 march 5 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -718,8 +718,8 @@ ebbero	$u1+
 avevo	$u2+   $alt $verbf
 avevi	$u2+	$verbf
 aveva	$u2+	$verbf
-avevamo	$verbf
-avevate	$verbf
+avevamo	$3	$verbf
+avevate	$3	$verbf
 
 avrò	$u+	$verbf
 avrà	$u+
