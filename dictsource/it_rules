@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 march   04 by Chris <llajta2012@gmail.com>
+// Last update: 2017 march   11 by Chris <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -99,6 +99,9 @@
 	re) cat (AL07_	k''at
 	chiedi (L04_	kj'EdI
 	chiudi (L04_	kj'udI
+	canta (L07_	k'anta
+	conta (L07_	k'onta
+	ra) cconta (L07_	k:'Onta
 
 .group d
 	d	d
@@ -607,6 +610,7 @@
 	uder (L04_	'udE@-*
 	uter (L04_	'ute@-*
 	s) ucch (iaL07_	'uk:
+	_) usa (L07_	'u:z,a
 	uvano (_	'uvano // verbs
 	ubano (_	'ubano
 	ustano (_	'u:stano

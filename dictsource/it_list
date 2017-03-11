@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2017 march 5 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2017 march 11 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -2520,6 +2520,7 @@ schwarzenegger	Sv,a:rz@n'Eger
 schwarznegger	Sv,arzn'Eger
 sean	_^_EN $only $capital
 shakespeare	_^_EN
+shanice	S'an,is
 sharazad	$3
 shaun	S'O:n $only
 simon	s'aImon	$onlys
@@ -4826,9 +4827,6 @@ promessomi	$2
 privaci	$1
 proteggiti	$2 $alt2
 pulisciti	$2
-raccontal	$2
-raccontami	$2
-raccontaci	$2
 redigerl	$2
 raddrizzarl	@-*ad:@-*its2:'a@-*l
 rafforzal	$2
@@ -4840,6 +4838,7 @@ resistergli	$2
 restatene	$1
 richiestomi	$2
 riceverne	$2
+ricontal	$2	$alt2
 ricordati	$2 $atstart
 rieccoci	$2
 rieccomi	@-*i'e:k:Omi
