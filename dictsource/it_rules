@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 march   11 by Chris <llajta2012@gmail.com>
+// Last update: 2017 march   29 by Christian Leo Mameli <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -560,6 +560,9 @@
 	sposa (L07_	sp'oza
 	_) sposta (L07_	sp'osta/
 	con) serva (L07_	s'E@-*va
+	_) segna (L07_	s'en^a
+	in) segna (L07_ 	s'En^a
+	_)segnala (L07_	sen^'ala
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
