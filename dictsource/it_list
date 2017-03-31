@@ -1,6 +1,6 @@
 ﻿
 // This file is UTF-8 encoded
-// Updated 2017 march 29 by Christian Leo M, <llajta2012@gmail.com>
+// Updated 2017 march 31 by Christian Leo M, <llajta2012@gmail.com>
 
 //  $alt   change [e] or [o] in the stressed syllable to [E] or [O]
 //  $alt2  change [E] or [O] in the stressed syllable to [e] or [o]
@@ -2945,6 +2945,7 @@ cantano	$1
 cantino	$1
 capitola	$2
 capitolano	$2
+carezzano	$2
 caricano	$1
 catalogano	$2
 cataloghino	$2
