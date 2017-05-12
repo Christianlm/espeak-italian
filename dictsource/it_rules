@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 march   31 by Christian Leo Mameli <llajta2012@gmail.com>
+// Last update: 2017 may   12 by Christian Leo Mameli <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -59,6 +59,7 @@
 	bbano (_	=b:ano // verbs
 	bacia (L07_	b'atSa
 	_) bagna (L07_	b'an^a
+	a) bbraccia (L07_	b:@-*'atS:a
 
 .group c
 	c	k
@@ -504,6 +505,7 @@
 	qui (A	kwj
 	_) quell' (P6t	kwEll
 	_) quest' (P6t	kwest
+	_) quant' (P6t	kwant
 
 .group r
 	r	@-*
@@ -636,6 +638,7 @@
 	_) vota (L07_	v'Ota
 	s) veglia (L07_	v'el^a
 	volta (L07_	v'Olta
+	_) v' (P2t	v
 
 .group w
 	w	w2
