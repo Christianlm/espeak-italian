@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 may   12 by Christian Leo Mameli <llajta2012@gmail.com>
+// Last update: 2017 may   31 by Christian Leo Mameli <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -91,6 +91,7 @@
 	in) cer (L04_	=tSe@-*
 	cuocer (L04_	kU'OtSe@-*
 	compra (L07_	k'omp@-*a
+	_L04Z) capite (_	kap'ite/
 	_L04Z) capit (A_	k'a:p,it
 	_L04Z) capit (ano_	k'a:p,it
 	correr (L04_	k'o:R*eR
