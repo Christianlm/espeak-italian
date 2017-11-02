@@ -1,7 +1,7 @@
 
 // Italian translation rules
 // This file is UTF-8 encoded
-// Last update: 2017 july 31 by Christian Leo Mameli <llajta2012@gmail.com>
+// Last update: 2017 november 2 by Christian Leo Mameli <llajta2012@gmail.com>
 // letter groups
 // A  any vowel
 // C  any consonant
@@ -37,14 +37,15 @@
 	@) a (bile_	'a
 	@) a (ggine_	'a
 	_) ae (r	aE
-	avano (_	'avano
+	avano (_	'avano   // verbs
 	a (tterA_	'a
 	_) all' (P4t	all
 	_) anch' (P5t	ank
 	@) amo (L04_	'amo  // Pron.s verbs
 	Ci) amo (L04_	'amo
 	@) ander (L04_	'andE@-*
-		ate (L04_+	'ate
+	ate (L04_+	'ate
+	abb) assa (L07_	'assa
 	_L04Z) auguri (_	'awguRI
 	astano (_	'astano   // verbs
 
@@ -250,6 +251,7 @@
 	godi (L04_	g'Odi
 	@) glier (L04_	=l^E@-*
 	@) guer (L04_	=gUe@-*
+	grida (L07_	g@-*'ida
 	guono (_	=gw2ono   // verbs
 	o) gnano (_	=n^ano
 	A) gnano (_	n^'ano   // exceptions
@@ -498,9 +500,11 @@
 	a) pprova (L07_	p:@-*'Ova
 	_) posa (L07_	p'oza
 	pro) posto (L07_	p'osto
+	passa (L07_	p'a:ss,a
 	pie (galA_	pI'e
 	tera) pi (A_	p'i
 	tro) pi (A_	p'i
+	pensa (L07_	p'Ensa
 
 .group q
 	q	k
@@ -569,6 +573,9 @@
 	_) segna (L05_	s'en^a
 	in) segna (L07_ 	s'En^a
 	_)segnala (L07_	sen^'ala
+	specifica (L07_	spetS'ifika
+	stringi (L04_	st@-*'indZi/
+	stra (ppaL07_	st@-*'a:
 	A) scano (_	=skano  // verbs
 	sciano (_	=Sano
 	A) schiano (_	=skiano
@@ -602,6 +609,8 @@
 	au) tentica (L07_	t'ENtIka/
 	a) ttiva (L07_	t:'iva
 	taglia (L07_	t'al^a
+	tira (L07_	t'iRa
+	telefona (L07_	tel'Ef,ona
 	L02) tre (_	t@-*'e
 	_) tutt' (P5t	tut:
 
@@ -625,6 +634,7 @@
 	ustano (_	'u:stano
 	C) uo (tano_	U'O
 	uomini (_	w2'Omini
+	fanc) u (lA_	'u:
 
 .group v
 	v	v
@@ -706,10 +716,19 @@
 	amma) zziamo (L04_	_tsi'a:mo
 	sbara) zz (arL04_	ts:
 
+.group ç
+
+	ç	s
+	A) ç (A	T
+	C) ç(A	s
+
 .group
 
 	ñ	n^
 	ć (_	tS
+	ș	S
+	ş	S
+
 	_L16_)	: (_L17D_	_%%E_	// Say time
 
 	á	''a
