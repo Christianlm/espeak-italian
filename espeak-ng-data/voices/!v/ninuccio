@@ -1,0 +1,37 @@
+
+// A voice variant  with a strange Italian accent ©2013 by llajta2012@gmail.com
+name ninuccio
+language variant
+phonemes phonemes
+phonemes  ph_base2
+phonemes ph_consonants
+
+
+pitch 80 112
+
+formant 0 80 135 100
+formant 1 100 100 100
+formant 2 100 100 95
+formant 3 100 100 90
+formant 4 100 90 120
+formant 5 90 100 100
+formant 6 200 120 100
+formant 7 200 120 100
+formant 8 200 120 100
+
+stressLength 0 1 2 3 4 5 6 7
+stressAdd 165 100 170 140 0 0 227 299
+stressAmp 16 16 16 14 20 22 22 24
+flutter 1 
+roughness 4 
+voicing 120
+
+replace 3 e @
+replace 0 E e/
+replace 0 s S~
+replace 0 k Q~
+replace 3 o @
+replace 0 O o
+replace 0 t d
+replace 0 ts dz
+

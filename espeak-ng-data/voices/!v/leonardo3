@@ -1,0 +1,38 @@
+
+// Variant leonardo for eSpeak ©2013-2017 by llajta2012@gmail.com
+// set stress amp: last stress sillable 22 to 18 25 feb 2018
+// set stress length, last stressed syllable 305 to 308 25 feb 2018
+
+// improved tone values
+// modified stressAdd respect to last statements in tr_language.
+
+
+language variant
+name leonardo3
+
+pitch 84 114
+formant 0 110 130 125 70
+formant 1 87 82 104
+formant 2 104 92 85
+formant 3 105 94 90
+formant 4 129 80 98
+formant 5 180 35 110
+formant 6 198 80 80
+formant 7 85 40 82
+formant 8 119 85 80
+
+// tone 500 245 600 180 1200 160 2000 165
+// tone 600 155 1200 55 2000 155 4000 50
+tone 600 225 1200 190 2232 205 3989 110
+// tone 150 220 450 250 900 80 3000 240
+// tone 210 225 600 205 1200 144 4989 175
+
+stressLength 160 140 150 165 0 0 218 308
+stressAmp 17 15 18 16 20 22 22 18
+
+flutter 1
+roughness 3
+voicing 88
+consonants 96 110
+words 0 0
+
